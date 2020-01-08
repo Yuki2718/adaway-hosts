@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/01/08
-# block hosts: 31818 entry
+# last updated: 2020/01/09
+# block hosts: 31817 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -48778,7 +48778,6 @@ white yt3.ggpht.com
 127.0.0.1 metrics.southwest.com
 
 # sp-click2.jp
-127.0.0.1 img44.sp-click2.jp
 127.0.0.1 sp-click2.jp
 
 # spacash.com
