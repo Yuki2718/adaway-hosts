@@ -5,7 +5,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/08
-# block hosts: 31827 entry
+# block hosts: 31824 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -9759,7 +9759,6 @@ white yt3.ggpht.com
 127.0.0.1 android.public.astrsk.net
 127.0.0.1 astrsk.net
 127.0.0.1 cdn.astrsk.net
-127.0.0.1 img.astrsk.net
 127.0.0.1 js.astrsk.net
 127.0.0.1 public.astrsk.net
 
@@ -15165,9 +15164,6 @@ white yt3.ggpht.com
 
 # clocklink.com
 127.0.0.1 www.clocklink.com
-
-# clothingjp.com
-127.0.0.1 www.clothingjp.com
 
 # cloudapp.net
 127.0.0.1 np7beacon.cloudapp.net
@@ -43868,9 +43864,6 @@ white yt3.ggpht.com
 # pussyharem.com
 127.0.0.1 stream.pussyharem.com
 127.0.0.1 www.pussyharem.com
-
-# puthtml.com
-127.0.0.1 pl6457533.puthtml.com
 
 # pv4u.com
 127.0.0.1 pv4u.com
