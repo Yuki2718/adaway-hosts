@@ -5,7 +5,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/08
-# block hosts: 31820 entry
+# block hosts: 31818 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -35648,9 +35648,6 @@ white yt3.ggpht.com
 # mediaswitch.nl
 127.0.0.1 www.mediaswitch.nl
 
-# mediatakeout.com
-127.0.0.1 server2.mediatakeout.com
-
 # mediatarget.com
 127.0.0.1 search.mediatarget.com
 
@@ -45114,7 +45111,6 @@ white yt3.ggpht.com
 127.0.0.1 oas.repubblica.it
 
 # request.net
-127.0.0.1 imgs.request.net
 127.0.0.1 www1.request.net
 
 # research-artisan.com
