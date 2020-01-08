@@ -5,7 +5,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/09
-# block hosts: 31816 entry
+# block hosts: 31815 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -24700,9 +24700,6 @@ white yt3.ggpht.com
 
 # gogoceleb.com
 127.0.0.1 hidden.gogoceleb.com
-
-# gogoshemales.com
-127.0.0.1 www.gogoshemales.com
 
 # gogotools.com
 127.0.0.1 www.gogotools.com
