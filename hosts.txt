@@ -5,7 +5,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/08
-# block hosts: 31822 entry
+# block hosts: 31820 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -57096,9 +57096,6 @@ white yt3.ggpht.com
 127.0.0.1 tu.connect.wunderloop.net
 127.0.0.1 wunderloop.net
 
-# ww1-mediaplex.com
-127.0.0.1 ww1-mediaplex.com
-
 # ww6z7lrg3a.top
 127.0.0.1 ww6z7lrg3a.top
 
@@ -58513,7 +58510,6 @@ white yt3.ggpht.com
 # zango.com
 127.0.0.1 analytics.zango.com
 127.0.0.1 cds.zango.com
-127.0.0.1 clickpixcursors.powered-by.zango.com
 127.0.0.1 coolvuurwerk.powered-by.zango.com
 127.0.0.1 creative.zango.com
 127.0.0.1 dane-cook.powered-by.zango.com
