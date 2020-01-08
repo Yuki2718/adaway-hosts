@@ -5,7 +5,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/08
-# block hosts: 31824 entry
+# block hosts: 31822 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -26342,7 +26342,6 @@ white yt3.ggpht.com
 127.0.0.1 ehg-wynnresortsltd.hitbox.com
 127.0.0.1 ehg-y2m.hitbox.com
 127.0.0.1 ehg-yakpak.hitbox.com
-127.0.0.1 ehg-youtube.hitbox.com
 127.0.0.1 ehg-zentropypartners.hitbox.com
 127.0.0.1 ehg-zoomerang.hitbox.com
 127.0.0.1 ehg-zvents.hitbox.com
@@ -34880,9 +34879,6 @@ white yt3.ggpht.com
 
 # maktoobblog.com
 127.0.0.1 oas.maktoobblog.com
-
-# maledomination.net
-127.0.0.1 www.maledomination.net
 
 # maleflixxx.tv
 127.0.0.1 ads.maleflixxx.tv
