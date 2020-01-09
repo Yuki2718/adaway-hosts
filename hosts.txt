@@ -5,7 +5,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/09
-# block hosts: 31884 entry
+# block hosts: 31880 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -283,9 +283,6 @@ white yt3.ggpht.com
 
 # 16kxs.com
 127.0.0.1 wap10.16kxs.com
-
-# 172.75
-127.0.0.1 210.136.172.75
 
 # 1800banners.com
 127.0.0.1 www.1800banners.com
@@ -627,9 +624,6 @@ white yt3.ggpht.com
 
 # 2618.com
 127.0.0.1 adserver.2618.com
-
-# 28.155
-127.0.0.1 218.145.28.155
 
 # 28277160.com
 127.0.0.1 28277160.com
@@ -29342,7 +29336,6 @@ white yt3.ggpht.com
 127.0.0.1 imu.com.cn
 
 # imupdates.net
-127.0.0.1 imupdates.net
 127.0.0.1 www.imupdates.net
 
 # imusicaccess.com
@@ -46945,9 +46938,6 @@ white yt3.ggpht.com
 # sensismediasmart.com.au
 127.0.0.1 ad.sensismediasmart.com.au
 127.0.0.1 sensismediasmart.com.au
-
-# senzor.dk
-127.0.0.1 tekstannonce.senzor.dk
 
 # seo-hits.de
 127.0.0.1 www.seo-hits.de
