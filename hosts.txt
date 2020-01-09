@@ -5,7 +5,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/09
-# block hosts: 31876 entry
+# block hosts: 31874 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -25793,9 +25793,6 @@ white yt3.ggpht.com
 127.0.0.1 hbytracker.com
 127.0.0.1 www.hbytracker.com
 
-# hc1.net
-127.0.0.1 stats.hc1.net
-
 # hccd.info
 127.0.0.1 hccd.info
 
@@ -36043,7 +36040,6 @@ white yt3.ggpht.com
 127.0.0.1 line18.metriweb.be
 127.0.0.1 line19.metriweb.be
 127.0.0.1 line20.metriweb.be
-127.0.0.1 line24.metriweb.be
 127.0.0.1 line32.metriweb.be
 127.0.0.1 rtbf09.metriweb.be
 127.0.0.1 skynet-news.metriweb.be
