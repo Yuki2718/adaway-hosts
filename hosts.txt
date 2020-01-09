@@ -5,7 +5,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/09
-# block hosts: 31880 entry
+# block hosts: 31876 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -8459,7 +8459,6 @@ white yt3.ggpht.com
 
 # allgreatvideo.com
 127.0.0.1 allgreatvideo.com
-127.0.0.1 fertyu.allgreatvideo.com
 
 # allinsearch.net
 127.0.0.1 allinsearch.net
@@ -8731,7 +8730,6 @@ white yt3.ggpht.com
 127.0.0.1 bro1.s3.amazonaws.com
 127.0.0.1 btrpreroll.s3.amazonaws.com
 127.0.0.1 campaign-tapad.s3.amazonaws.com
-127.0.0.1 click.s3.amazonaws.com
 127.0.0.1 clutchmag.s3.amazonaws.com
 127.0.0.1 ecommstats.s3.amazonaws.com
 127.0.0.1 entrecard.s3.amazonaws.com
@@ -14291,7 +14289,6 @@ white yt3.ggpht.com
 127.0.0.1 kw62.chinoc.net
 127.0.0.1 kw82.chinoc.net
 127.0.0.1 kw83.chinoc.net
-127.0.0.1 kw85.chinoc.net
 127.0.0.1 v5.chinoc.net
 
 # chint-lf.com
@@ -45305,7 +45302,6 @@ white yt3.ggpht.com
 127.0.0.1 ads0.revenue.net
 127.0.0.1 ads1.revenue.net
 127.0.0.1 ads2.revenue.net
-127.0.0.1 count.revenue.net
 127.0.0.1 images.revenue.net
 127.0.0.1 mediatrack.revenue.net
 127.0.0.1 revenue.net
