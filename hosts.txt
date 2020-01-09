@@ -5,7 +5,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/10
-# block hosts: 31872 entry
+# block hosts: 31869 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -9446,7 +9446,6 @@ white yt3.ggpht.com
 
 # apptrackr.net
 127.0.0.1 apptrackr.net
-127.0.0.1 www.apptrackr.net
 
 # apptrackr.us
 127.0.0.1 apptrackr.us
@@ -28400,7 +28399,6 @@ white yt3.ggpht.com
 
 # i-web-search.com
 127.0.0.1 i-web-search.com
-127.0.0.1 www.i-web-search.com
 
 # i-xzone.com
 127.0.0.1 i-xzone.com
@@ -47454,7 +47452,6 @@ white yt3.ggpht.com
 127.0.0.1 nicolekidman.sexybabesx.com
 127.0.0.1 nicolevaidisova.sexybabesx.com
 127.0.0.1 pamela.sexybabesx.com
-127.0.0.1 parishilton.sexybabesx.com
 127.0.0.1 penelope.sexybabesx.com
 127.0.0.1 rachelbilson.sexybabesx.com
 127.0.0.1 rachelmcadams.sexybabesx.com
