@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/01/09
-# block hosts: 31874 entry
+# last updated: 2020/01/10
+# block hosts: 31872 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -45205,7 +45205,6 @@ white yt3.ggpht.com
 
 # research-int.se
 127.0.0.1 internetpanel.research-int.se
-127.0.0.1 minhembio.research-int.se
 127.0.0.1 panel.research-int.se
 127.0.0.1 panel2.research-int.se
 127.0.0.1 prisjakt.research-int.se
@@ -54781,7 +54780,6 @@ white yt3.ggpht.com
 127.0.0.1 cachebanner.vegasred.com
 
 # vegnews.com
-127.0.0.1 glo.vegnews.com
 127.0.0.1 lance.vegnews.com
 
 # veille-referencement.com
