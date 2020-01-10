@@ -2,10 +2,11 @@
 #
 # author: logroid
 #         http://logroid.blogspot.jp/
+#         https://github.com/logroid/adaway-hosts
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/10
-# block hosts: 31869 entry
+# block hosts: 31867 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -26196,7 +26197,6 @@ white yt3.ggpht.com
 127.0.0.1 ehg-bareweb.hitbox.com
 127.0.0.1 ehg-bbc.hitbox.com
 127.0.0.1 ehg-bbcworldwide.hitbox.com
-127.0.0.1 ehg-bce.hitbox.com
 127.0.0.1 ehg-bestbuy.hitbox.com
 127.0.0.1 ehg-bestwestern.hitbox.com
 127.0.0.1 ehg-bizjournals.hitbox.com
@@ -47469,7 +47469,6 @@ white yt3.ggpht.com
 127.0.0.1 serenawilliams.sexybabesx.com
 127.0.0.1 sexybabesx.com
 127.0.0.1 shakira.sexybabesx.com
-127.0.0.1 shannendoherty.sexybabesx.com
 127.0.0.1 sharapova.sexybabesx.com
 127.0.0.1 sharonstone.sexybabesx.com
 127.0.0.1 sherylcrow.sexybabesx.com
