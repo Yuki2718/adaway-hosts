@@ -5,7 +5,7 @@
 
 AdAway 用の hosts ファイルです。
 
-名前解決ができなくなった domain は随時削除しています。
+名前解決ができなくなった domain は随時削除しています。  
 要望・報告は issue or [Twitter](https://twitter.com/logroid) or [blog](http://logroid.blogspot.com/2012/06/adaway-hosts-for-japan.html) のコメントにお願いします。
 
 ---
