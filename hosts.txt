@@ -1,12 +1,12 @@
 # AdAway Blocking Hosts File for Japan
 #
 # author: logroid
-#         http://logroid.blogspot.jp/
 #         https://github.com/logroid/adaway-hosts
+#         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/10
-# block hosts: 31866 entry
+# block hosts: 31865 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -4509,7 +4509,6 @@ white yt3.ggpht.com
 127.0.0.1 cgm.adbureau.net
 127.0.0.1 content.adbureau.net
 127.0.0.1 cooking.adbureau.net
-127.0.0.1 creview-images.adbureau.net
 127.0.0.1 creview.adbureau.net
 127.0.0.1 curtco-images.adbureau.net
 127.0.0.1 devart.adbureau.net
