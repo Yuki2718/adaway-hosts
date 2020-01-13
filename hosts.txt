@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/14
-# block hosts: 80223 entry
+# block hosts: 80222 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -138525,9 +138525,6 @@ white yt3.ggpht.com
 
 # web3-ads.com
 127.0.0.1 ads.web3-ads.com
-
-# web44.net
-127.0.0.1 0utw.web44.net
 
 # web4friends.com
 127.0.0.1 web4friends.com
