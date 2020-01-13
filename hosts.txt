@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/13
-# block hosts: 80226 entry
+# block hosts: 80225 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -125650,7 +125650,6 @@ white yt3.ggpht.com
 127.0.0.1 ad.supportal.hu
 
 # supportenquiry.com
-127.0.0.1 supportenquiry.com
 127.0.0.1 www.supportenquiry.com
 
 # supportfarma-controles.com.br
