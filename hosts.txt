@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/01/13
-# block hosts: 80225 entry
+# last updated: 2020/01/14
+# block hosts: 80224 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -92024,9 +92024,6 @@ white yt3.ggpht.com
 
 # marketingbyraj.com
 127.0.0.1 marketingbyraj.com
-
-# marketingebookz.com
-127.0.0.1 www.marketingebookz.com
 
 # marketingenhanced.com
 127.0.0.1 marketingenhanced.com
