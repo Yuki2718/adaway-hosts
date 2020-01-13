@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/14
-# block hosts: 31858 entry
+# block hosts: 31856 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -5941,9 +5941,6 @@ white yt3.ggpht.com
 # adpost.com
 127.0.0.1 adpost.com
 
-# adpostinjectasync.nhn
-127.0.0.1 adpostinjectasync.nhn
-
 # adpower.bg
 127.0.0.1 e.adpower.bg
 
@@ -10511,9 +10508,6 @@ white yt3.ggpht.com
 
 # banmamedia.com
 127.0.0.1 banmamedia.com
-
-# banned-celebpics.com
-127.0.0.1 tracker.banned-celebpics.com
 
 # banner-count.com
 127.0.0.1 banner-count.com
