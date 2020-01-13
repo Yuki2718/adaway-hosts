@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/13
-# block hosts: 31864 entry
+# block hosts: 31861 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -22057,9 +22057,6 @@ white yt3.ggpht.com
 127.0.0.1 fineclicks.com
 127.0.0.1 www.fineclicks.com
 
-# fineliving.com
-127.0.0.1 te.fineliving.com
-
 # fingersoft.net
 127.0.0.1 ads.fingersoft.net
 
@@ -42715,7 +42712,6 @@ white yt3.ggpht.com
 # plugrush.com
 127.0.0.1 mobile.plugrush.com
 127.0.0.1 plugrush.com
-127.0.0.1 prpu.plugrush.com
 127.0.0.1 pu.plugrush.com
 127.0.0.1 widget.plugrush.com
 
@@ -51769,7 +51765,6 @@ white yt3.ggpht.com
 
 # thesmokinggun.com
 127.0.0.1 ads.thesmokinggun.com
-127.0.0.1 gdyn.thesmokinggun.com
 127.0.0.1 oascentral.thesmokinggun.com
 
 # thesoftbill.com
