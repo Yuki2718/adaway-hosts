@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/01/10
-# block hosts: 31865 entry
+# last updated: 2020/01/13
+# block hosts: 31864 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -8560,7 +8560,6 @@ white yt3.ggpht.com
 127.0.0.1 huanqiu.allyes.com
 127.0.0.1 jstv.allyes.com
 127.0.0.1 jstvimedia.allyes.com
-127.0.0.1 shadf.allyes.com
 127.0.0.1 smartmedia.allyes.com
 127.0.0.1 smarttrade.allyes.com
 127.0.0.1 sroomafp.allyes.com
