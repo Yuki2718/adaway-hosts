@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/14
-# block hosts: 32161 entry
+# block hosts: 32152 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -7464,7 +7464,6 @@ white yt3.ggpht.com
 127.0.0.1 ace.advertising.com
 127.0.0.1 adaptv.advertising.com
 127.0.0.1 adserve.advertising.com
-127.0.0.1 advertising.com
 127.0.0.1 bannerfarm.ace.advertising.com
 127.0.0.1 beta.ace.advertising.com
 127.0.0.1 dbs.advertising.com
@@ -8521,6 +8520,7 @@ white yt3.ggpht.com
 127.0.0.1 ads.allaboutvision.com
 
 # allaccess.com.ph
+127.0.0.1 adcontent2.allaccess.com.ph
 127.0.0.1 ads.allaccess.com.ph
 
 # alladultchannel.com
@@ -11371,6 +11371,9 @@ white yt3.ggpht.com
 # bestin.net
 127.0.0.1 www.bestin.net
 
+# bestlandcn.com
+127.0.0.1 bestlandcn.com
+
 # bestlifeonline.com
 127.0.0.1 www62.bestlifeonline.com
 
@@ -11946,7 +11949,6 @@ white yt3.ggpht.com
 
 # blacksnake.com
 127.0.0.1 blacksnake.com
-127.0.0.1 www.blacksnake.com
 
 # blackystars.com
 127.0.0.1 ad.blackystars.com
@@ -12482,6 +12484,9 @@ white yt3.ggpht.com
 
 # boobsfly.com
 127.0.0.1 boobsfly.com
+
+# book-mark.net
+127.0.0.1 book-mark.net
 
 # bookadorable.cn
 127.0.0.1 bookadorable.cn
@@ -14122,7 +14127,6 @@ white yt3.ggpht.com
 
 # cdngc.net
 127.0.0.1 adpon-prd-asset.sslcs.cdngc.net
-127.0.0.1 j.zucks.net.zimg.jp.cdngc.net
 
 # cdnpark.com
 127.0.0.1 i.cdnpark.com
@@ -20327,6 +20331,9 @@ white yt3.ggpht.com
 # emcweb.com
 127.0.0.1 ads.csi.emcweb.com
 
+# emedia.com.my
+127.0.0.1 iklan.emedia.com.my
+
 # emediate.dk
 127.0.0.1 ad1.emediate.dk
 127.0.0.1 emediate.dk
@@ -21579,7 +21586,6 @@ white yt3.ggpht.com
 127.0.0.1 syndication.exoclick.com
 
 # exosrv.com
-127.0.0.1 exosrv.com
 127.0.0.1 syndication.exosrv.com
 
 # expandsearch.com
@@ -22542,7 +22548,6 @@ white yt3.ggpht.com
 127.0.0.1 flashplayer-adobe.com
 
 # flashpoint.bm
-127.0.0.1 a.flashpoint.bm
 127.0.0.1 www.flashpoint.bm
 
 # flashpointmodelsearch.com
@@ -23585,6 +23590,7 @@ white yt3.ggpht.com
 127.0.0.1 www.friendslinks.com
 
 # fringe81.com
+127.0.0.1 fringe81.com
 127.0.0.1 www.fringe81.com
 
 # froggie-mm.com
@@ -23889,6 +23895,9 @@ white yt3.ggpht.com
 
 # gajmp.com
 127.0.0.1 tracking.gajmp.com
+
+# galaxien.com
+127.0.0.1 galaxien.com
 
 # gallerytrafficservice.com
 127.0.0.1 www.gallerytrafficservice.com
@@ -26174,9 +26183,6 @@ white yt3.ggpht.com
 127.0.0.1 advert.heise.de
 127.0.0.1 oas.heise.de
 
-# hellasnet.gr
-127.0.0.1 adserver.hellasnet.gr
-
 # hellobar.com
 127.0.0.1 ping.hellobar.com
 
@@ -26407,9 +26413,6 @@ white yt3.ggpht.com
 127.0.0.1 cus.himogo.com
 127.0.0.1 imp.himogo.com
 127.0.0.1 req.himogo.com
-
-# hindsight.com
-127.0.0.1 hindsight.com
 
 # hinet.net
 127.0.0.1 ad.hinet.net
@@ -26877,6 +26880,9 @@ white yt3.ggpht.com
 
 # hitslinks.com
 127.0.0.1 counter.hitslinks.com
+
+# hitslog.com
+127.0.0.1 hitslog.com
 
 # hitsniffer.com
 127.0.0.1 www.hitsniffer.com
@@ -31102,9 +31108,6 @@ white yt3.ggpht.com
 # internet.ge
 127.0.0.1 counter.internet.ge
 
-# internet.gr
-127.0.0.1 bannergrabber.internet.gr
-
 # internetcom.jp
 127.0.0.1 ad.internetcom.jp
 
@@ -33378,6 +33381,9 @@ white yt3.ggpht.com
 # lesbianpersonals.com
 127.0.0.1 ads.lesbianpersonals.com
 
+# lesechos.fr
+127.0.0.1 realmedia.lesechos.fr
+
 # letgohome.com
 127.0.0.1 letgohome.com
 127.0.0.1 www.letgohome.com
@@ -33586,6 +33592,9 @@ white yt3.ggpht.com
 127.0.0.1 img.link-trade.net
 127.0.0.1 link-trade.net
 127.0.0.1 script.link-trade.net
+
+# link.net
+127.0.0.1 link.net
 
 # link.ru
 127.0.0.1 link.link.ru
@@ -33906,9 +33915,6 @@ white yt3.ggpht.com
 
 # lista.cz
 127.0.0.1 ad.lista.cz
-
-# listat.biz
-127.0.0.1 listat.biz
 
 # listinus.de
 127.0.0.1 banner.listinus.de
@@ -35287,7 +35293,6 @@ white yt3.ggpht.com
 
 # mainichi.jp
 127.0.0.1 ad.mainichi.jp
-127.0.0.1 an.mainichi.jp
 
 # mainpean.de
 127.0.0.1 faq.mainpean.de
@@ -35898,9 +35903,6 @@ white yt3.ggpht.com
 
 # mediaarmor.com
 127.0.0.1 ads2.mediaarmor.com
-
-# mediab.uy
-127.0.0.1 mediab.uy
 
 # mediabrilliant.com
 127.0.0.1 mediabrilliant.com
@@ -39771,9 +39773,6 @@ white yt3.ggpht.com
 # newsday.com
 127.0.0.1 te.newsday.com
 
-# newsdigest.jp
-127.0.0.1 ads.newsdigest.jp
-
 # newsdigital.net
 127.0.0.1 ads.newsdigital.net
 
@@ -40015,7 +40014,6 @@ white yt3.ggpht.com
 127.0.0.1 ad.nicovideo.jp
 127.0.0.1 ads.nicovideo.jp
 127.0.0.1 api.uad.nicovideo.jp
-127.0.0.1 uad-api.nicovideo.jp
 127.0.0.1 urc.nicovideo.jp
 
 # nifty.com
@@ -41428,6 +41426,9 @@ white yt3.ggpht.com
 
 # otapict.com
 127.0.0.1 otapict.com
+
+# otenet.gr
+127.0.0.1 adman.otenet.gr
 
 # otherprofit.com
 127.0.0.1 otherprofit.com
@@ -43705,6 +43706,9 @@ white yt3.ggpht.com
 # portugalmail.net
 127.0.0.1 adserver.portugalmail.net
 
+# portugalmail.pt
+127.0.0.1 adserver.portugalmail.pt
+
 # posing.biz
 127.0.0.1 www.posing.biz
 
@@ -43724,9 +43728,6 @@ white yt3.ggpht.com
 
 # potedly.co
 127.0.0.1 potedly.co
-
-# potenza.cz
-127.0.0.1 potenza.cz
 
 # power-cleaner.com
 127.0.0.1 power-cleaner.com
@@ -44681,7 +44682,6 @@ white yt3.ggpht.com
 127.0.0.1 questseek.com
 
 # quickcleaner.com
-127.0.0.1 quickcleaner.com
 127.0.0.1 www.quickcleaner.com
 
 # quickdfw.com
@@ -45353,9 +45353,6 @@ white yt3.ggpht.com
 # reargooduches.pro
 127.0.0.1 reargooduches.pro
 
-# reasedoper.pw
-127.0.0.1 reasedoper.pw
-
 # reason.com
 127.0.0.1 ads.reason.com
 
@@ -45590,7 +45587,6 @@ white yt3.ggpht.com
 127.0.0.1 www.registrybot.com
 
 # registryclear.com
-127.0.0.1 registryclear.com
 127.0.0.1 www.registryclear.com
 
 # registrydefender.com
@@ -48994,9 +48990,6 @@ white yt3.ggpht.com
 127.0.0.1 f10.smaato.net
 127.0.0.1 smaato.net
 127.0.0.1 soma.smaato.net
-
-# smac-ssp.com
-127.0.0.1 smac-ssp.com
 
 # smart-browser.com
 127.0.0.1 smart-browser.com
@@ -53324,7 +53317,6 @@ white yt3.ggpht.com
 127.0.0.1 tr-af.com
 
 # tr.cx
-127.0.0.1 homeloan.tr.cx
 127.0.0.1 www.homeloan.tr.cx
 
 # tr100.net
@@ -53839,6 +53831,7 @@ white yt3.ggpht.com
 127.0.0.1 www.traffictrader.net
 
 # traffictraders.com
+127.0.0.1 traffictraders.com
 127.0.0.1 www.traffictraders.com
 
 # trafficvalet.com
@@ -56134,9 +56127,6 @@ white yt3.ggpht.com
 # voyeurweb.com
 127.0.0.1 banners.voyeurweb.com
 
-# vpn1service.com
-127.0.0.1 vpn1service.com
-
 # vpntrack.com
 127.0.0.1 www.vpntrack.com
 
@@ -56487,9 +56477,6 @@ white yt3.ggpht.com
 127.0.0.1 files.weatherstudio.com
 127.0.0.1 my.weatherstudio.com
 127.0.0.1 www.weatherstudio.com
-
-# web-analysis.click
-127.0.0.1 web-analysis.click
 
 # web-analytics.info
 127.0.0.1 www.web-analytics.info
@@ -58438,6 +58425,9 @@ white yt3.ggpht.com
 # xtrafic.ro
 127.0.0.1 www.xtrafic.ro
 
+# xtremetop100.com
+127.0.0.1 xtremetop100.com
+
 # xtrocash.org
 127.0.0.1 xtrocash.org
 
@@ -59631,7 +59621,6 @@ white yt3.ggpht.com
 # zimg.jp
 127.0.0.1 j.zucks.net.zimg.jp
 127.0.0.1 static.zucks.net.zimg.jp
-127.0.0.1 zucks.net.zimg.jp
 
 # zintext.com
 127.0.0.1 zintext.com
