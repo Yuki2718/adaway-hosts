@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/14
-# block hosts: 31856 entry
+# block hosts: 31854 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -8949,9 +8949,6 @@ white yt3.ggpht.com
 # angloinfo.com
 127.0.0.1 mediax.angloinfo.com
 127.0.0.1 mediaz.angloinfo.com
-
-# angop.ao
-127.0.0.1 ads.angop.ao
 
 # animediablo.com
 127.0.0.1 animediablo.com
@@ -58639,7 +58636,6 @@ white yt3.ggpht.com
 127.0.0.1 tvf.zango.com
 127.0.0.1 userbars.org.powered-by.zango.com
 127.0.0.1 vimalonline.powered-by.zango.com
-127.0.0.1 whatsthatcode.com.powered-by.zango.com
 127.0.0.1 wwedivas.powered-by.zango.com
 127.0.0.1 www.zango.com
 127.0.0.1 xtreme-cheats.powered-by.zango.com
