@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/14
-# block hosts: 32152 entry
+# block hosts: 32133 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -3556,6 +3556,7 @@ white yt3.ggpht.com
 127.0.0.1 m.fr.a2dfp.net
 
 # a4.tl
+127.0.0.1 a4.tl
 127.0.0.1 apptrk.a4.tl
 
 # a411.com
@@ -4792,7 +4793,6 @@ white yt3.ggpht.com
 127.0.0.1 www.addbags.com
 
 # addclips.org
-127.0.0.1 addclips.org
 127.0.0.1 img.addclips.org
 127.0.0.1 js.addclips.org
 127.0.0.1 www.addclips.org
@@ -5560,8 +5560,6 @@ white yt3.ggpht.com
 # adman.gr
 127.0.0.1 adman.gr
 127.0.0.1 ads3.adman.gr
-127.0.0.1 r2d2.adman.gr
-127.0.0.1 www.adman.gr
 
 # admanage.com
 127.0.0.1 admanage.com
@@ -6996,7 +6994,6 @@ white yt3.ggpht.com
 127.0.0.1 ad.adtracking.me
 
 # adtrade.net
-127.0.0.1 adtrade.net
 127.0.0.1 www.adtrade.net
 
 # adtrade.ro
@@ -7464,6 +7461,7 @@ white yt3.ggpht.com
 127.0.0.1 ace.advertising.com
 127.0.0.1 adaptv.advertising.com
 127.0.0.1 adserve.advertising.com
+127.0.0.1 advertising.com
 127.0.0.1 bannerfarm.ace.advertising.com
 127.0.0.1 beta.ace.advertising.com
 127.0.0.1 dbs.advertising.com
@@ -8520,7 +8518,6 @@ white yt3.ggpht.com
 127.0.0.1 ads.allaboutvision.com
 
 # allaccess.com.ph
-127.0.0.1 adcontent2.allaccess.com.ph
 127.0.0.1 ads.allaccess.com.ph
 
 # alladultchannel.com
@@ -8619,9 +8616,6 @@ white yt3.ggpht.com
 # allstar.cz
 127.0.0.1 ad.allstar.cz
 127.0.0.1 adx.allstar.cz
-
-# allstarclick.com
-127.0.0.1 allstarclick.com
 
 # allstargaming.net
 127.0.0.1 allstargaming.net
@@ -9479,7 +9473,6 @@ white yt3.ggpht.com
 127.0.0.1 applicationstat.com
 
 # appliedsemantics.com
-127.0.0.1 appliedsemantics.com
 127.0.0.1 www.appliedsemantics.com
 
 # applinet.nl
@@ -10939,9 +10932,6 @@ white yt3.ggpht.com
 127.0.0.1 www3.bannerspace.com
 127.0.0.1 www7.bannerspace.com
 
-# bannersponsor.com
-127.0.0.1 bannersponsor.com
-
 # bannerswap.com
 127.0.0.1 bannerswap.com
 
@@ -11949,6 +11939,7 @@ white yt3.ggpht.com
 
 # blacksnake.com
 127.0.0.1 blacksnake.com
+127.0.0.1 www.blacksnake.com
 
 # blackystars.com
 127.0.0.1 ad.blackystars.com
@@ -12656,9 +12647,6 @@ white yt3.ggpht.com
 
 # brabys.com
 127.0.0.1 ads.brabys.com
-
-# brain.pk
-127.0.0.1 ads.brain.pk
 
 # brainbuzz.com
 127.0.0.1 ad.brainbuzz.com
@@ -13502,9 +13490,6 @@ white yt3.ggpht.com
 
 # cachefly.net
 127.0.0.1 flurry.cachefly.net
-
-# cadsecs.com
-127.0.0.1 cadsecs.com
 
 # cafefind.net
 127.0.0.1 results.cafefind.net
@@ -15953,7 +15938,6 @@ white yt3.ggpht.com
 127.0.0.1 record.commissionking.com
 
 # commissionmonster.com
-127.0.0.1 commissionmonster.com
 127.0.0.1 members.commissionmonster.com
 127.0.0.1 www.commissionmonster.com
 
@@ -16176,7 +16160,6 @@ white yt3.ggpht.com
 
 # contextuads.com
 127.0.0.1 bigapple.contextuads.com
-127.0.0.1 contextuads.com
 127.0.0.1 cowboy.contextuads.com
 127.0.0.1 www.contextuads.com
 
@@ -16752,7 +16735,6 @@ white yt3.ggpht.com
 127.0.0.1 www.crackway.com
 
 # crackzplanet.com
-127.0.0.1 crackzplanet.com
 127.0.0.1 www.crackzplanet.com
 
 # craftbits.com
@@ -18124,9 +18106,6 @@ white yt3.ggpht.com
 127.0.0.1 display.digitalriver.com
 127.0.0.1 ntbanner.digitalriver.com
 
-# digitals.hu
-127.0.0.1 banner.digitals.hu
-
 # digitalspy.co.uk
 127.0.0.1 adverts.digitalspy.co.uk
 
@@ -19107,9 +19086,6 @@ white yt3.ggpht.com
 127.0.0.1 www.doubleclick.net
 127.0.0.1 www2.doubleclick.net
 127.0.0.1 www3.doubleclick.net
-
-# doubleclick.net.my
-127.0.0.1 www.doubleclick.net.my
 
 # doubleclickindustries.com
 127.0.0.1 marketing.doubleclickindustries.com
@@ -22548,6 +22524,7 @@ white yt3.ggpht.com
 127.0.0.1 flashplayer-adobe.com
 
 # flashpoint.bm
+127.0.0.1 a.flashpoint.bm
 127.0.0.1 www.flashpoint.bm
 
 # flashpointmodelsearch.com
@@ -22977,6 +22954,9 @@ white yt3.ggpht.com
 # forshrd.com
 127.0.0.1 forshrd.com
 
+# forthnet.gr
+127.0.0.1 interactive.forthnet.gr
+
 # fortunecity.co.uk
 127.0.0.1 ads.fortunecity.co.uk
 
@@ -23196,9 +23176,6 @@ white yt3.ggpht.com
 
 # free-top-apps.com
 127.0.0.1 free-top-apps.com
-
-# free-toplisten.at
-127.0.0.1 www.free-toplisten.at
 
 # free-video-movie.com
 127.0.0.1 free-video-movie.com
@@ -24519,7 +24496,6 @@ white yt3.ggpht.com
 
 # geobytes.com
 127.0.0.1 gd.geobytes.com
-127.0.0.1 geobytes.com
 
 # geocities.com
 127.0.0.1 pic.geocities.com
@@ -24538,9 +24514,6 @@ white yt3.ggpht.com
 
 # geotrust.com
 127.0.0.1 smarticon.geotrust.com
-
-# geoup.com
-127.0.0.1 geoup.com
 
 # geovisite.com
 127.0.0.1 geoloc12.geovisite.com
@@ -26183,6 +26156,9 @@ white yt3.ggpht.com
 127.0.0.1 advert.heise.de
 127.0.0.1 oas.heise.de
 
+# hellasnet.gr
+127.0.0.1 adserver.hellasnet.gr
+
 # hellobar.com
 127.0.0.1 ping.hellobar.com
 
@@ -26413,6 +26389,9 @@ white yt3.ggpht.com
 127.0.0.1 cus.himogo.com
 127.0.0.1 imp.himogo.com
 127.0.0.1 req.himogo.com
+
+# hindsight.com
+127.0.0.1 hindsight.com
 
 # hinet.net
 127.0.0.1 ad.hinet.net
@@ -31346,7 +31325,6 @@ white yt3.ggpht.com
 127.0.0.1 g2.iphonedown.com
 
 # ipigz.com
-127.0.0.1 ipigz.com
 127.0.0.1 www.ipigz.com
 
 # ipon.lt
@@ -32586,9 +32564,6 @@ white yt3.ggpht.com
 # kartu.lt
 127.0.0.1 ads.kartu.lt
 127.0.0.1 cache.ads.kartu.lt
-
-# kat.ph
-127.0.0.1 ad.kat.ph
 
 # katalysatormedia.no
 127.0.0.1 stat.katalysatormedia.no
@@ -34876,9 +34851,6 @@ white yt3.ggpht.com
 # lowyat.net
 127.0.0.1 adserv.lowyat.net
 
-# lpdk.net
-127.0.0.1 lpdk.net
-
 # lrt.li
 127.0.0.1 lrt.li
 
@@ -35590,9 +35562,6 @@ white yt3.ggpht.com
 # masterzonex.com
 127.0.0.1 masterzonex.com
 
-# mataharirama.xyz
-127.0.0.1 mataharirama.xyz
-
 # match.com
 127.0.0.1 ads.affiliates.match.com
 127.0.0.1 associmage.match.com
@@ -35903,6 +35872,9 @@ white yt3.ggpht.com
 
 # mediaarmor.com
 127.0.0.1 ads2.mediaarmor.com
+
+# mediab.uy
+127.0.0.1 mediab.uy
 
 # mediabrilliant.com
 127.0.0.1 mediabrilliant.com
@@ -41189,9 +41161,6 @@ white yt3.ggpht.com
 # openoffice.org
 127.0.0.1 marketing.openoffice.org
 
-# openstat.net
-127.0.0.1 openstat.net
-
 # opensubtitles.org
 127.0.0.1 ads.opensubtitles.org
 
@@ -43055,9 +43024,6 @@ white yt3.ggpht.com
 # pita.st
 127.0.0.1 pita.st
 
-# pitadtag.jp
-127.0.0.1 trc.pitadtag.jp
-
 # pitattomatch.com
 127.0.0.1 ad.pitattomatch.com
 
@@ -43728,6 +43694,9 @@ white yt3.ggpht.com
 
 # potedly.co
 127.0.0.1 potedly.co
+
+# potenza.cz
+127.0.0.1 potenza.cz
 
 # power-cleaner.com
 127.0.0.1 power-cleaner.com
@@ -44548,9 +44517,6 @@ white yt3.ggpht.com
 127.0.0.1 show.cupid.qiyi.com
 127.0.0.1 track.cupid.qiyi.com
 
-# qiyou.com
-127.0.0.1 qiyou.com
-
 # qizhao.com
 127.0.0.1 qizhao.com
 
@@ -44682,6 +44648,7 @@ white yt3.ggpht.com
 127.0.0.1 questseek.com
 
 # quickcleaner.com
+127.0.0.1 quickcleaner.com
 127.0.0.1 www.quickcleaner.com
 
 # quickdfw.com
@@ -45587,6 +45554,7 @@ white yt3.ggpht.com
 127.0.0.1 www.registrybot.com
 
 # registryclear.com
+127.0.0.1 registryclear.com
 127.0.0.1 www.registryclear.com
 
 # registrydefender.com
@@ -46745,10 +46713,8 @@ white yt3.ggpht.com
 127.0.0.1 u.sanspo.com
 
 # sapo.pt
-127.0.0.1 adimgs.sapo.pt
 127.0.0.1 ads.sapo.pt
 127.0.0.1 adserv.sapo.pt
-127.0.0.1 pub.sapo.pt
 
 # sarashi.com
 127.0.0.1 ct2.sarashi.com
@@ -51367,9 +51333,6 @@ white yt3.ggpht.com
 # sxtmqh.com
 127.0.0.1 sxtmqh.com
 
-# sxtracking.com
-127.0.0.1 sxtracking.com
-
 # sxx.com
 127.0.0.1 ads.sxx.com
 
@@ -53317,7 +53280,7 @@ white yt3.ggpht.com
 127.0.0.1 tr-af.com
 
 # tr.cx
-127.0.0.1 www.homeloan.tr.cx
+127.0.0.1 homeloan.tr.cx
 
 # tr100.net
 127.0.0.1 www.tr100.net
@@ -54837,9 +54800,6 @@ white yt3.ggpht.com
 127.0.0.1 content.unisearch.name
 127.0.0.1 unisearch.name
 
-# unispire.jp
-127.0.0.1 ad.unispire.jp
-
 # unitag.jp
 127.0.0.1 nspt.unitag.jp
 
@@ -55152,7 +55112,6 @@ white yt3.ggpht.com
 127.0.0.1 openads.utv.bg
 
 # uur.at
-127.0.0.1 uur.at
 127.0.0.1 www.uur.at
 
 # uusee.com
@@ -55376,6 +55335,9 @@ white yt3.ggpht.com
 
 # vcimg.jp
 127.0.0.1 i.vcimg.jp
+
+# vclick.vn
+127.0.0.1 ads.vclick.vn
 
 # vcm.jp
 127.0.0.1 ad.vcm.jp
@@ -58233,9 +58195,6 @@ white yt3.ggpht.com
 
 # xl-rank.com
 127.0.0.1 www.xl-rank.com
-
-# xl.pt
-127.0.0.1 ads.xl.pt
 
 # xlisting.jp
 127.0.0.1 beacon.xlisting.jp
