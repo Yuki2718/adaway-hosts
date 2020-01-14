@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/14
-# block hosts: 32237 entry
+# block hosts: 32235 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -27053,9 +27053,6 @@ white yt3.ggpht.com
 # hnbxg.cn
 127.0.0.1 hnbxg.cn
 
-# hnjsy.com.cn
-127.0.0.1 www.hnjsy.com.cn
-
 # hns.com
 127.0.0.1 sdc.hns.com
 
@@ -43938,9 +43935,6 @@ white yt3.ggpht.com
 
 # pradaoutlets-jp.com
 127.0.0.1 pradaoutlets-jp.com
-
-# pradasalesnow-jp.com
-127.0.0.1 pradasalesnow-jp.com
 
 # pradashopja.com
 127.0.0.1 pradashopja.com
