@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/14
-# block hosts: 32235 entry
+# block hosts: 32222 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -5680,9 +5680,6 @@ white yt3.ggpht.com
 # admitad.com
 127.0.0.1 www.ad.admitad.com
 
-# admix.gr
-127.0.0.1 www.admix.gr
-
 # admixer.net
 127.0.0.1 ad.admixer.net
 
@@ -7472,7 +7469,6 @@ white yt3.ggpht.com
 127.0.0.1 ace.advertising.com
 127.0.0.1 adaptv.advertising.com
 127.0.0.1 adserve.advertising.com
-127.0.0.1 adtech.advertising.com
 127.0.0.1 advertising.com
 127.0.0.1 bannerfarm.ace.advertising.com
 127.0.0.1 beta.ace.advertising.com
@@ -7960,9 +7956,6 @@ white yt3.ggpht.com
 # affiliate-go.net
 127.0.0.1 www.affiliate-go.net
 
-# affiliate.cx
-127.0.0.1 affiliate.cx
-
 # affiliate.hu
 127.0.0.1 sttc.affiliate.hu
 127.0.0.1 tr.affiliate.hu
@@ -8213,9 +8206,6 @@ white yt3.ggpht.com
 # agcdn.com
 127.0.0.1 dni.agcdn.com
 
-# agemature.com
-127.0.0.1 agemature.com
-
 # agencytradingdesk.net
 127.0.0.1 atd.agencytradingdesk.net
 
@@ -8257,7 +8247,6 @@ white yt3.ggpht.com
 
 # ah-ha.com
 127.0.0.1 ads.ah-ha.com
-127.0.0.1 ah-ha.com
 127.0.0.1 cp.ah-ha.com
 127.0.0.1 partner.ah-ha.com
 
@@ -8537,7 +8526,6 @@ white yt3.ggpht.com
 127.0.0.1 ads.allaboutvision.com
 
 # allaccess.com.ph
-127.0.0.1 adcontent2.allaccess.com.ph
 127.0.0.1 ads.allaccess.com.ph
 
 # alladultchannel.com
@@ -9658,7 +9646,6 @@ white yt3.ggpht.com
 
 # arachne.cz
 127.0.0.1 arachne.cz
-127.0.0.1 banners.arachne.cz
 
 # aralego.com
 127.0.0.1 sync.aralego.com
@@ -16450,7 +16437,6 @@ white yt3.ggpht.com
 127.0.0.1 counter-shop.net
 
 # counter.cz
-127.0.0.1 counter.cz
 127.0.0.1 www.counter.cz
 
 # counter4all.com
@@ -26233,9 +26219,6 @@ white yt3.ggpht.com
 127.0.0.1 advert.heise.de
 127.0.0.1 oas.heise.de
 
-# hellasnet.gr
-127.0.0.1 adserver.hellasnet.gr
-
 # hellobar.com
 127.0.0.1 ping.hellobar.com
 
@@ -35977,9 +35960,6 @@ white yt3.ggpht.com
 # mediaarmor.com
 127.0.0.1 ads2.mediaarmor.com
 
-# mediab.uy
-127.0.0.1 mediab.uy
-
 # mediabrilliant.com
 127.0.0.1 mediabrilliant.com
 
@@ -40103,7 +40083,6 @@ white yt3.ggpht.com
 127.0.0.1 nicopon.jp
 
 # nicovideo.jp
-127.0.0.1 ad.dic.nicovideo.jp
 127.0.0.1 ad.nicovideo.jp
 127.0.0.1 ads.nicovideo.jp
 127.0.0.1 api.uad.nicovideo.jp
@@ -44191,9 +44170,6 @@ white yt3.ggpht.com
 # pro-pay.net
 127.0.0.1 www.pro-pay.net
 
-# pro.ne.jp
-127.0.0.1 rdp.pro.ne.jp
-
 # probanner.ro
 127.0.0.1 www.probanner.ro
 
@@ -44989,9 +44965,6 @@ white yt3.ggpht.com
 
 # rakuprop.net
 127.0.0.1 rakuprop.net
-
-# rakuten-contect-japan-servicc.com
-127.0.0.1 www.rakuten-contect-japan-servicc.com
 
 # rakuten.co.jp
 127.0.0.1 affiliate.rakuten.co.jp
