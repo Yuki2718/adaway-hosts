@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/14
-# block hosts: 32026 entry
+# block hosts: 32029 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -15298,6 +15298,7 @@ white yt3.ggpht.com
 
 # clix.pt
 127.0.0.1 ad.clix.pt
+127.0.0.1 adserver.clix.pt
 
 # clixgalore.com
 127.0.0.1 clixgalore.com
@@ -28567,6 +28568,9 @@ white yt3.ggpht.com
 
 # i-generationsp.jp
 127.0.0.1 i-generationsp.jp
+
+# i-growth.com
+127.0.0.1 i-growth.com
 
 # i-lookup.com
 127.0.0.1 i-lookup.com
@@ -42529,6 +42533,9 @@ white yt3.ggpht.com
 # permalink-system.com
 127.0.0.1 p.permalink-system.com
 127.0.0.1 permalink-system.com
+
+# permissionmedia.com
+127.0.0.1 permissionmedia.com
 
 # permissionpass.com
 127.0.0.1 permissionpass.com
