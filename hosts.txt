@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/01/14
-# block hosts: 32029 entry
+# last updated: 2020/01/20
+# block hosts: 32033 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -458,6 +458,9 @@ white yt3.ggpht.com
 
 # 202124388.com
 127.0.0.1 202124388.com
+
+# 206ads.com
+127.0.0.1 s.206ads.com
 
 # 207.net
 127.0.0.1 102.112.207.net
@@ -5906,6 +5909,9 @@ white yt3.ggpht.com
 # adoptim.com
 127.0.0.1 login.adoptim.com
 127.0.0.1 www.adoptim.com
+
+# adorca.com
+127.0.0.1 ads.adorca.com
 
 # adorigin.com
 127.0.0.1 adorigin.com
@@ -19414,7 +19420,6 @@ white yt3.ggpht.com
 127.0.0.1 ala.durasite.net
 127.0.0.1 durasite.net
 127.0.0.1 hm.durasite.net
-127.0.0.1 m-adomachi.durasite.net
 127.0.0.1 netdreamersad.durasite.net
 127.0.0.1 proto2ad.durasite.net
 127.0.0.1 sankei2ad.durasite.net
@@ -20323,9 +20328,6 @@ white yt3.ggpht.com
 
 # enfintrouver.com
 127.0.0.1 enfintrouver.com
-
-# engadget.com
-127.0.0.1 guce.engadget.com
 
 # engage.com
 127.0.0.1 engage.com
@@ -23640,6 +23642,9 @@ white yt3.ggpht.com
 # funwebproducts.com
 127.0.0.1 download.funwebproducts.com
 127.0.0.1 www.funwebproducts.com
+
+# furthermoreads.com
+127.0.0.1 clk.furthermoreads.com
 
 # fuseops.com
 127.0.0.1 fuseops.com
@@ -28910,6 +28915,9 @@ white yt3.ggpht.com
 
 # idealab.com
 127.0.0.1 redirect.la.idealab.com
+
+# idealads.net
+127.0.0.1 aoyou.idealads.net
 
 # idealgamebar.com
 127.0.0.1 www.idealgamebar.com
@@ -36926,6 +36934,9 @@ white yt3.ggpht.com
 
 # mobri.jp
 127.0.0.1 tk.mobri.jp
+
+# mobring.co
+127.0.0.1 ads.mobring.co
 
 # mobsmart.net
 127.0.0.1 adv.mobsmart.net
@@ -53045,6 +53056,9 @@ white yt3.ggpht.com
 # tpage.com
 127.0.0.1 banner.tpage.com
 
+# tpdads.com
+127.0.0.1 cdn.tpdads.com
+
 # tpnads.com
 127.0.0.1 tpnads.com
 
@@ -54422,7 +54436,6 @@ white yt3.ggpht.com
 
 # uliza.jp
 127.0.0.1 ad-beacon-v01.uliza.jp
-127.0.0.1 aka-uae-dl.uliza.jp
 
 # ultimaguard.com
 127.0.0.1 update1.ultimaguard.com
@@ -58761,6 +58774,9 @@ white yt3.ggpht.com
 
 # yoggrt.com
 127.0.0.1 yoggrt.com
+
+# yohoads.com
+127.0.0.1 tracking.yohoads.com
 
 # yomereba.com
 127.0.0.1 img.yomereba.com
