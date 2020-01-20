@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/01/20
-# block hosts: 32033 entry
+# last updated: 2020/01/21
+# block hosts: 32032 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -10946,7 +10946,6 @@ white yt3.ggpht.com
 127.0.0.1 service2.bargain-buddy.net
 127.0.0.1 service3.bargain-buddy.net
 127.0.0.1 service4.bargain-buddy.net
-127.0.0.1 service7.bargain-buddy.net
 127.0.0.1 www.bargain-buddy.net
 
 # barilliance.net
