@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/01/21
-# block hosts: 32032 entry
+# last updated: 2020/01/22
+# block hosts: 32031 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -43868,9 +43868,6 @@ white yt3.ggpht.com
 127.0.0.1 ads.pro-market.net
 127.0.0.1 pbid.pro-market.net
 127.0.0.1 pro-market.net
-
-# pro-pay.net
-127.0.0.1 www.pro-pay.net
 
 # probanner.ro
 127.0.0.1 www.probanner.ro
