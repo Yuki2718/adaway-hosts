@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/23
-# block hosts: 32028 entry
+# block hosts: 32026 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -4538,7 +4538,6 @@ white yt3.ggpht.com
 127.0.0.1 creview.adbureau.net
 127.0.0.1 curtco-images.adbureau.net
 127.0.0.1 devart.adbureau.net
-127.0.0.1 divx-images.adbureau.net
 127.0.0.1 divx.adbureau.net
 127.0.0.1 eb.adbureau.net
 127.0.0.1 equifax.adbureau.net
@@ -31831,7 +31830,6 @@ white yt3.ggpht.com
 127.0.0.1 j-a-net.jp
 127.0.0.1 rbp.j-a-net.jp
 127.0.0.1 s11.j-a-net.jp
-127.0.0.1 s13.j-a-net.jp
 127.0.0.1 text.j-a-net.jp
 127.0.0.1 www.j-a-net.jp
 
