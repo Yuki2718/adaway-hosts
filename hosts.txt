@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/01/23
-# block hosts: 32025 entry
+# last updated: 2020/01/24
+# block hosts: 32024 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -17467,9 +17467,6 @@ white yt3.ggpht.com
 127.0.0.1 adtc.daum.net
 127.0.0.1 alea.adam.daum.net
 127.0.0.1 m.adtc.daum.net
-
-# davestraffic.com
-127.0.0.1 www.davestraffic.com
 
 # daylogs.com
 127.0.0.1 daylogs.com
