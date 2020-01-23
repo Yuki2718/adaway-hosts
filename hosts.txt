@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/01/22
-# block hosts: 32031 entry
+# last updated: 2020/01/23
+# block hosts: 32029 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -5220,7 +5220,6 @@ white yt3.ggpht.com
 127.0.0.1 click07.aditic.net
 127.0.0.1 click08.aditic.net
 127.0.0.1 click10.aditic.net
-127.0.0.1 click11.aditic.net
 127.0.0.1 click13.aditic.net
 
 # adition.com
@@ -31890,9 +31889,6 @@ white yt3.ggpht.com
 
 # janesguide.com
 127.0.0.1 adserver.janesguide.com
-
-# japan-canadagoose.biz
-127.0.0.1 japan-canadagoose.biz
 
 # japancanadagoose.biz
 127.0.0.1 japancanadagoose.biz
