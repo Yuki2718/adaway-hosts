@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/23
-# block hosts: 32029 entry
+# block hosts: 32028 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -32154,9 +32154,6 @@ white yt3.ggpht.com
 
 # jpassport.jp
 127.0.0.1 jpassport.jp
-
-# jpcanadagoose.biz
-127.0.0.1 jpcanadagoose.biz
 
 # jpg-server.com
 127.0.0.1 jpg-server.com
