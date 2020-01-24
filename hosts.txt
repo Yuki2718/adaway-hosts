@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/24
-# block hosts: 32020 entry
+# block hosts: 32017 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -27219,7 +27219,6 @@ white yt3.ggpht.com
 127.0.0.1 skins.hotbar.com
 127.0.0.1 tooltips.hotbar.com
 127.0.0.1 updates.hotbar.com
-127.0.0.1 vip-farm2v.hotbar.com
 127.0.0.1 vip-farm5v.hotbar.com
 127.0.0.1 www.hotbar.com
 
@@ -46888,7 +46887,6 @@ white yt3.ggpht.com
 127.0.0.1 searchignited.com
 
 # searchinaflash.com
-127.0.0.1 ezgreets.searchinaflash.com
 127.0.0.1 searchinaflash.com
 127.0.0.1 www.searchinaflash.com
 
@@ -59054,7 +59052,6 @@ white yt3.ggpht.com
 127.0.0.1 maratsafin.powered-by.zango.com
 127.0.0.1 mediagecko.powered-by.zango.com
 127.0.0.1 messenger.zango.com
-127.0.0.1 midis.powered-by.zango.com
 127.0.0.1 musicvideocodes.powered-by.zango.com
 127.0.0.1 myfriendspy.powered-by.zango.com
 127.0.0.1 myspace-backgrounds.powered-by.zango.com
