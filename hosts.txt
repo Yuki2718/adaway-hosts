@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/24
-# block hosts: 32024 entry
+# block hosts: 32020 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -32811,7 +32811,6 @@ white yt3.ggpht.com
 127.0.0.1 cf.ads.kontextua.com
 
 # kontraband.com
-127.0.0.1 oascentral.kontraband.com
 127.0.0.1 top100.kontraband.com
 
 # kopres4.ru
@@ -34398,7 +34397,6 @@ white yt3.ggpht.com
 127.0.0.1 adserving.liveuniversenetwork.com
 127.0.0.1 asrvr.liveuniversenetwork.com
 127.0.0.1 displayads.liveuniversenetwork.com
-127.0.0.1 trackingcdn.liveuniversenetwork.com
 127.0.0.1 traffic.liveuniversenetwork.com
 127.0.0.1 trafficcdn.liveuniversenetwork.com
 
@@ -52995,7 +52993,6 @@ white yt3.ggpht.com
 
 # totallyfunfreestuff.com
 127.0.0.1 white.totallyfunfreestuff.com
-127.0.0.1 www.totallyfunfreestuff.com
 
 # totalmoney.pl
 127.0.0.1 www.adserver.totalmoney.pl
@@ -58212,9 +58209,6 @@ white yt3.ggpht.com
 
 # xxxeuropean.com
 127.0.0.1 nm.xxxeuropean.com
-
-# xxxgamer.net
-127.0.0.1 www.xxxgamer.net
 
 # xxxkey.com
 127.0.0.1 stats.xxxkey.com
