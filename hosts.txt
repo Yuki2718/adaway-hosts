@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/24
-# block hosts: 32017 entry
+# block hosts: 32012 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -3717,9 +3717,6 @@ white yt3.ggpht.com
 
 # abc15.com
 127.0.0.1 ewstv.abc15.com
-
-# abcfreedownloads.com
-127.0.0.1 www.abcfreedownloads.com
 
 # abcfreegames.com
 127.0.0.1 www.abcfreegames.com
@@ -11448,9 +11445,6 @@ white yt3.ggpht.com
 
 # bettingmarket.com
 127.0.0.1 www.bettingmarket.com
-
-# bettycrocker.com
-127.0.0.1 sdc.bettycrocker.com
 
 # betus.com
 127.0.0.1 n.betus.com
@@ -23165,7 +23159,6 @@ white yt3.ggpht.com
 127.0.0.1 img.freedownloadsoft.net
 127.0.0.1 install.freedownloadsoft.net
 127.0.0.1 js.freedownloadsoft.net
-127.0.0.1 pop-over.powered-by.freedownloadsoft.net
 127.0.0.1 uci.freedownloadsoft.net
 
 # freedownloadzone.com
@@ -53247,9 +53240,6 @@ white yt3.ggpht.com
 # trademe.co.nz
 127.0.0.1 ads.trademe.co.nz
 
-# tradepopups.com
-127.0.0.1 www.tradepopups.com
-
 # trader.ca
 127.0.0.1 adserver.trader.ca
 
@@ -59495,7 +59485,6 @@ white yt3.ggpht.com
 # zugo.com
 127.0.0.1 bing.zugo.com
 127.0.0.1 components.zugo.com
-127.0.0.1 i.zugo.com
 127.0.0.1 launch.zugo.com
 127.0.0.1 tbtrack.zugo.com
 127.0.0.1 track.zugo.com
