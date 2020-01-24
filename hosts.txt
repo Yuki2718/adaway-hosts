@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/24
-# block hosts: 32012 entry
+# block hosts: 32010 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -54205,9 +54205,6 @@ white yt3.ggpht.com
 # twink4cash.com
 127.0.0.1 twink4cash.com
 
-# twinkforcash.com
-127.0.0.1 www.twinkforcash.com
-
 # twinksforcash.com
 127.0.0.1 www.twinksforcash.com
 
@@ -58439,9 +58436,6 @@ white yt3.ggpht.com
 # yam.com.tw
 127.0.0.1 ad.yam.com.tw
 127.0.0.1 ad2.yam.com.tw
-
-# yamaha.com
-127.0.0.1 webstat.yamaha.com
 
 # yamanoha.com
 127.0.0.1 x1.yamanoha.com
