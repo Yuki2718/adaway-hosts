@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/25
-# block hosts: 32006 entry
+# block hosts: 32005 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -49532,9 +49532,6 @@ white yt3.ggpht.com
 
 # spoonfeduk.com
 127.0.0.1 ads.spoonfeduk.com
-
-# sport1.de
-127.0.0.1 sitestat3.sport1.de
 
 # sporta.bg
 127.0.0.1 ads.tv7.sporta.bg
