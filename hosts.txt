@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/01/24
-# block hosts: 32010 entry
+# last updated: 2020/01/25
+# block hosts: 32009 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -24134,7 +24134,6 @@ white yt3.ggpht.com
 127.0.0.1 gcirm.mconetwork.gcion.com
 127.0.0.1 gcirm.montgomeryadvertiser.gcion.com
 127.0.0.1 gcirm.mydesert.gcion.com
-127.0.0.1 gcirm.news-press.gcion.com
 127.0.0.1 gcirm.newsleader.gcion.com
 127.0.0.1 gcirm.ozarksnow.gcion.com
 127.0.0.1 gcirm.pensacolanewsjournal.gcion.com
