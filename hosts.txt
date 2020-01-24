@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/25
-# block hosts: 32009 entry
+# block hosts: 32007 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -15876,9 +15876,6 @@ white yt3.ggpht.com
 
 # communityserver.org
 127.0.0.1 ads.communityserver.org
-
-# compactads.com
-127.0.0.1 www.compactads.com
 
 # compactappliance.com
 127.0.0.1 metrics.compactappliance.com
@@ -37443,7 +37440,6 @@ white yt3.ggpht.com
 
 # mrsupergames.com
 127.0.0.1 search.mrsupergames.com
-127.0.0.1 www.mrsupergames.com
 
 # ms-mvp.org
 127.0.0.1 ms-mvp.org
