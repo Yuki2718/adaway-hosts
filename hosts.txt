@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/25
-# block hosts: 32007 entry
+# block hosts: 32006 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -56539,7 +56539,6 @@ white yt3.ggpht.com
 
 # webrewardstream.com
 127.0.0.1 go.webrewardstream.com
-127.0.0.1 web1.webrewardstream.com
 
 # webring.com
 127.0.0.1 img.webring.com
