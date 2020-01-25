@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/25
-# block hosts: 32002 entry
+# block hosts: 32001 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -54389,9 +54389,6 @@ white yt3.ggpht.com
 
 # uliza.jp
 127.0.0.1 ad-beacon-v01.uliza.jp
-
-# ultimaguard.com
-127.0.0.1 update1.ultimaguard.com
 
 # ultimate-guitar.com
 127.0.0.1 ads.ultimate-guitar.com
