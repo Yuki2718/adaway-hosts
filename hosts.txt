@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/26
-# block hosts: 31999 entry
+# block hosts: 31997 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -4528,7 +4528,6 @@ white yt3.ggpht.com
 127.0.0.1 cent.adbureau.net
 127.0.0.1 cgm.adbureau.net
 127.0.0.1 content.adbureau.net
-127.0.0.1 cooking.adbureau.net
 127.0.0.1 creview.adbureau.net
 127.0.0.1 curtco-images.adbureau.net
 127.0.0.1 devart.adbureau.net
@@ -14418,7 +14417,6 @@ white yt3.ggpht.com
 127.0.0.1 kw123.chinoc.net
 127.0.0.1 kw15.chinoc.net
 127.0.0.1 kw46.chinoc.net
-127.0.0.1 kw62.chinoc.net
 127.0.0.1 kw82.chinoc.net
 127.0.0.1 kw83.chinoc.net
 127.0.0.1 v5.chinoc.net
