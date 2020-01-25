@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/26
-# block hosts: 31997 entry
+# block hosts: 31996 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -57029,9 +57029,6 @@ white yt3.ggpht.com
 # wimage.net
 127.0.0.1 wimage.net
 127.0.0.1 www.wimage.net
-
-# win-fix.com
-127.0.0.1 www.win-fix.com
 
 # win-spy.com
 127.0.0.1 win-spy.com
