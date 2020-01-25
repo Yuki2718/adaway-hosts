@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/25
-# block hosts: 32003 entry
+# block hosts: 32002 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -49233,7 +49233,6 @@ white yt3.ggpht.com
 127.0.0.1 movies.spacash.com
 127.0.0.1 notice.spacash.com
 127.0.0.1 peel.spacash.com
-127.0.0.1 rotations.spacash.com
 127.0.0.1 spacash.com
 127.0.0.1 www.spacash.com
 
