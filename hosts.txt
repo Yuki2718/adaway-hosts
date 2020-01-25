@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/26
-# block hosts: 31996 entry
+# block hosts: 31995 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -31252,9 +31252,6 @@ white yt3.ggpht.com
 
 # iranwebads.com
 127.0.0.1 www.iranwebads.com
-
-# irc-proxy.com
-127.0.0.1 www.irc-proxy.com
 
 # ircfast.com
 127.0.0.1 stats.ircfast.com
