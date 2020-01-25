@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/26
-# block hosts: 31995 entry
+# block hosts: 31994 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -39892,9 +39892,6 @@ white yt3.ggpht.com
 127.0.0.1 ads.nj.com
 127.0.0.1 geoip.nj.com
 127.0.0.1 metrics.nj.com
-
-# njoybg.com
-127.0.0.1 openx.njoybg.com
 
 # nkyse.com
 127.0.0.1 nkyse.com
