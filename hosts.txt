@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/25
-# block hosts: 32001 entry
+# block hosts: 32000 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -47800,7 +47800,6 @@ white yt3.ggpht.com
 127.0.0.1 sherylcrow.sexybabesx.com
 127.0.0.1 siennamiller.sexybabesx.com
 127.0.0.1 terapatrick.sexybabesx.com
-127.0.0.1 thorabirch.sexybabesx.com
 127.0.0.1 tyrabanks.sexybabesx.com
 127.0.0.1 umathurman.sexybabesx.com
 127.0.0.1 venuswilliams.sexybabesx.com
