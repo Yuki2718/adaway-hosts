@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/25
-# block hosts: 32004 entry
+# block hosts: 32003 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -3211,9 +3211,6 @@ white yt3.ggpht.com
 127.0.0.1 600z.com
 127.0.0.1 aj.600z.com
 127.0.0.1 www.600z.com
-
-# 6262.com.cn
-127.0.0.1 wap.6262.com.cn
 
 # 680180.net
 127.0.0.1 adserv.680180.net
