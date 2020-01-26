@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/26
-# block hosts: 31991 entry
+# block hosts: 31988 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -44074,7 +44074,6 @@ white yt3.ggpht.com
 127.0.0.1 crimg.sv.publicus.com
 127.0.0.1 faads.no.publicus.com
 127.0.0.1 fdads.sv.publicus.com
-127.0.0.1 hdads.no.publicus.com
 127.0.0.1 lladinserts.us.publicus.com
 127.0.0.1 moads.no.publicus.com
 127.0.0.1 noads.no.publicus.com
@@ -47342,9 +47341,6 @@ white yt3.ggpht.com
 
 # servized.com
 127.0.0.1 banners.servized.com
-
-# servnapp.com
-127.0.0.1 srv1.servnapp.com
 
 # sesamestats.com
 127.0.0.1 www.sesamestats.com
@@ -57701,7 +57697,6 @@ white yt3.ggpht.com
 127.0.0.1 o.xbox.com
 
 # xcelltech.com
-127.0.0.1 servedby.xcelltech.com
 127.0.0.1 www.xcelltech.com
 
 # xchange.ro
