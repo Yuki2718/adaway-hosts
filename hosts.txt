@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/26
-# block hosts: 31981 entry
+# block hosts: 31978 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -23723,9 +23723,6 @@ white yt3.ggpht.com
 # g4whisperermedia.com
 127.0.0.1 www.g4whisperermedia.com
 
-# g8search.com
-127.0.0.1 www.g8search.com
-
 # gabia.com
 127.0.0.1 domain.gabia.com
 127.0.0.1 gabia.com
@@ -42175,7 +42172,6 @@ white yt3.ggpht.com
 127.0.0.1 www.paypopup.com
 127.0.0.1 www1.paypopup.com
 127.0.0.1 www10.paypopup.com
-127.0.0.1 www13.paypopup.com
 127.0.0.1 www14.paypopup.com
 127.0.0.1 www2.paypopup.com
 127.0.0.1 www21.paypopup.com
@@ -45504,7 +45500,6 @@ white yt3.ggpht.com
 127.0.0.1 internetpanel.research-int.se
 127.0.0.1 panel.research-int.se
 127.0.0.1 panel2.research-int.se
-127.0.0.1 prisjakt.research-int.se
 
 # resellerratings.com
 127.0.0.1 images.resellerratings.com
