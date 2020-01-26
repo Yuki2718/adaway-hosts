@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/26
-# block hosts: 31982 entry
+# block hosts: 31981 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -46799,9 +46799,6 @@ white yt3.ggpht.com
 
 # searcherpro.net
 127.0.0.1 xml.searcherpro.net
-
-# searchexpert.com
-127.0.0.1 www.searchexpert.com
 
 # searchextreme.com
 127.0.0.1 ads.searchextreme.com
