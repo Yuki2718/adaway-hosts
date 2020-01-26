@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/26
-# block hosts: 31983 entry
+# block hosts: 31982 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -39725,9 +39725,6 @@ white yt3.ggpht.com
 
 # nexusmedia.net
 127.0.0.1 www.nexusmedia.net
-
-# nfbae.net
-127.0.0.1 nfbae.net
 
 # nfdntqlqrgwc.com
 127.0.0.1 nfdntqlqrgwc.com
