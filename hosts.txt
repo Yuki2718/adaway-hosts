@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/27
-# block hosts: 31974 entry
+# block hosts: 31973 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -37041,9 +37041,6 @@ white yt3.ggpht.com
 
 # monclerbrandoutlet.com
 127.0.0.1 monclerbrandoutlet.com
-
-# monclerdiscount.info
-127.0.0.1 monclerdiscount.info
 
 # monclerdownjpstore.com
 127.0.0.1 monclerdownjpstore.com
