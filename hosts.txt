@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/27
-# block hosts: 31975 entry
+# block hosts: 31974 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -3391,7 +3391,6 @@ white yt3.ggpht.com
 
 # 888-it.com
 127.0.0.1 888-it.com
-127.0.0.1 www.888-it.com
 
 # 888.com
 127.0.0.1 888.com
