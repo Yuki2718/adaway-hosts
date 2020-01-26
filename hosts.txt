@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/26
-# block hosts: 31988 entry
+# block hosts: 31986 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -24420,7 +24420,6 @@ white yt3.ggpht.com
 
 # get-spyware-destroyer.com
 127.0.0.1 get-spyware-destroyer.com
-127.0.0.1 www.get-spyware-destroyer.com
 
 # get-this-video.com
 127.0.0.1 get-this-video.com
@@ -59011,7 +59010,6 @@ white yt3.ggpht.com
 127.0.0.1 vimalonline.powered-by.zango.com
 127.0.0.1 wwedivas.powered-by.zango.com
 127.0.0.1 www.zango.com
-127.0.0.1 xtreme-cheats.powered-by.zango.com
 127.0.0.1 zango.com
 
 # zangocash.com
