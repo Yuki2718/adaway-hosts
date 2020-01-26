@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/01/26
-# block hosts: 31978 entry
+# last updated: 2020/01/27
+# block hosts: 31975 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -36244,7 +36244,6 @@ white yt3.ggpht.com
 127.0.0.1 line17.metriweb.be
 127.0.0.1 line18.metriweb.be
 127.0.0.1 line19.metriweb.be
-127.0.0.1 line20.metriweb.be
 127.0.0.1 line32.metriweb.be
 127.0.0.1 rtbf09.metriweb.be
 127.0.0.1 skynet-news.metriweb.be
@@ -42158,9 +42157,6 @@ white yt3.ggpht.com
 # paypersaleadvertising.com
 127.0.0.1 paypersaleadvertising.com
 127.0.0.1 www.paypersaleadvertising.com
-
-# paypopad.com
-127.0.0.1 paypopad.com
 
 # paypopup.com
 127.0.0.1 banner.paypopup.com
@@ -58984,7 +58980,6 @@ white yt3.ggpht.com
 127.0.0.1 narutowallpaper.powered-by.zango.com
 127.0.0.1 newgrounds.dressup.powered-by.zango.com
 127.0.0.1 planet.nana.co.il.powered-by.zango.com
-127.0.0.1 screensaverparadise.powered-by.zango.com
 127.0.0.1 shared.zango.com
 127.0.0.1 showtimes.zango.com
 127.0.0.1 sitefinder.zango.com
