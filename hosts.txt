@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/26
-# block hosts: 31986 entry
+# block hosts: 31983 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -22603,7 +22603,6 @@ white yt3.ggpht.com
 127.0.0.1 tafmaster-v10.focalex.com
 127.0.0.1 tafmaster-v11.focalex.com
 127.0.0.1 tafmaster-v2.focalex.com
-127.0.0.1 tafmaster-v3.focalex.com
 127.0.0.1 tafmaster-v4.focalex.com
 127.0.0.1 tafmaster-v5.focalex.com
 127.0.0.1 tafmaster-v6.focalex.com
@@ -54052,7 +54051,6 @@ white yt3.ggpht.com
 
 # tumri.net
 127.0.0.1 icornerstore.tumri.net
-127.0.0.1 images.tumri.net
 127.0.0.1 tumri.net
 127.0.0.1 www.tumri.net
 
@@ -54243,7 +54241,6 @@ white yt3.ggpht.com
 # tyroo.com
 127.0.0.1 ads1.tyroo.com
 127.0.0.1 ext.tyroo.com
-127.0.0.1 serve.tyroo.com
 127.0.0.1 tyroo.com
 
 # tyt333.com
