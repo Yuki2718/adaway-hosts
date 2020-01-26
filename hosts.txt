@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/26
-# block hosts: 31993 entry
+# block hosts: 31991 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -25155,9 +25155,6 @@ white yt3.ggpht.com
 # goownscan.com
 127.0.0.1 goownscan.com
 
-# gopai06.com
-127.0.0.1 gopai06.com
-
 # gopher.com
 127.0.0.1 adincl.gopher.com
 127.0.0.1 exitstitial.gopher.com
@@ -32982,9 +32979,6 @@ white yt3.ggpht.com
 
 # largecash.com
 127.0.0.1 banners.largecash.com
-
-# largeyourpenis.com
-127.0.0.1 www.largeyourpenis.com
 
 # lassboss.com
 127.0.0.1 lassboss.com
