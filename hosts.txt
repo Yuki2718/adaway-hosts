@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/27
-# block hosts: 31965 entry
+# block hosts: 31964 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -23834,7 +23834,6 @@ white yt3.ggpht.com
 
 # gamelink.com
 127.0.0.1 ads.gamelink.com
-127.0.0.1 cm.gamelink.com
 
 # gameloft.com
 127.0.0.1 igp06.gameloft.com
