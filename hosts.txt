@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/27
-# block hosts: 31972 entry
+# block hosts: 31971 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -19408,9 +19408,6 @@ white yt3.ggpht.com
 
 # duveticaat1st.com
 127.0.0.1 duveticaat1st.com
-
-# duveticakappa-jp.com
-127.0.0.1 duveticakappa-jp.com
 
 # dvd-explorer.com
 127.0.0.1 www.dvd-explorer.com
