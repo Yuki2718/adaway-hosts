@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/01/27
-# block hosts: 31960 entry
+# last updated: 2020/01/28
+# block hosts: 31959 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -33139,9 +33139,6 @@ white yt3.ggpht.com
 
 # lef.org
 127.0.0.1 sdc.lef.org
-
-# legalrayban.jp
-127.0.0.1 legalrayban.jp
 
 # legolas-media.com
 127.0.0.1 rt.legolas-media.com
