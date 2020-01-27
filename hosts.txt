@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/27
-# block hosts: 31963 entry
+# block hosts: 31960 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -44912,7 +44912,6 @@ white yt3.ggpht.com
 # realcastmedia.com
 127.0.0.1 ad.realcastmedia.com
 127.0.0.1 ads.realcastmedia.com
-127.0.0.1 content.realcastmedia.com
 127.0.0.1 my.realcastmedia.com
 127.0.0.1 realcastmedia.com
 127.0.0.1 www.realcastmedia.com
@@ -51507,9 +51506,6 @@ white yt3.ggpht.com
 # techies.com
 127.0.0.1 amedia.techies.com
 
-# techlinks100.com
-127.0.0.1 www.techlinks100.com
-
 # techmediapartners.co.uk
 127.0.0.1 ads.techmediapartners.co.uk
 
@@ -56766,7 +56762,6 @@ white yt3.ggpht.com
 
 # wfaa.com
 127.0.0.1 metrics.wfaa.com
-127.0.0.1 te.wfaa.com
 
 # wftv.com
 127.0.0.1 scrooge.wftv.com
