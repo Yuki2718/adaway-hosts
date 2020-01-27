@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/27
-# block hosts: 31964 entry
+# block hosts: 31963 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -57837,9 +57837,6 @@ white yt3.ggpht.com
 127.0.0.1 logv9.xiti.com
 127.0.0.1 www.xiti.com
 127.0.0.1 xiti.com
-
-# xiux55.com
-127.0.0.1 xiux55.com
 
 # xkxempire.com
 127.0.0.1 www.xkxempire.com
