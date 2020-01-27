@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/27
-# block hosts: 31970 entry
+# block hosts: 31969 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -44384,9 +44384,6 @@ white yt3.ggpht.com
 
 # questex.com
 127.0.0.1 inv.questex.com
-
-# questia.com
-127.0.0.1 sc.questia.com
 
 # questionmarket.com
 127.0.0.1 amch.questionmarket.com
