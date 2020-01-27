@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/27
-# block hosts: 31969 entry
+# block hosts: 31966 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -4428,7 +4428,6 @@ white yt3.ggpht.com
 # adbard.net
 127.0.0.1 adbard.net
 127.0.0.1 cdn1.adbard.net
-127.0.0.1 images.adbard.net
 
 # adbars.com
 127.0.0.1 www.adbars.com
@@ -12644,7 +12643,6 @@ white yt3.ggpht.com
 127.0.0.1 cotidianul.count.brat-online.ro
 127.0.0.1 g-f5fun.count.brat-online.ro
 127.0.0.1 myvideo.count.brat-online.ro
-127.0.0.1 neogen.count.brat-online.ro
 127.0.0.1 onefm.count.brat-online.ro
 127.0.0.1 qds.count.brat-online.ro
 127.0.0.1 realitatea.count.brat-online.ro
@@ -33057,9 +33055,6 @@ white yt3.ggpht.com
 
 # lead-ad.jp
 127.0.0.1 lead-ad.jp
-
-# leadacceptor.com
-127.0.0.1 iframe.leadacceptor.com
 
 # leadbolt.net
 127.0.0.1 ad.leadbolt.net
