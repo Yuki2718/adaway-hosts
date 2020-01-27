@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/27
-# block hosts: 31973 entry
+# block hosts: 31972 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -45651,7 +45651,6 @@ white yt3.ggpht.com
 127.0.0.1 pix01.revsci.net
 127.0.0.1 pix02.revsci.net
 127.0.0.1 pix03.revsci.net
-127.0.0.1 pix04-pd03.revsci.net
 127.0.0.1 pix04-pd04.revsci.net
 127.0.0.1 pix04.revsci.net
 127.0.0.1 revsci.net
