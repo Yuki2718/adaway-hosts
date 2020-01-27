@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/28
-# block hosts: 31959 entry
+# block hosts: 31956 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -19404,9 +19404,6 @@ white yt3.ggpht.com
 # dutty.de
 127.0.0.1 www.dutty.de
 
-# duveticaat1st.com
-127.0.0.1 duveticaat1st.com
-
 # dvd-explorer.com
 127.0.0.1 www.dvd-explorer.com
 
@@ -32798,7 +32795,6 @@ white yt3.ggpht.com
 
 # krem.com
 127.0.0.1 metrics.krem.com
-127.0.0.1 te.krem.com
 
 # krollontrack.com
 127.0.0.1 sdc.krollontrack.com
@@ -47895,7 +47891,6 @@ white yt3.ggpht.com
 127.0.0.1 x8.shidareyanagi.com
 
 # shifen.com
-127.0.0.1 img.a.shifen.com
 127.0.0.1 mpro.e.shifen.com
 
 # shiftlock.com
