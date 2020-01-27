@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/27
-# block hosts: 31966 entry
+# block hosts: 31965 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -47142,7 +47142,6 @@ white yt3.ggpht.com
 
 # seesaa.net
 127.0.0.1 duvetica-downcoat.seesaa.net
-127.0.0.1 wear2508t.seesaa.net
 
 # seevolution.com
 127.0.0.1 analytics-news.seevolution.com
