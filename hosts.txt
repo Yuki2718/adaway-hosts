@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/27
-# block hosts: 31971 entry
+# block hosts: 31970 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -53775,7 +53775,6 @@ white yt3.ggpht.com
 127.0.0.1 ads.tripod.com
 127.0.0.1 ads1.tripod.com
 127.0.0.1 counter.tripod.com
-127.0.0.1 gogglenet.tripod.com
 127.0.0.1 nedstat.tripod.com
 127.0.0.1 tmarket.tripod.com
 
