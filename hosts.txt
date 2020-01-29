@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/29
-# block hosts: 31950 entry
+# block hosts: 31949 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -20873,9 +20873,6 @@ white yt3.ggpht.com
 127.0.0.1 download.errorsweeper.com
 127.0.0.1 errorsweeper.com
 127.0.0.1 www.errorsweeper.com
-
-# errorupdatetool.com
-127.0.0.1 www.errorupdatetool.com
 
 # ertya.com
 127.0.0.1 geo.ertya.com
