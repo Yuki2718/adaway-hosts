@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/29
-# block hosts: 31952 entry
+# block hosts: 31950 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -32090,9 +32090,6 @@ white yt3.ggpht.com
 # joylandcasino.com
 127.0.0.1 banner.joylandcasino.com
 
-# jp-canadagoose.biz
-127.0.0.1 jp-canadagoose.biz
-
 # jp-canadagoosedown.biz
 127.0.0.1 jp-canadagoosedown.biz
 
@@ -50967,7 +50964,6 @@ white yt3.ggpht.com
 127.0.0.1 www.swanksoft.com
 
 # swcs.jp
-127.0.0.1 cya.a.swcs.jp
 127.0.0.1 fbj.a.swcs.jp
 127.0.0.1 swcs.jp
 
