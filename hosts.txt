@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/29
-# block hosts: 31941 entry
+# block hosts: 31939 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -35016,9 +35016,6 @@ white yt3.ggpht.com
 # maido3.com
 127.0.0.1 banner.maido3.com
 
-# mail-b.net
-127.0.0.1 refer.mail-b.net
-
 # mail-corp.com
 127.0.0.1 analytics.mail-corp.com
 
@@ -49138,7 +49135,6 @@ white yt3.ggpht.com
 127.0.0.1 ip.spacash.com
 127.0.0.1 layers.spacash.com
 127.0.0.1 movies.spacash.com
-127.0.0.1 notice.spacash.com
 127.0.0.1 peel.spacash.com
 127.0.0.1 spacash.com
 127.0.0.1 www.spacash.com
