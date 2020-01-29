@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/29
-# block hosts: 31954 entry
+# block hosts: 31952 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -297,7 +297,6 @@ white yt3.ggpht.com
 # 180searchassistant.com
 127.0.0.1 180searchassistant.com
 127.0.0.1 powered-by.180searchassistant.com
-127.0.0.1 searchresults.180searchassistant.com
 127.0.0.1 www.180searchassistant.com
 
 # 180solutions.com
@@ -28769,9 +28768,6 @@ white yt3.ggpht.com
 
 # icelandair.com
 127.0.0.1 ssdc.icelandair.com
-
-# icelandair.is
-127.0.0.1 ssdc.icelandair.is
 
 # icentric.net
 127.0.0.1 www.icentric.net
