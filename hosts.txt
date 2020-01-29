@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/01/28
-# block hosts: 31956 entry
+# last updated: 2020/01/29
+# block hosts: 31954 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -6147,7 +6147,6 @@ white yt3.ggpht.com
 # ads-click.com
 127.0.0.1 ads-click.com
 127.0.0.1 antevenio.flux.ads-click.com
-127.0.0.1 img.ads-click.com
 
 # ads-i2i.jp
 127.0.0.1 ads-i2i.jp
@@ -51138,9 +51137,6 @@ white yt3.ggpht.com
 
 # t5.ro
 127.0.0.1 www.t5.ro
-
-# tabletspillswellnessworld.eu
-127.0.0.1 tabletspillswellnessworld.eu
 
 # tabliveonline.com
 127.0.0.1 tabliveonline.com
