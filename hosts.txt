@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/29
-# block hosts: 31939 entry
+# block hosts: 31936 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -25184,9 +25184,6 @@ white yt3.ggpht.com
 # goscanshoe.com
 127.0.0.1 goscanshoe.com
 
-# goscantoil.com
-127.0.0.1 goscantoil.com
-
 # goscantype.com
 127.0.0.1 goscantype.com
 
@@ -42130,7 +42127,6 @@ white yt3.ggpht.com
 127.0.0.1 www210.paypopup.com
 127.0.0.1 www211.paypopup.com
 127.0.0.1 www213.paypopup.com
-127.0.0.1 www214.paypopup.com
 127.0.0.1 www216.paypopup.com
 127.0.0.1 www217.paypopup.com
 127.0.0.1 www219.paypopup.com
@@ -58901,7 +58897,6 @@ white yt3.ggpht.com
 127.0.0.1 maratsafin.powered-by.zango.com
 127.0.0.1 mediagecko.powered-by.zango.com
 127.0.0.1 messenger.zango.com
-127.0.0.1 musicvideocodes.powered-by.zango.com
 127.0.0.1 myfriendspy.powered-by.zango.com
 127.0.0.1 myspace-backgrounds.powered-by.zango.com
 127.0.0.1 myspacegraphicsx.powered-by.zango.com
