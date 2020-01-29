@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/29
-# block hosts: 31946 entry
+# block hosts: 31944 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -16547,9 +16547,6 @@ white yt3.ggpht.com
 
 # cq-andc.jp
 127.0.0.1 ad.cq-andc.jp
-
-# cq2.net
-127.0.0.1 searchportal.cq2.net
 
 # cqcounter.com
 127.0.0.1 1au.cqcounter.com
@@ -46113,7 +46110,6 @@ white yt3.ggpht.com
 127.0.0.1 http300.content.ru4.com
 127.0.0.1 http300.edge.ru4.com
 127.0.0.1 http400.edge.ru4.com
-127.0.0.1 http8.edge.ru4.com
 127.0.0.1 http9.edge.ru4.com
 127.0.0.1 https.edge.ru4.com
 127.0.0.1 ru4.com
