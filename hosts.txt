@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/29
-# block hosts: 31944 entry
+# block hosts: 31942 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -18276,9 +18276,6 @@ white yt3.ggpht.com
 
 # diyp2p.com
 127.0.0.1 www.diyp2p.com
-
-# dizoxen.com
-127.0.0.1 dizoxen.com
 
 # djindexes.com
 127.0.0.1 ads.djindexes.com
@@ -44906,9 +44903,6 @@ white yt3.ggpht.com
 
 # realclix.com
 127.0.0.1 realclix.com
-
-# realdatechat.com
-127.0.0.1 www.realdatechat.com
 
 # realgirlsmedia.com
 127.0.0.1 partners.realgirlsmedia.com
