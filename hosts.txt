@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/29
-# block hosts: 31947 entry
+# block hosts: 31946 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -41285,9 +41285,6 @@ white yt3.ggpht.com
 # overpeer.com
 127.0.0.1 overpeer.com
 127.0.0.1 www.overpeer.com
-
-# overportal.com
-127.0.0.1 www.overportal.com
 
 # oversee.net
 127.0.0.1 domainsponsor.oversee.net
