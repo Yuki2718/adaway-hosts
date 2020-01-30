@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/30
-# block hosts: 31929 entry
+# block hosts: 31927 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -18776,7 +18776,6 @@ white yt3.ggpht.com
 
 # domplayer.com
 127.0.0.1 download.domplayer.com
-127.0.0.1 playon.domplayer.com
 
 # donglink.cn
 127.0.0.1 donglink.cn
@@ -37351,7 +37350,6 @@ white yt3.ggpht.com
 127.0.0.1 n2.ads.mreco0.jp
 127.0.0.1 n5.ads.mreco0.jp
 127.0.0.1 n6.ads.mreco0.jp
-127.0.0.1 n7.ads.mreco0.jp
 127.0.0.1 n8.ads.mreco0.jp
 
 # mrejata.net
