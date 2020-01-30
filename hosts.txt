@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/30
-# block hosts: 31933 entry
+# block hosts: 31931 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -47060,7 +47060,6 @@ white yt3.ggpht.com
 127.0.0.1 installs.seekmo.com
 127.0.0.1 male-celeb-videos.powered-by.seekmo.com
 127.0.0.1 origin-ics.seekmo.com
-127.0.0.1 pariswallpapers.powered-by.seekmo.com
 127.0.0.1 pokemonpictures.powered-by.seekmo.com
 127.0.0.1 powered-by.seekmo.com
 127.0.0.1 seekmo.com
@@ -58877,7 +58876,6 @@ white yt3.ggpht.com
 127.0.0.1 gate6.powered-by.zango.com
 127.0.0.1 gate7.powered-by.zango.com
 127.0.0.1 gate9.powered-by.zango.com
-127.0.0.1 gec.zango.com
 127.0.0.1 getmusicvideocodes.powered-by.zango.com
 127.0.0.1 graffitifonts.powered-by.zango.com
 127.0.0.1 hosted.zango.com
