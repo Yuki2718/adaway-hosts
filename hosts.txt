@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/01/29
-# block hosts: 31936 entry
+# last updated: 2020/01/30
+# block hosts: 31935 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -46176,9 +46176,6 @@ white yt3.ggpht.com
 
 # russian-top.ru
 127.0.0.1 www.russian-top.ru
-
-# russiancyprus.tv
-127.0.0.1 www.russiancyprus.tv
 
 # russianextrimsex.com
 127.0.0.1 russianextrimsex.com
