@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/30
-# block hosts: 31927 entry
+# block hosts: 31926 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -42120,7 +42120,6 @@ white yt3.ggpht.com
 127.0.0.1 www211.paypopup.com
 127.0.0.1 www213.paypopup.com
 127.0.0.1 www216.paypopup.com
-127.0.0.1 www217.paypopup.com
 127.0.0.1 www219.paypopup.com
 127.0.0.1 www220.paypopup.com
 127.0.0.1 www3.paypopup.com
