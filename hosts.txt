@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/30
-# block hosts: 31931 entry
+# block hosts: 31929 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -36993,9 +36993,6 @@ white yt3.ggpht.com
 # moncler-kyoto.com
 127.0.0.1 moncler-kyoto.com
 
-# moncler-outlets.net
-127.0.0.1 www.moncler-outlets.net
-
 # monclerbrandoutlet.com
 127.0.0.1 monclerbrandoutlet.com
 
@@ -44008,7 +44005,6 @@ white yt3.ggpht.com
 127.0.0.1 ceads.us.publicus.com
 127.0.0.1 cmads.sv.publicus.com
 127.0.0.1 crimg.sv.publicus.com
-127.0.0.1 faads.no.publicus.com
 127.0.0.1 fdads.sv.publicus.com
 127.0.0.1 lladinserts.us.publicus.com
 127.0.0.1 moads.no.publicus.com
