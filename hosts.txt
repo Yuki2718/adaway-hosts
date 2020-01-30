@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/30
-# block hosts: 31935 entry
+# block hosts: 31933 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -35152,9 +35152,6 @@ white yt3.ggpht.com
 # mangasit.com
 127.0.0.1 mangasit.com
 
-# mangastop.net
-127.0.0.1 www.mangastop.net
-
 # manplay.com
 127.0.0.1 pod.manplay.com
 127.0.0.1 textad.manplay.com
@@ -51031,9 +51028,6 @@ white yt3.ggpht.com
 
 # sysomos.com
 127.0.0.1 audience.sysomos.com
-
-# system-killer.com
-127.0.0.1 www.system-killer.com
 
 # system4.nl
 127.0.0.1 www.system4.nl
