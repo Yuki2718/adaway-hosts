@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/31
-# block hosts: 31911 entry
+# block hosts: 31909 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -11296,9 +11296,6 @@ white yt3.ggpht.com
 
 # bestlandcn.com
 127.0.0.1 bestlandcn.com
-
-# bestlifeonline.com
-127.0.0.1 www62.bestlifeonline.com
 
 # bestlinkfree.com
 127.0.0.1 bestlinkfree.com
@@ -37264,9 +37261,6 @@ white yt3.ggpht.com
 # moxs.net
 127.0.0.1 moxs.net
 127.0.0.1 ox.moxs.net
-
-# mozilla.com
-127.0.0.1 ostats.mozilla.com
 
 # mp-success.com
 127.0.0.1 mp-success.com
