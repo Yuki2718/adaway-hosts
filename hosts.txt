@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/01
-# block hosts: 31906 entry
+# block hosts: 31904 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -91,9 +91,6 @@ white yt3.ggpht.com
 
 # 072m.com
 127.0.0.1 g2.072m.com
-
-# 076076.jp
-127.0.0.1 log.076076.jp
 
 # 0catch.com
 127.0.0.1 banner.0catch.com
@@ -34307,7 +34304,6 @@ white yt3.ggpht.com
 
 # livevideo.com
 127.0.0.1 analyze.livevideo.com
-127.0.0.1 traffic.livevideo.com
 
 # livewebstats.dk
 127.0.0.1 www.livewebstats.dk
