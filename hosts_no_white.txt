@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/01/31
-# block hosts: 31909 entry
+# last updated: 2020/02/01
+# block hosts: 31906 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -28920,9 +28920,6 @@
 127.0.0.1 ifriends.net
 127.0.0.1 images.ifriends.net
 
-# ifriendshdtv.com
-127.0.0.1 www.ifriendshdtv.com
-
 # ifsmarketing.com
 127.0.0.1 www.ifsmarketing.com
 
@@ -52032,9 +52029,6 @@
 # thirdmovies.com
 127.0.0.1 banners.thirdmovies.com
 
-# thirdtimetry.net
-127.0.0.1 thirdtimetry.net
-
 # thisbanner.com
 127.0.0.1 serve.thisbanner.com
 
@@ -58778,7 +58772,6 @@
 127.0.0.1 cds.zango.com
 127.0.0.1 coolvuurwerk.powered-by.zango.com
 127.0.0.1 creative.zango.com
-127.0.0.1 dane-cook.powered-by.zango.com
 127.0.0.1 davidmovie.com.powered-by.zango.com
 127.0.0.1 deansplanet.com.powered-by.zango.com
 127.0.0.1 downloads.zango.com
