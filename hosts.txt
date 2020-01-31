@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/31
-# block hosts: 31915 entry
+# block hosts: 31912 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -10729,7 +10729,6 @@ white yt3.ggpht.com
 
 # bannercampaign.com
 127.0.0.1 bannercampaign.com
-127.0.0.1 www.bannercampaign.com
 
 # bannercash.de
 127.0.0.1 bannercash.de
@@ -36997,9 +36996,6 @@ white yt3.ggpht.com
 # monclerjacketsjp2013.com
 127.0.0.1 monclerjacketsjp2013.com
 
-# monclermall.info
-127.0.0.1 monclermall.info
-
 # monclers-japan.jp
 127.0.0.1 monclers-japan.jp
 
@@ -54398,7 +54394,6 @@ white yt3.ggpht.com
 
 # unitedseo.com
 127.0.0.1 unitedseo.com
-127.0.0.1 www.unitedseo.com
 
 # unity3d.com
 127.0.0.1 adserver.unityads.unity3d.com

@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/31
-# block hosts: 31915 entry
+# block hosts: 31912 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -10685,7 +10685,6 @@
 
 # bannercampaign.com
 127.0.0.1 bannercampaign.com
-127.0.0.1 www.bannercampaign.com
 
 # bannercash.de
 127.0.0.1 bannercash.de
@@ -36953,9 +36952,6 @@
 # monclerjacketsjp2013.com
 127.0.0.1 monclerjacketsjp2013.com
 
-# monclermall.info
-127.0.0.1 monclermall.info
-
 # monclers-japan.jp
 127.0.0.1 monclers-japan.jp
 
@@ -54354,7 +54350,6 @@
 
 # unitedseo.com
 127.0.0.1 unitedseo.com
-127.0.0.1 www.unitedseo.com
 
 # unity3d.com
 127.0.0.1 adserver.unityads.unity3d.com
