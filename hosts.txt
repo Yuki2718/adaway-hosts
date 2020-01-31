@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/31
-# block hosts: 31925 entry
+# block hosts: 31923 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -26473,7 +26473,6 @@ white yt3.ggpht.com
 127.0.0.1 ehg-researchinmotion.hitbox.com
 127.0.0.1 ehg-rfa.hitbox.com
 127.0.0.1 ehg-rodale.hitbox.com
-127.0.0.1 ehg-s-shopathome.hitbox.com
 127.0.0.1 ehg-salonmedia.hitbox.com
 127.0.0.1 ehg-samsungusa.hitbox.com
 127.0.0.1 ehg-saraleeintimate.hitbox.com
@@ -58869,7 +58868,6 @@ white yt3.ggpht.com
 127.0.0.1 getmusicvideocodes.powered-by.zango.com
 127.0.0.1 graffitifonts.powered-by.zango.com
 127.0.0.1 hosted.zango.com
-127.0.0.1 iconcave.powered-by.zango.com
 127.0.0.1 idrink.powered-by.zango.com
 127.0.0.1 imp.games.zango.com
 127.0.0.1 installs.zango.com
