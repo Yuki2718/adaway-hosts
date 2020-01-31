@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/01
-# block hosts: 31903 entry
+# block hosts: 31901 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -5238,9 +5238,6 @@ white yt3.ggpht.com
 
 # adjizz.com
 127.0.0.1 media.adjizz.com
-
-# adjoema.com
-127.0.0.1 openads.adjoema.com
 
 # adjug.com
 127.0.0.1 adjug.com
@@ -56015,7 +56012,6 @@ white yt3.ggpht.com
 
 # web-url.de
 127.0.0.1 web-url.de
-127.0.0.1 www.web-url.de
 
 # web-visor.com
 127.0.0.1 c1.web-visor.com
