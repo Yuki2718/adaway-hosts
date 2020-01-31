@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/31
-# block hosts: 31920 entry
+# block hosts: 31918 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -531,7 +531,6 @@ white yt3.ggpht.com
 127.0.0.1 lseducationcollect.247realmedia.com
 127.0.0.1 lshlcollect.247realmedia.com
 127.0.0.1 lsmusiccollect.247realmedia.com
-127.0.0.1 lssportscollect.247realmedia.com
 127.0.0.1 lycos.247realmedia.com
 127.0.0.1 lycoscollect.247realmedia.com
 127.0.0.1 mediafr.247realmedia.com
@@ -57960,7 +57959,6 @@ white yt3.ggpht.com
 127.0.0.1 xtrocash.org
 
 # xtshare.com
-127.0.0.1 www.xtshare.com
 127.0.0.1 xtshare.com
 
 # xtubez.org
