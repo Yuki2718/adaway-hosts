@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/31
-# block hosts: 31918 entry
+# block hosts: 31916 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -16057,9 +16057,6 @@ white yt3.ggpht.com
 127.0.0.1 contextuads.com
 127.0.0.1 cowboy.contextuads.com
 127.0.0.1 www.contextuads.com
-
-# contextualadv.com
-127.0.0.1 www.contextualadv.com
 
 # contextualchoice.com
 127.0.0.1 www.contextualchoice.com
@@ -38118,9 +38115,6 @@ white yt3.ggpht.com
 
 # myfashionvideos.com
 127.0.0.1 www.myfashionvideos.com
-
-# myfreegamedownloads.com
-127.0.0.1 www.myfreegamedownloads.com
 
 # myfuncards.com
 127.0.0.1 utm.myfuncards.com
