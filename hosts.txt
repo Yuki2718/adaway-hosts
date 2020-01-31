@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/31
-# block hosts: 31921 entry
+# block hosts: 31920 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -42272,9 +42272,6 @@ white yt3.ggpht.com
 
 # peep-auktion.de
 127.0.0.1 peep-auktion.de
-
-# peepfinder.com
-127.0.0.1 www.peepfinder.com
 
 # peer39.com
 127.0.0.1 peer39.com
