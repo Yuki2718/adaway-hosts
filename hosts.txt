@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/01/31
-# block hosts: 31916 entry
+# block hosts: 31915 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -1840,9 +1840,6 @@ white yt3.ggpht.com
 127.0.0.1 pop10.2z0o.net
 127.0.0.1 pop2.2z0o.net
 127.0.0.1 req2.2z0o.net
-
-# 301c.com
-127.0.0.1 www.301c.com
 
 # 30ds.com
 127.0.0.1 www.30ds.com
