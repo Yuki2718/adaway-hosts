@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/01
-# block hosts: 31899 entry
+# block hosts: 31908 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -6570,6 +6570,9 @@ white yt3.ggpht.com
 127.0.0.1 adsnative.com
 127.0.0.1 api.adsnative.com
 
+# adsnavigator.mobi
+127.0.0.1 adsnavigator.mobi
+
 # adsoftware.com
 127.0.0.1 adsoftware.com
 
@@ -12942,6 +12945,9 @@ white yt3.ggpht.com
 # broomss.ru
 127.0.0.1 broomss.ru
 
+# brother-root-rich-of.xyz
+127.0.0.1 trk.brother-root-rich-of.xyz
+
 # brothersoft.com
 127.0.0.1 brothersoft.com
 
@@ -16950,6 +16956,9 @@ white yt3.ggpht.com
 
 # currentsession.net
 127.0.0.1 currentsession.net
+
+# cursecdn.com
+127.0.0.1 gamepedia.cursecdn.com
 
 # cursormania.com
 127.0.0.1 utm.cursormania.com
@@ -21669,6 +21678,12 @@ white yt3.ggpht.com
 # factorymedia.com
 127.0.0.1 ads.factorymedia.com
 
+# fadsats.com
+127.0.0.1 fadsats.com
+
+# fadsecs.com
+127.0.0.1 fadsecs.com
+
 # fairfax.com.au
 127.0.0.1 ads.fairfax.com.au
 127.0.0.1 direct.fairfax.com.au
@@ -25461,6 +25476,9 @@ white yt3.ggpht.com
 
 # growhope.com
 127.0.0.1 qksrv.growhope.com
+
+# grown-zero-breeze-belong.xyz
+127.0.0.1 trk.grown-zero-breeze-belong.xyz
 
 # grupogodo.com
 127.0.0.1 analytics.grupogodo.com
@@ -34888,6 +34906,7 @@ white yt3.ggpht.com
 
 # madcpms.com
 127.0.0.1 madcpms.com
+127.0.0.1 www.madcpms.com
 
 # maddog2000.de
 127.0.0.1 adnews.maddog2000.de
@@ -46946,7 +46965,6 @@ white yt3.ggpht.com
 
 # securityessentials-2011.com
 127.0.0.1 securityessentials-2011.com
-127.0.0.1 www.securityessentials-2011.com
 
 # securityfocus.com
 127.0.0.1 adserver.securityfocus.com
@@ -52433,7 +52451,12 @@ white yt3.ggpht.com
 127.0.0.1 top-site-list.com
 
 # top-speed-techie-webs.pw
+127.0.0.1 cdn.top-speed-techie-webs.pw
 127.0.0.1 top-speed-techie-webs.pw
+
+# top-web-phone-application.pw
+127.0.0.1 cdn.top-web-phone-application.pw
+127.0.0.1 top-web-phone-application.pw
 
 # top.ge
 127.0.0.1 counter.top.ge
