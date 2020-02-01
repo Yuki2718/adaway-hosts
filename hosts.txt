@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/01
-# block hosts: 31940 entry
+# block hosts: 31987 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -3542,6 +3542,9 @@ white yt3.ggpht.com
 127.0.0.1 fr.a2dfp.net
 127.0.0.1 m.fr.a2dfp.net
 
+# a4.tl
+127.0.0.1 apptrk.a4.tl
+
 # a411.com
 127.0.0.1 banner3.a411.com
 
@@ -5525,6 +5528,11 @@ white yt3.ggpht.com
 # admamba.com
 127.0.0.1 ad.admamba.com
 
+# adman.gr
+127.0.0.1 adman.gr
+127.0.0.1 ads3.adman.gr
+127.0.0.1 www.adman.gr
+
 # admanage.com
 127.0.0.1 admanage.com
 127.0.0.1 xml.admanage.com
@@ -5636,6 +5644,9 @@ white yt3.ggpht.com
 
 # admitad.com
 127.0.0.1 www.ad.admitad.com
+
+# admix.gr
+127.0.0.1 www.admix.gr
 
 # admixer.net
 127.0.0.1 ad.admixer.net
@@ -8466,6 +8477,10 @@ white yt3.ggpht.com
 # allaboutvision.com
 127.0.0.1 ads.allaboutvision.com
 
+# allaccess.com.ph
+127.0.0.1 adcontent2.allaccess.com.ph
+127.0.0.1 ads.allaccess.com.ph
+
 # alladultchannel.com
 127.0.0.1 oascentral.alladultchannel.com
 
@@ -9176,6 +9191,9 @@ white yt3.ggpht.com
 127.0.0.1 ad.antventure.com
 127.0.0.1 antventure.com
 127.0.0.1 served.antventure.com
+
+# anunciweb.pt
+127.0.0.1 banners.anunciweb.pt
 
 # anuntis.com
 127.0.0.1 ad.anuntis.com
@@ -10610,6 +10628,10 @@ white yt3.ggpht.com
 127.0.0.1 bango.net
 127.0.0.1 www.bango.net
 
+# bangtuoc.vn
+127.0.0.1 bangtuoc.vn
+127.0.0.1 www.bangtuoc.vn
+
 # bankrate.com
 127.0.0.1 adimage.bankrate.com
 127.0.0.1 adsrv.bankrate.com
@@ -10816,6 +10838,9 @@ white yt3.ggpht.com
 
 # bannermanagement.nl
 127.0.0.1 www.bannermanagement.nl
+
+# bannermanager.gr
+127.0.0.1 max.bannermanager.gr
 
 # bannermarkt.nl
 127.0.0.1 bannermarkt.nl
@@ -11732,6 +11757,9 @@ white yt3.ggpht.com
 # binlayer.com
 127.0.0.1 view.binlayer.com
 
+# binomax.net
+127.0.0.1 binomax.net
+
 # biscom.net
 127.0.0.1 ads.biscom.net
 
@@ -12579,6 +12607,9 @@ white yt3.ggpht.com
 # brabys.com
 127.0.0.1 ads.brabys.com
 
+# brain.pk
+127.0.0.1 ads.brain.pk
+
 # brainbuzz.com
 127.0.0.1 ad.brainbuzz.com
 
@@ -13369,6 +13400,9 @@ white yt3.ggpht.com
 # c-on-text.com
 127.0.0.1 c-on-text.com
 127.0.0.1 www.c-on-text.com
+
+# c-planet.net
+127.0.0.1 c-planet.net
 
 # c-team.jp
 127.0.0.1 c-team.jp
@@ -15860,6 +15894,7 @@ white yt3.ggpht.com
 127.0.0.1 record.commissionking.com
 
 # commissionmonster.com
+127.0.0.1 commissionmonster.com
 127.0.0.1 members.commissionmonster.com
 127.0.0.1 www.commissionmonster.com
 
@@ -17895,7 +17930,6 @@ white yt3.ggpht.com
 127.0.0.1 www.dianru.com
 
 # diary.ne.jp
-127.0.0.1 cnt.diary.ne.jp
 127.0.0.1 img.diary.ne.jp
 
 # dice.com
@@ -18723,6 +18757,9 @@ white yt3.ggpht.com
 
 # dolphinbrowser.com
 127.0.0.1 tracking.dolphinbrowser.com
+
+# dolphinprofit.com
+127.0.0.1 dolphinprofit.com
 
 # domain1936.club
 127.0.0.1 domain1936.club
@@ -21076,6 +21113,9 @@ white yt3.ggpht.com
 # euro-linkindex.de
 127.0.0.1 euro-linkindex.de
 
+# euro2day.gr
+127.0.0.1 unit2.euro2day.gr
+
 # euro4banner.com
 127.0.0.1 euro4banner.com
 
@@ -22850,6 +22890,9 @@ white yt3.ggpht.com
 # forshrd.com
 127.0.0.1 forshrd.com
 
+# forthnet.gr
+127.0.0.1 interactive.forthnet.gr
+
 # fortunecity.co.uk
 127.0.0.1 ads.fortunecity.co.uk
 
@@ -24386,6 +24429,7 @@ white yt3.ggpht.com
 
 # geobytes.com
 127.0.0.1 gd.geobytes.com
+127.0.0.1 geobytes.com
 
 # geocities.com
 127.0.0.1 pic.geocities.com
@@ -24404,6 +24448,9 @@ white yt3.ggpht.com
 
 # geotrust.com
 127.0.0.1 smarticon.geotrust.com
+
+# geoup.com
+127.0.0.1 geoup.com
 
 # geovisite.com
 127.0.0.1 geoloc12.geovisite.com
@@ -26039,6 +26086,9 @@ white yt3.ggpht.com
 127.0.0.1 advert.heise.de
 127.0.0.1 oas.heise.de
 
+# hellasnet.gr
+127.0.0.1 adserver.hellasnet.gr
+
 # hellobar.com
 127.0.0.1 ping.hellobar.com
 
@@ -26738,6 +26788,9 @@ white yt3.ggpht.com
 
 # hitslinks.com
 127.0.0.1 counter.hitslinks.com
+
+# hitslog.com
+127.0.0.1 hitslog.com
 
 # hitsniffer.com
 127.0.0.1 www.hitsniffer.com
@@ -30956,6 +31009,9 @@ white yt3.ggpht.com
 # internet.ge
 127.0.0.1 counter.internet.ge
 
+# internet.gr
+127.0.0.1 bannergrabber.internet.gr
+
 # internetcom.jp
 127.0.0.1 ad.internetcom.jp
 
@@ -32421,6 +32477,9 @@ white yt3.ggpht.com
 # kartu.lt
 127.0.0.1 ads.kartu.lt
 127.0.0.1 cache.ads.kartu.lt
+
+# kat.ph
+127.0.0.1 ad.kat.ph
 
 # katalysatormedia.no
 127.0.0.1 stat.katalysatormedia.no
@@ -34821,6 +34880,9 @@ white yt3.ggpht.com
 127.0.0.1 ads.tripod.lycos.nl
 127.0.0.1 hit.tripod.lycos.nl
 
+# lycosu.com
+127.0.0.1 lycosu.com
+
 # lynxtrack.com
 127.0.0.1 lynxtrack.com
 127.0.0.1 www.lynxtrack.com
@@ -35699,6 +35761,9 @@ white yt3.ggpht.com
 # mediaarmor.com
 127.0.0.1 ads2.mediaarmor.com
 
+# mediab.uy
+127.0.0.1 mediab.uy
+
 # mediabrilliant.com
 127.0.0.1 mediabrilliant.com
 
@@ -35707,6 +35772,11 @@ white yt3.ggpht.com
 
 # mediacampaign.org
 127.0.0.1 mediacampaign.org
+
+# mediacapital.pt
+127.0.0.1 ads.mediacapital.pt
+127.0.0.1 ads1.mediacapital.pt
+127.0.0.1 mcmads.mediacapital.pt
 
 # mediacharger.com
 127.0.0.1 devfast.mediacharger.com
@@ -38411,6 +38481,7 @@ white yt3.ggpht.com
 127.0.0.1 122907224924.c.mystat-in.net
 127.0.0.1 c.mystat-in.net
 127.0.0.1 f2.n1.b.mystat-in.net
+127.0.0.1 mystat-in.net
 
 # mystat.hu
 127.0.0.1 stat.mystat.hu
@@ -38438,6 +38509,9 @@ white yt3.ggpht.com
 # mytiwi.com
 127.0.0.1 mytiwi.com
 127.0.0.1 www.mytiwi.com
+
+# mytop-in.net
+127.0.0.1 mytop-in.net
 
 # mytopappshop2016.site
 127.0.0.1 mytopappshop2016.site
@@ -38728,6 +38802,9 @@ white yt3.ggpht.com
 
 # naughtynudesavers.com
 127.0.0.1 www.naughtynudesavers.com
+
+# nav.cx
+127.0.0.1 nav.cx
 
 # navealo.com
 127.0.0.1 navealo.com
@@ -39064,6 +39141,9 @@ white yt3.ggpht.com
 
 # netbookia.net
 127.0.0.1 netpool.netbookia.net
+
+# netcabo.pt
+127.0.0.1 pwp.netcabo.pt
 
 # netclusive.de
 127.0.0.1 ads.netclusive.de
@@ -40124,6 +40204,13 @@ white yt3.ggpht.com
 127.0.0.1 nudegayvideos.com
 127.0.0.1 www.nudegayvideos.com
 
+# nuffnang.com.my
+127.0.0.1 synad.nuffnang.com.my
+127.0.0.1 synad2.nuffnang.com.my
+
+# nuffnang.com.ph
+127.0.0.1 synad2.nuffnang.com.ph
+
 # nuffnang.com.sg
 127.0.0.1 synad2.nuffnang.com.sg
 
@@ -40922,6 +41009,9 @@ white yt3.ggpht.com
 # openoffice.org
 127.0.0.1 marketing.openoffice.org
 
+# openstat.net
+127.0.0.1 openstat.net
+
 # opensubtitles.org
 127.0.0.1 ads.opensubtitles.org
 
@@ -41156,6 +41246,9 @@ white yt3.ggpht.com
 
 # otapict.com
 127.0.0.1 otapict.com
+
+# otenet.gr
+127.0.0.1 adman.otenet.gr
 
 # otherprofit.com
 127.0.0.1 otherprofit.com
@@ -43414,6 +43507,9 @@ white yt3.ggpht.com
 
 # portugalmail.net
 127.0.0.1 adserver.portugalmail.net
+
+# portugalmail.pt
+127.0.0.1 adserver.portugalmail.pt
 
 # posing.biz
 127.0.0.1 www.posing.biz
@@ -46429,6 +46525,12 @@ white yt3.ggpht.com
 
 # sanspo.com
 127.0.0.1 u.sanspo.com
+
+# sapo.pt
+127.0.0.1 adimgs.sapo.pt
+127.0.0.1 ads.sapo.pt
+127.0.0.1 adserv.sapo.pt
+127.0.0.1 pub.sapo.pt
 
 # sarashi.com
 127.0.0.1 ct2.sarashi.com
@@ -49570,6 +49672,7 @@ white yt3.ggpht.com
 127.0.0.1 ru03-hits.spylog.com
 127.0.0.1 ru09-hits.spylog.com
 127.0.0.1 skif.spylog.com
+127.0.0.1 spylog.com
 127.0.0.1 u001.13.spylog.com
 127.0.0.1 u001.22.spylog.com
 127.0.0.1 u002.01.spylog.com
@@ -51444,6 +51547,9 @@ white yt3.ggpht.com
 # tdstats.com
 127.0.0.1 www.tdstats.com
 
+# te.pt
+127.0.0.1 adserver.te.pt
+
 # tea-nifty.com
 127.0.0.1 a.tea-nifty.com
 127.0.0.1 ax6.a.tea-nifty.com
@@ -52625,6 +52731,9 @@ white yt3.ggpht.com
 127.0.0.1 topbloglists.com
 127.0.0.1 www.topbloglists.com
 
+# topblogs.com.ph
+127.0.0.1 www.topblogs.com.ph
+
 # topbucks.com
 127.0.0.1 avalon.topbucks.com
 127.0.0.1 botw.topbucks.com
@@ -53764,6 +53873,7 @@ white yt3.ggpht.com
 127.0.0.1 api.triver.jp
 
 # trix.net
+127.0.0.1 trix.net
 127.0.0.1 www4.trix.net
 
 # trk-optimize.com
@@ -54990,6 +55100,9 @@ white yt3.ggpht.com
 
 # vcimg.jp
 127.0.0.1 i.vcimg.jp
+
+# vclick.vn
+127.0.0.1 ads.vclick.vn
 
 # vcm.jp
 127.0.0.1 ad.vcm.jp
@@ -56664,7 +56777,6 @@ white yt3.ggpht.com
 # webware.com
 127.0.0.1 adimg.webware.com
 127.0.0.1 bwp.webware.com
-127.0.0.1 mads.webware.com
 
 # wec.co.kr
 127.0.0.1 wec.co.kr
@@ -57824,6 +57936,9 @@ white yt3.ggpht.com
 
 # xl-rank.com
 127.0.0.1 www.xl-rank.com
+
+# xl.pt
+127.0.0.1 ads.xl.pt
 
 # xlisting.jp
 127.0.0.1 beacon.xlisting.jp
