@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/01
-# block hosts: 31901 entry
+# block hosts: 31899 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -57332,9 +57332,6 @@ white yt3.ggpht.com
 # wt.net
 127.0.0.1 content.wt.net
 
-# wtfmedia.com
-127.0.0.1 www.wtfmedia.com
-
 # wtfpeople.com
 127.0.0.1 ads.wtfpeople.com
 
@@ -58818,7 +58815,6 @@ white yt3.ggpht.com
 127.0.0.1 gate11.powered-by.zango.com
 127.0.0.1 gate4.powered-by.zango.com
 127.0.0.1 gate6.powered-by.zango.com
-127.0.0.1 gate7.powered-by.zango.com
 127.0.0.1 gate9.powered-by.zango.com
 127.0.0.1 getmusicvideocodes.powered-by.zango.com
 127.0.0.1 graffitifonts.powered-by.zango.com
