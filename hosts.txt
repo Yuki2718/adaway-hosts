@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/01
-# block hosts: 31916 entry
+# block hosts: 31915 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -44344,9 +44344,6 @@ white yt3.ggpht.com
 # quickcleaner.com
 127.0.0.1 quickcleaner.com
 127.0.0.1 www.quickcleaner.com
-
-# quickdfw.com
-127.0.0.1 metrics.quickdfw.com
 
 # quickeasysearch.com
 127.0.0.1 search.quickeasysearch.com
