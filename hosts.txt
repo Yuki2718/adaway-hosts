@@ -4530,7 +4530,6 @@ white yt3.ggpht.com
 127.0.0.1 fdau.adbureau.net
 127.0.0.1 ffxd-images.adbureau.net
 127.0.0.1 ggrind.adbureau.net
-127.0.0.1 granada-images.adbureau.net
 127.0.0.1 granada.adbureau.net
 127.0.0.1 haynet-images.adbureau.net
 127.0.0.1 hbpl-images.adbureau.net
@@ -8504,6 +8503,9 @@ white yt3.ggpht.com
 
 # allinsearch.net
 127.0.0.1 allinsearch.net
+
+# allmygoodlife.com
+127.0.0.1 allmygoodlife.com
 
 # alloha.info
 127.0.0.1 alloha.info
