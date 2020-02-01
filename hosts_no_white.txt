@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/01
-# block hosts: 31908 entry
+# block hosts: 31940 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -8244,6 +8244,9 @@
 # ajiang.net
 127.0.0.1 icon.ajiang.net
 
+# ajokeaday.com
+127.0.0.1 ajokeaday.com
+
 # ajouter.net
 127.0.0.1 ajouter.net
 
@@ -11470,6 +11473,9 @@
 # bicycling.com
 127.0.0.1 www62.bicycling.com
 
+# bidbuddy.com
+127.0.0.1 bidbuddy.com
+
 # bidclix.com
 127.0.0.1 ads.bidclix.com
 127.0.0.1 bidclix.com
@@ -13211,6 +13217,9 @@
 # buyfasthere.ru
 127.0.0.1 buyfasthere.ru
 
+# buyfinasteride.com
+127.0.0.1 buyfinasteride.com
+
 # buyfluoxetineonline.com
 127.0.0.1 buyfluoxetineonline.com
 
@@ -14677,6 +14686,7 @@
 # clearspring.com
 127.0.0.1 as.clearspring.com
 127.0.0.1 bin.clearspring.com
+127.0.0.1 clearspring.com
 127.0.0.1 vp-cf.clearspring.com
 127.0.0.1 vp-o.clearspring.com
 127.0.0.1 www.clearspring.com
@@ -15216,6 +15226,9 @@
 127.0.0.1 ads.clicmanager.fr
 127.0.0.1 clicmanager.fr
 
+# clicshop.com
+127.0.0.1 clicshop.com
+
 # clictrafic.com
 127.0.0.1 clictrafic.com
 
@@ -15620,6 +15633,7 @@
 127.0.0.1 c.codeonclick.com
 
 # cogtree.com
+127.0.0.1 cogtree.com
 127.0.0.1 www.cogtree.com
 
 # coin-hive.com
@@ -15633,6 +15647,9 @@
 
 # coinerra.com
 127.0.0.1 coinerra.com
+
+# coinlab.biz
+127.0.0.1 coinlab.biz
 
 # coinnebula.com
 127.0.0.1 coinnebula.com
@@ -17932,6 +17949,7 @@
 127.0.0.1 adserver.digitalmedianet.com
 
 # digitalnames.net
+127.0.0.1 digitalnames.net
 127.0.0.1 download.digitalnames.net
 127.0.0.1 search.digitalnames.net
 127.0.0.1 service1.digitalnames.net
@@ -19850,6 +19868,9 @@
 # edonkey2000.at
 127.0.0.1 edonkey2000.at
 
+# edua29146y.com
+127.0.0.1 edua29146y.com
+
 # educationworld.com
 127.0.0.1 ads.educationworld.com
 
@@ -21277,6 +21298,7 @@
 127.0.0.1 www.exchangead.com
 
 # exchangebanner.com
+127.0.0.1 exchangebanner.com
 127.0.0.1 www.exchangebanner.com
 
 # exchangeclicksonline.com
@@ -23003,6 +23025,9 @@
 
 # free-top-apps.com
 127.0.0.1 free-top-apps.com
+
+# free-toplisten.at
+127.0.0.1 www.free-toplisten.at
 
 # free-video-movie.com
 127.0.0.1 free-video-movie.com
@@ -26088,6 +26113,7 @@
 
 # heyos.com
 127.0.0.1 admaster.heyos.com
+127.0.0.1 heyos.com
 
 # heypo.com
 127.0.0.1 ad.heypo.com
@@ -30032,6 +30058,7 @@
 # intelli-direct.com
 127.0.0.1 anm.intelli-direct.com
 127.0.0.1 info.intelli-direct.com
+127.0.0.1 intelli-direct.com
 127.0.0.1 oxfam.intelli-direct.com
 127.0.0.1 tui.intelli-direct.com
 127.0.0.1 www.intelli-direct.com
@@ -32718,6 +32745,9 @@
 # kosmix.com
 127.0.0.1 poweredby.kosmix.com
 
+# kotoran.com
+127.0.0.1 kotoran.com
+
 # koukoku.red
 127.0.0.1 koukoku.red
 
@@ -33340,9 +33370,6 @@
 # link.ru
 127.0.0.1 link.link.ru
 127.0.0.1 link.ru
-
-# link24.ir
-127.0.0.1 www.ads.link24.ir
 
 # link2blogs.com
 127.0.0.1 www.link2blogs.com
@@ -34853,6 +34880,7 @@
 
 # macrovirus.com
 127.0.0.1 download.macrovirus.com
+127.0.0.1 macrovirus.com
 127.0.0.1 www.macrovirus.com
 
 # macsolutions.com
@@ -35274,6 +35302,9 @@
 
 # masell.net
 127.0.0.1 banner.masell.net
+
+# mass-traffic.com
+127.0.0.1 mass-traffic.com
 
 # massivepass.com
 127.0.0.1 www1.massivepass.com
@@ -35841,6 +35872,7 @@
 127.0.0.1 1274.mediatraffic.com
 127.0.0.1 cpcfeed.mediatraffic.com
 127.0.0.1 cpvfeed.mediatraffic.com
+127.0.0.1 mediatraffic.com
 127.0.0.1 www.mediatraffic.com
 
 # mediatrafficagency.com
@@ -36644,6 +36676,7 @@
 
 # moatads.com
 127.0.0.1 js.moatads.com
+127.0.0.1 moatads.com
 127.0.0.1 z.moatads.com
 
 # moba8.net
@@ -39268,6 +39301,7 @@
 # netway.at
 127.0.0.1 pfead1.netway.at
 127.0.0.1 pfead2.netway.at
+127.0.0.1 pfead3.netway.at
 127.0.0.1 pfead4.netway.at
 
 # netwayz.com.sg
@@ -42050,6 +42084,9 @@
 127.0.0.1 paypersaleadvertising.com
 127.0.0.1 www.paypersaleadvertising.com
 
+# paypertext.com
+127.0.0.1 paypertext.com
+
 # paypopup.com
 127.0.0.1 banner.paypopup.com
 127.0.0.1 central.paypopup.com
@@ -42974,6 +43011,9 @@
 
 # pokerstrategy.com
 127.0.0.1 pokerstrategy.com
+
+# pokoran.com
+127.0.0.1 pokoran.com
 
 # policeiri.org
 127.0.0.1 policeiri.org
@@ -47384,6 +47424,7 @@
 
 # sexswap.com
 127.0.0.1 cgi.sexswap.com
+127.0.0.1 sexswap.com
 
 # sexswap2.com
 127.0.0.1 cgi.sexswap2.com
@@ -49395,6 +49436,9 @@
 # spotscenered.info
 127.0.0.1 engine.spotscenered.info
 
+# spotx.tv
+127.0.0.1 spotx.tv
+
 # spotxchange.com
 127.0.0.1 search.spotxchange.com
 127.0.0.1 spotxchange.com
@@ -50300,6 +50344,9 @@
 
 # str8up.com
 127.0.0.1 ads.str8up.com
+
+# strakka.com
+127.0.0.1 strakka.com
 
 # strategy.com
 127.0.0.1 strategy.com
@@ -51237,6 +51284,7 @@
 127.0.0.1 fad-411.mtl4.targetnet.com
 127.0.0.1 fad-413.mtl4.targetnet.com
 127.0.0.1 focusin.ads.targetnet.com
+127.0.0.1 targetnet.com
 
 # targetpoint.com
 127.0.0.1 dev.targetpoint.com
@@ -52229,6 +52277,9 @@
 # tizer8.net
 127.0.0.1 tizer8.net
 
+# tizermy.net
+127.0.0.1 tizermy.net
+
 # tizers.net
 127.0.0.1 tizers.net
 
@@ -53182,6 +53233,7 @@
 127.0.0.1 rt.trafficfacts.com
 
 # trafficfile.com
+127.0.0.1 trafficfile.com
 127.0.0.1 www.trafficfile.com
 
 # trafficflame.com
@@ -53778,6 +53830,7 @@
 127.0.0.1 trustedtop10.com
 
 # trustgauge.com
+127.0.0.1 trustgauge.com
 127.0.0.1 www.trustgauge.com
 
 # trustnet.com
@@ -54084,6 +54137,7 @@
 127.0.0.1 p1.tcr21.tynt.com
 127.0.0.1 tcr.tynt.com
 127.0.0.1 tcr111.tynt.com
+127.0.0.1 tynt.com
 127.0.0.1 www.tynt.com
 127.0.0.1 wz.tynt.com
 
@@ -54668,6 +54722,7 @@
 127.0.0.1 openads.utv.bg
 
 # uur.at
+127.0.0.1 uur.at
 127.0.0.1 www.uur.at
 
 # uusee.com
@@ -55602,6 +55657,7 @@
 127.0.0.1 www.vombasavers.com
 
 # vombashots.com
+127.0.0.1 vombashots.com
 127.0.0.1 www.vombashots.com
 
 # vonage.com
@@ -56396,6 +56452,9 @@
 127.0.0.1 support.websidestory.com
 127.0.0.1 websidestory.com
 127.0.0.1 www.websidestory.com
+
+# website-designs.com
+127.0.0.1 website-designs.com
 
 # website-hit-counters.com
 127.0.0.1 www.website-hit-counters.com
@@ -59017,6 +59076,7 @@
 
 # zenoviaexchange.com
 127.0.0.1 ads1.zenoviaexchange.com
+127.0.0.1 zenoviaexchange.com
 
 # zenzuu.com
 127.0.0.1 zenzuu.com
