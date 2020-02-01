@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/01
-# block hosts: 31908 entry
+# block hosts: 31913 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -11159,6 +11159,9 @@
 # belugaboost.com
 127.0.0.1 ad.belugaboost.com
 127.0.0.1 aens.belugaboost.com
+
+# bemobtrk.com
+127.0.0.1 4s2g1.bemobtrk.com
 
 # benaughty.com
 127.0.0.1 m.benaughty.com
@@ -46113,6 +46116,9 @@
 # russiantwinksecrets.com
 127.0.0.1 russiantwinksecrets.com
 
+# rustamprivet.download
+127.0.0.1 rustamprivet.download
+
 # ruswm.com
 127.0.0.1 ruswm.com
 
@@ -46231,6 +46237,12 @@
 
 # sacredphoenix.com
 127.0.0.1 www.sacredphoenix.com
+
+# sadsabz.com
+127.0.0.1 sadsabz.com
+
+# sadsimz.com
+127.0.0.1 sadsimz.com
 
 # safebro.site
 127.0.0.1 safebro.site
@@ -46862,6 +46874,9 @@
 
 # securecasting.com
 127.0.0.1 go.securecasting.com
+
+# securecloud-smart.com
+127.0.0.1 securecloud-smart.com
 
 # securedataimages.com
 127.0.0.1 banners.securedataimages.com
