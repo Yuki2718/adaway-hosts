@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/01
-# block hosts: 31897 entry
+# block hosts: 31899 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -3946,6 +3946,9 @@ white yt3.ggpht.com
 127.0.0.1 acim.com
 127.0.0.1 ns1.acim.com
 127.0.0.1 ns2.acim.com
+
+# acloudimages.com
+127.0.0.1 cdn15.acloudimages.com
 
 # acmexxx.com
 127.0.0.1 www.acmexxx.com
@@ -8886,6 +8889,9 @@ white yt3.ggpht.com
 127.0.0.1 accuprod.amobee.com
 127.0.0.1 amobee.com
 127.0.0.1 vfdeprod.amobee.com
+
+# ampugi334f.com
+127.0.0.1 www.ampugi334f.com
 
 # ampxchange.com
 127.0.0.1 pmpt.ampxchange.com
