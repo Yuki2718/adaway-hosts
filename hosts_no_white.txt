@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/01
-# block hosts: 31914 entry
+# block hosts: 31912 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -14637,7 +14637,6 @@
 
 # cleaner-2009.com
 127.0.0.1 cleaner-2009.com
-127.0.0.1 www.cleaner-2009.com
 
 # cleanprint.net
 127.0.0.1 cleanprint.net
@@ -58817,7 +58816,6 @@
 127.0.0.1 downloads.zango.com
 127.0.0.1 fightvideos.powered-by.zango.com
 127.0.0.1 frazoogames.powered-by.zango.com
-127.0.0.1 freesudokus.powered-by.zango.com
 127.0.0.1 games.zango.com
 127.0.0.1 gate11.powered-by.zango.com
 127.0.0.1 gate4.powered-by.zango.com
