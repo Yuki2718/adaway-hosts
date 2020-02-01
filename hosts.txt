@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/01
-# block hosts: 31917 entry
+# block hosts: 31916 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -526,7 +526,6 @@ white yt3.ggpht.com
 127.0.0.1 ipro.247realmedia.com
 127.0.0.1 looksmartcollect.247realmedia.com
 127.0.0.1 lseducationcollect.247realmedia.com
-127.0.0.1 lshlcollect.247realmedia.com
 127.0.0.1 lsmusiccollect.247realmedia.com
 127.0.0.1 lycos.247realmedia.com
 127.0.0.1 lycoscollect.247realmedia.com
