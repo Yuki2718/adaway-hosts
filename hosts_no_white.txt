@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/01
-# block hosts: 31899 entry
+# block hosts: 31897 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -17980,9 +17980,6 @@
 
 # dingophone.com
 127.0.0.1 www.dingophone.com
-
-# diorheadache.info
-127.0.0.1 diorheadache.info
 
 # dip.jp
 127.0.0.1 analyzer.dip.jp
@@ -38635,7 +38632,6 @@
 127.0.0.1 nv1.ad.naver.com
 127.0.0.1 nv2.ad.naver.com
 127.0.0.1 nv3.ad.naver.com
-127.0.0.1 nv5.ad.naver.com
 127.0.0.1 wrd.naver.com
 
 # naver.jp
