@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/01
-# block hosts: 31912 entry
+# block hosts: 31908 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -16049,7 +16049,6 @@ white yt3.ggpht.com
 
 # contextads.net
 127.0.0.1 js.contextads.net
-127.0.0.1 test.contextads.net
 
 # contextmatters.de
 127.0.0.1 intext.contextmatters.de
@@ -37006,9 +37005,6 @@ white yt3.ggpht.com
 # monclerdowns2013.com
 127.0.0.1 monclerdowns2013.com
 
-# monclerfashions.info
-127.0.0.1 monclerfashions.info
-
 # monclerfrees.info
 127.0.0.1 monclerfrees.info
 
@@ -50459,9 +50455,6 @@ white yt3.ggpht.com
 # subscriberbase.com
 127.0.0.1 subscriberbase.com
 
-# subway.com
-127.0.0.1 sdc.subway.com
-
 # success123.com
 127.0.0.1 success123.com
 
@@ -53938,7 +53931,6 @@ white yt3.ggpht.com
 
 # tulsaworld.com
 127.0.0.1 metrics.tulsaworld.com
-127.0.0.1 sdc.tulsaworld.com
 
 # tumabeni.com
 127.0.0.1 ct1.tumabeni.com
