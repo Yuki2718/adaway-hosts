@@ -18225,7 +18225,6 @@ white yt3.ggpht.com
 
 # ditto.com
 127.0.0.1 agentq.ditto.com
-127.0.0.1 js.ditto.com
 127.0.0.1 media.ditto.com
 
 # divinecaroline.com
@@ -52432,6 +52431,9 @@ white yt3.ggpht.com
 
 # top-site-list.com
 127.0.0.1 top-site-list.com
+
+# top-speed-techie-webs.pw
+127.0.0.1 top-speed-techie-webs.pw
 
 # top.ge
 127.0.0.1 counter.top.ge
