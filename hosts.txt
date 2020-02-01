@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/01
-# block hosts: 31913 entry
+# block hosts: 31917 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -13057,6 +13057,9 @@ white yt3.ggpht.com
 # builder.com
 127.0.0.1 builder.com
 
+# builderredirect.com
+127.0.0.1 track.builderredirect.com
+
 # buildonlinetests.com
 127.0.0.1 buildonlinetests.com
 
@@ -18303,6 +18306,9 @@ white yt3.ggpht.com
 # dlsite.jp
 127.0.0.1 dlsite.jp
 
+# dlurumhpcq.website
+127.0.0.1 ihu1mafh.dlurumhpcq.website
+
 # dlv4.com
 127.0.0.1 es6-scripts.dlv4.com
 127.0.0.1 scripts.dlv4.com
@@ -18700,6 +18706,9 @@ white yt3.ggpht.com
 
 # dolphinbrowser.com
 127.0.0.1 tracking.dolphinbrowser.com
+
+# domain1936.club
+127.0.0.1 domain1936.club
 
 # domainadvertising.com
 127.0.0.1 publishers.domainadvertising.com
@@ -21686,6 +21695,9 @@ white yt3.ggpht.com
 
 # fadsecs.com
 127.0.0.1 fadsecs.com
+
+# fadsims.com
+127.0.0.1 fadsims.com
 
 # fairfax.com.au
 127.0.0.1 ads.fairfax.com.au
@@ -33189,9 +33201,6 @@ white yt3.ggpht.com
 # levislikewise.com
 127.0.0.1 levislikewise.com
 
-# levislimb.com
-127.0.0.1 levislimb.com
-
 # levislime.com
 127.0.0.1 levislime.com
 
@@ -44403,6 +44412,9 @@ white yt3.ggpht.com
 # qwertystudios.com
 127.0.0.1 www.qwertystudios.com
 
+# qwertytracks.com
+127.0.0.1 qwertytracks.com
+
 # qwobl.net
 127.0.0.1 technologyreview.qwobl.net
 
@@ -46448,6 +46460,9 @@ white yt3.ggpht.com
 
 # scadnet.com
 127.0.0.1 scadnet.com
+
+# scaleredirect.fun
+127.0.0.1 scaleredirect.fun
 
 # scambiobanner.tv
 127.0.0.1 www.scambiobanner.tv
@@ -54975,9 +54990,6 @@ white yt3.ggpht.com
 # vegasred.com
 127.0.0.1 banner.vegasred.com
 127.0.0.1 cachebanner.vegasred.com
-
-# vegnews.com
-127.0.0.1 lance.vegnews.com
 
 # veille-referencement.com
 127.0.0.1 veille-referencement.com
