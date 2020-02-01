@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/01
-# block hosts: 31987 entry
+# block hosts: 31986 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -11555,7 +11555,6 @@
 
 # big-tits-orgasm.biz
 127.0.0.1 big-tits-orgasm.biz
-127.0.0.1 www.big-tits-orgasm.biz
 
 # bigad.com.au
 127.0.0.1 www.bigad.com.au
