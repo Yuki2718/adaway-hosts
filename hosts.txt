@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/02
-# block hosts: 31985 entry
+# block hosts: 31983 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -14453,7 +14453,6 @@ white yt3.ggpht.com
 127.0.0.1 kw123.chinoc.net
 127.0.0.1 kw15.chinoc.net
 127.0.0.1 kw82.chinoc.net
-127.0.0.1 kw83.chinoc.net
 127.0.0.1 v5.chinoc.net
 
 # chint-lf.com
@@ -31911,9 +31910,6 @@ white yt3.ggpht.com
 
 # janesguide.com
 127.0.0.1 adserver.janesguide.com
-
-# japancanadagoose.biz
-127.0.0.1 japancanadagoose.biz
 
 # japaneseanime.com
 127.0.0.1 ctc.japaneseanime.com
