@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/02/01
-# block hosts: 31986 entry
+# last updated: 2020/02/02
+# block hosts: 31985 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -11322,7 +11322,6 @@
 
 # bestsearchlink.com
 127.0.0.1 bestsearchlink.com
-127.0.0.1 www.bestsearchlink.com
 
 # bestserials.com
 127.0.0.1 bestserials.com
