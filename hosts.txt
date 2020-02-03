@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/03
-# block hosts: 31971 entry
+# block hosts: 31972 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -40767,6 +40767,9 @@ white yt3.ggpht.com
 
 # oneriot.com
 127.0.0.1 api.ads.oneriot.com
+
+# onesafesoftware.com
+127.0.0.1 onesafesoftware.com
 
 # onescreen.net
 127.0.0.1 cdn.onescreen.net
