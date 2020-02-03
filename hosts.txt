@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/02/02
-# block hosts: 31983 entry
+# last updated: 2020/02/03
+# block hosts: 31982 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -44127,7 +44127,6 @@ white yt3.ggpht.com
 127.0.0.1 nyads.ny.publicus.com
 127.0.0.1 ptads.sv.publicus.com
 127.0.0.1 rhads.sv.publicus.com
-127.0.0.1 sfads.no.publicus.com
 127.0.0.1 shads.no.publicus.com
 127.0.0.1 siads.sv.publicus.com
 127.0.0.1 tpads.sv.publicus.com
