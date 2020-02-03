@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/03
-# block hosts: 31977 entry
+# block hosts: 31974 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -8177,7 +8177,6 @@ white yt3.ggpht.com
 
 # aggregateknowledge.com
 127.0.0.1 d.aggregateknowledge.com
-127.0.0.1 html.aggregateknowledge.com
 
 # agilemedia.jp
 127.0.0.1 ad.agilemedia.jp
@@ -24956,9 +24955,6 @@ white yt3.ggpht.com
 # goerie.com
 127.0.0.1 oascentral.goerie.com
 
-# gofewscan.com
-127.0.0.1 gofewscan.com
-
 # gofreetube.com
 127.0.0.1 x.gofreetube.com
 
@@ -39758,9 +39754,6 @@ white yt3.ggpht.com
 127.0.0.1 bill.dce.nextstat.com
 127.0.0.1 dce.nextstat.com
 127.0.0.1 hits.nextstat.com
-
-# nextwebmeter.com
-127.0.0.1 next.nextwebmeter.com
 
 # nexusmedia.net
 127.0.0.1 www.nexusmedia.net
