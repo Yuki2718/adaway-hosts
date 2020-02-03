@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/03
-# block hosts: 31974 entry
+# block hosts: 31971 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -7087,7 +7087,6 @@ white yt3.ggpht.com
 # adultcash.com
 127.0.0.1 ads.adultcash.com
 127.0.0.1 exits.adultcash.com
-127.0.0.1 exits2.adultcash.com
 127.0.0.1 home.adultcash.com
 127.0.0.1 popfree.adultcash.com
 127.0.0.1 www.adultcash.com
@@ -8219,7 +8218,6 @@ white yt3.ggpht.com
 127.0.0.1 fiona.ai.net
 
 # aiasahi.jp
-127.0.0.1 emp.aiasahi.jp
 127.0.0.1 imp.aiasahi.jp
 
 # aid-ad.jp
@@ -58938,9 +58936,6 @@ white yt3.ggpht.com
 127.0.0.1 cdn-01.yumenetworks.com
 127.0.0.1 pl.yumenetworks.com
 127.0.0.1 pl1.yumenetworks.com
-
-# yummyclips.com
-127.0.0.1 www.yummyclips.com
 
 # yupimsn.com
 127.0.0.1 ads.yupimsn.com
