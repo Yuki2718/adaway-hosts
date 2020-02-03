@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/04
-# block hosts: 31966 entry
+# block hosts: 31967 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -33369,6 +33369,9 @@
 127.0.0.1 17067.dialer.lincassa.com
 127.0.0.1 20429.dialer.lincassa.com
 127.0.0.1 21294.dialer.lincassa.com
+
+# line-apps.com
+127.0.0.1 torimochi.line-apps.com
 
 # line-cross.com
 127.0.0.1 line-cross.com
