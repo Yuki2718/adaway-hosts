@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/04
-# block hosts: 31967 entry
+# block hosts: 31968 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -12119,6 +12119,9 @@ white yt3.ggpht.com
 # blogspot.com
 127.0.0.1 pcbutts1-therealtruth.blogspot.com
 127.0.0.1 sundayomg.blogspot.com
+
+# blogsys.jp
+127.0.0.1 richlink.blogsys.jp
 
 # blogtalkradio.com
 127.0.0.1 ads.blogtalkradio.com
