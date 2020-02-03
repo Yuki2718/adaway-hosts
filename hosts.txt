@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/02/03
-# block hosts: 31970 entry
+# last updated: 2020/02/04
+# block hosts: 31966 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -10312,7 +10312,6 @@ white yt3.ggpht.com
 127.0.0.1 rknet.axelsfun.com
 127.0.0.1 ttiger.axelsfun.com
 127.0.0.1 vasmedia.axelsfun.com
-127.0.0.1 vogue007.axelsfun.com
 127.0.0.1 xapster.axelsfun.com
 
 # axf8.net
@@ -25260,9 +25259,6 @@ white yt3.ggpht.com
 # goscantype.com
 127.0.0.1 goscantype.com
 
-# goscanwing.com
-127.0.0.1 goscanwing.com
-
 # goserv.com
 127.0.0.1 goserv.com
 
@@ -31150,7 +31146,6 @@ white yt3.ggpht.com
 
 # invitemedia.com
 127.0.0.1 cdn2.invitemedia.com
-127.0.0.1 ev7.bid.invitemedia.com
 127.0.0.1 ev9.bid.invitemedia.com
 127.0.0.1 g-pixel.invitemedia.com
 127.0.0.1 g.va.bid.invitemedia.com
@@ -54243,9 +54238,6 @@ white yt3.ggpht.com
 
 # tx2.ru
 127.0.0.1 tx2.ru
-
-# txcsupport.com
-127.0.0.1 www.txcsupport.com
 
 # txxx.com
 127.0.0.1 ashot.txxx.com
