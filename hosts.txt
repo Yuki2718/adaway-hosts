@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/03
-# block hosts: 31979 entry
+# block hosts: 31977 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -37065,9 +37065,6 @@ white yt3.ggpht.com
 127.0.0.1 mokono.com
 127.0.0.1 www.mokono.com
 
-# moksly.com
-127.0.0.1 moksly.com
-
 # momark.cc
 127.0.0.1 api.momark.cc
 
@@ -43369,7 +43366,6 @@ white yt3.ggpht.com
 
 # porn-forever.com
 127.0.0.1 porn-forever.com
-127.0.0.1 www.porn-forever.com
 
 # porn-getter.com
 127.0.0.1 porn-getter.com
