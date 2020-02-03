@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/03
-# block hosts: 31982 entry
+# block hosts: 31980 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -52543,9 +52543,6 @@ white yt3.ggpht.com
 127.0.0.1 affiliate.tokyo-tube-ad.com
 127.0.0.1 pic.tokyo-tube-ad.com
 
-# tokyocanadagoose.biz
-127.0.0.1 tokyocanadagoose.biz
-
 # tom.com
 127.0.0.1 ad.tom.com
 127.0.0.1 usmsad.tom.com
@@ -59023,7 +59020,6 @@ white yt3.ggpht.com
 127.0.0.1 gate11.powered-by.zango.com
 127.0.0.1 gate4.powered-by.zango.com
 127.0.0.1 gate6.powered-by.zango.com
-127.0.0.1 gate9.powered-by.zango.com
 127.0.0.1 getmusicvideocodes.powered-by.zango.com
 127.0.0.1 graffitifonts.powered-by.zango.com
 127.0.0.1 hosted.zango.com
