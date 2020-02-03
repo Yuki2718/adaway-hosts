@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/03
-# block hosts: 31972 entry
+# block hosts: 31970 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -32600,9 +32600,6 @@
 # kinxxx.com
 127.0.0.1 ads.kinxxx.com
 
-# kioriti.info
-127.0.0.1 kioriti.info
-
 # kiosked.com
 127.0.0.1 kiosked.com
 127.0.0.1 scripts.kiosked.com
@@ -38160,9 +38157,6 @@
 # myetracker.com
 127.0.0.1 myetracker.com
 127.0.0.1 www.myetracker.com
-
-# myfashionvideos.com
-127.0.0.1 www.myfashionvideos.com
 
 # myfuncards.com
 127.0.0.1 utm.myfuncards.com
