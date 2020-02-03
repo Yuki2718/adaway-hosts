@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/04
-# block hosts: 31968 entry
+# block hosts: 31967 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -10259,7 +10259,6 @@
 127.0.0.1 horoxxx.axelsfun.com
 127.0.0.1 mrwally.axelsfun.com
 127.0.0.1 p138920c.axelsfun.com
-127.0.0.1 p144924c.axelsfun.com
 127.0.0.1 p145083c.axelsfun.com
 127.0.0.1 p171605.axelsfun.com
 127.0.0.1 p174613c.axelsfun.com
