@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/04
-# block hosts: 31964 entry
+# block hosts: 31962 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -22880,7 +22880,6 @@
 
 # foundry42.com
 127.0.0.1 media.foundry42.com
-127.0.0.1 tracking.foundry42.com
 
 # foundrymusic.com
 127.0.0.1 phpads.foundrymusic.com
@@ -33034,7 +33033,6 @@
 
 # layer-ads.org
 127.0.0.1 layer-ads.org
-127.0.0.1 www.layer-ads.org
 
 # lbb.org
 127.0.0.1 ad.lbb.org
