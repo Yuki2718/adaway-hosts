@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/04
-# block hosts: 31967 entry
+# block hosts: 31966 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -41069,9 +41069,6 @@ white yt3.ggpht.com
 # opt-media.com
 127.0.0.1 opt-media.com
 127.0.0.1 www.opt-media.com
-
-# opt.ne.jp
-127.0.0.1 log.opt.ne.jp
 
 # opt.pf
 127.0.0.1 pub.opt.pf
