@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/05
-# block hosts: 31953 entry
+# block hosts: 31952 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -18089,7 +18089,6 @@ white yt3.ggpht.com
 127.0.0.1 dineoutfreetoday.com
 
 # dinerotica.com
-127.0.0.1 w3.dinerotica.com
 127.0.0.1 www.dinerotica.com
 
 # dingophone.com
