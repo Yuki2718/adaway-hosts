@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/05
-# block hosts: 31943 entry
+# block hosts: 31942 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -9305,7 +9305,6 @@
 127.0.0.1 an.appads.com
 127.0.0.1 appads.com
 127.0.0.1 caggsm-img.appads.com
-127.0.0.1 galatea2.appads.com
 127.0.0.1 galatea3.appads.com
 127.0.0.1 img.appads.com
 127.0.0.1 jupiter.appads.com
