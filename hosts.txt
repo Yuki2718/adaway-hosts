@@ -17867,7 +17867,6 @@ white yt3.ggpht.com
 127.0.0.1 ads.devx.com
 127.0.0.1 adserver.devx.com
 127.0.0.1 assets.devx.com
-127.0.0.1 mjxads.devx.com
 127.0.0.1 networkads.devx.com
 
 # dff.jp
@@ -22766,6 +22765,7 @@ white yt3.ggpht.com
 # focas.jp
 127.0.0.1 adroute.focas.jp
 127.0.0.1 focas.jp
+127.0.0.1 pc-adroute.focas.jp
 127.0.0.1 static.adroute.focas.jp
 
 # focus-news.net
