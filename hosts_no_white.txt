@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/05
-# block hosts: 31949 entry
+# block hosts: 31948 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -34859,7 +34859,6 @@
 
 # m1e.net
 127.0.0.1 m01.m1e.net
-127.0.0.1 m02.m1e.net
 127.0.0.1 m1e.net
 
 # m2k.ru
