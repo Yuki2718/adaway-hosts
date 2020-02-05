@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/05
-# block hosts: 31957 entry
+# block hosts: 31955 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -45474,9 +45474,6 @@ white yt3.ggpht.com
 127.0.0.1 rentracks.jp
 127.0.0.1 www.rentracks.jp
 
-# rentyourdot.com
-127.0.0.1 www.rentyourdot.com
-
 # reon.club
 127.0.0.1 reon.club
 
@@ -47749,7 +47746,6 @@ white yt3.ggpht.com
 127.0.0.1 juliaroberts.sexybabesx.com
 127.0.0.1 juliastiles.sexybabesx.com
 127.0.0.1 katebeckinsale.sexybabesx.com
-127.0.0.1 katehudson.sexybabesx.com
 127.0.0.1 katemoss.sexybabesx.com
 127.0.0.1 katewinslet.sexybabesx.com
 127.0.0.1 katieholmes.sexybabesx.com
