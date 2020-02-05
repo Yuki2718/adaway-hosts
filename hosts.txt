@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/05
-# block hosts: 31948 entry
+# block hosts: 31945 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -16376,9 +16376,6 @@ white yt3.ggpht.com
 
 # counterdata.com
 127.0.0.1 www.counterdata.com
-
-# counterforlife.com
-127.0.0.1 xml.counterforlife.com
 
 # counterguide.com
 127.0.0.1 www.counterguide.com
@@ -43288,7 +43285,6 @@ white yt3.ggpht.com
 127.0.0.1 spike669.popunder.ru
 127.0.0.1 stepan007.popunder.ru
 127.0.0.1 tengo.popunder.ru
-127.0.0.1 the-kret.popunder.ru
 127.0.0.1 tvzebra.popunder.ru
 127.0.0.1 vaime.net.popunder.ru
 127.0.0.1 viper.popunder.ru
@@ -58984,7 +58980,6 @@ white yt3.ggpht.com
 127.0.0.1 newgrounds.dressup.powered-by.zango.com
 127.0.0.1 shared.zango.com
 127.0.0.1 showtimes.zango.com
-127.0.0.1 sitefinder.zango.com
 127.0.0.1 snapshot.powered-by.zango.com
 127.0.0.1 te1.zango.com
 127.0.0.1 tv.zango.com
