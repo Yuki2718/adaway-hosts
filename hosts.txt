@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/02/04
-# block hosts: 31962 entry
+# last updated: 2020/02/05
+# block hosts: 31961 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -307,7 +307,6 @@ white yt3.ggpht.com
 127.0.0.1 installs.180solutions.com
 127.0.0.1 ping.180solutions.com
 127.0.0.1 tv.180solutions.com
-127.0.0.1 tvf.180solutions.com
 127.0.0.1 www.180solutions.com
 
 # 189works.com
