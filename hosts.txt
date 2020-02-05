@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/05
-# block hosts: 31961 entry
+# block hosts: 31960 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -42932,7 +42932,6 @@ white yt3.ggpht.com
 
 # platrium.com
 127.0.0.1 games.platrium.com
-127.0.0.1 gec.platrium.com
 127.0.0.1 installs.platrium.com
 127.0.0.1 www.platrium.com
 
