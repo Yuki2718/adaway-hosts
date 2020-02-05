@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/05
-# block hosts: 31945 entry
+# block hosts: 31944 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -13555,9 +13555,6 @@ white yt3.ggpht.com
 
 # canadian-pharmacy-store.com
 127.0.0.1 canadian-pharmacy-store.com
-
-# canadian-pharmacyss.com
-127.0.0.1 www.canadian-pharmacyss.com
 
 # canadian-rxpill.com
 127.0.0.1 canadian-rxpill.com
