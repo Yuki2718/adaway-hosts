@@ -4312,6 +4312,9 @@
 127.0.0.1 c.ad6media.fr
 127.0.0.1 fwg0b0sfig.s.ad6media.fr
 
+# ad999.biz
+127.0.0.1 ad999.biz
+
 # adaction.de
 127.0.0.1 adaction.de
 
@@ -58955,7 +58958,6 @@
 127.0.0.1 myspacegraphicsx.powered-by.zango.com
 127.0.0.1 narutowallpaper.powered-by.zango.com
 127.0.0.1 newgrounds.dressup.powered-by.zango.com
-127.0.0.1 planet.nana.co.il.powered-by.zango.com
 127.0.0.1 shared.zango.com
 127.0.0.1 showtimes.zango.com
 127.0.0.1 sitefinder.zango.com
