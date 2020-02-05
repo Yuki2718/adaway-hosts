@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/05
-# block hosts: 31940 entry
+# block hosts: 31938 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -26111,9 +26111,6 @@
 127.0.0.1 herfirstdv.biz
 127.0.0.1 www.herfirstdv.biz
 
-# hermesoutletbagsjp.com
-127.0.0.1 hermesoutletbagsjp.com
-
 # hermoment.com
 127.0.0.1 ads2.hermoment.com
 127.0.0.1 www.hermoment.com
@@ -48454,7 +48451,6 @@
 127.0.0.1 sitestatz.com
 
 # sitetracker.com
-127.0.0.1 pomeranian99.sitetracker.com
 127.0.0.1 sitetracker.com
 127.0.0.1 sovereign.sitetracker.com
 127.0.0.1 www.sitetracker.com
