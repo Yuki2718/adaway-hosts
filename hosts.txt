@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/05
-# block hosts: 31960 entry
+# block hosts: 31958 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -11448,9 +11448,6 @@ white yt3.ggpht.com
 
 # betternetworker.com
 127.0.0.1 ads.betternetworker.com
-
-# bettersex.com
-127.0.0.1 cmss.bettersex.com
 
 # bettertextads.com
 127.0.0.1 www.bettertextads.com
@@ -34647,9 +34644,6 @@ white yt3.ggpht.com
 
 # lookuplive.com
 127.0.0.1 www.lookuplive.com
-
-# lookxml.com
-127.0.0.1 www.lookxml.com
 
 # loomia.com
 127.0.0.1 a.loomia.com
