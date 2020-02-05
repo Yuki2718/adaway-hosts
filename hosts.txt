@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/05
-# block hosts: 31952 entry
+# block hosts: 31950 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -47118,9 +47118,6 @@ white yt3.ggpht.com
 # seedapp.jp
 127.0.0.1 addelivery.seedapp.jp
 
-# seedcornadvertising.com
-127.0.0.1 www.seedcornadvertising.com
-
 # seegame-hoome.info
 127.0.0.1 seegame-hoome.info
 
@@ -47155,7 +47152,6 @@ white yt3.ggpht.com
 127.0.0.1 installs.seekmo.com
 127.0.0.1 male-celeb-videos.powered-by.seekmo.com
 127.0.0.1 origin-ics.seekmo.com
-127.0.0.1 pokemonpictures.powered-by.seekmo.com
 127.0.0.1 powered-by.seekmo.com
 127.0.0.1 seekmo.com
 127.0.0.1 te.seekmo.com
