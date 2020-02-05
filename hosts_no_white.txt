@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/05
-# block hosts: 31955 entry
+# block hosts: 31953 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -25745,9 +25745,6 @@
 # hackers.lv
 127.0.0.1 cc12797.counter.hackers.lv
 
-# hackulous.org
-127.0.0.1 hackulous.org
-
 # hahaue.com
 127.0.0.1 ct2.hahaue.com
 
@@ -27083,7 +27080,6 @@
 127.0.0.1 egoldzone.hopfeed.com
 127.0.0.1 guard1.hopfeed.com
 127.0.0.1 hopfeed.com
-127.0.0.1 imthetruth.hopfeed.com
 127.0.0.1 joefriday1.hopfeed.com
 127.0.0.1 pornprapal.hopfeed.com
 127.0.0.1 robtex.hopfeed.com
