@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/05
-# block hosts: 31950 entry
+# block hosts: 31949 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -36259,7 +36259,6 @@ white yt3.ggpht.com
 
 # metriweb.be
 127.0.0.1 hln-frinfos.metriweb.be
-127.0.0.1 levif.metriweb.be
 127.0.0.1 line01.metriweb.be
 127.0.0.1 line02.metriweb.be
 127.0.0.1 line03.metriweb.be
