@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/05
-# block hosts: 31960 entry
+# block hosts: 31962 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -3459,6 +3459,9 @@
 127.0.0.1 ad.a-ads.com
 127.0.0.1 static.a-ads.com
 
+# a-affiliate.jp
+127.0.0.1 a-affiliate.jp
+
 # a-c-engine.com
 127.0.0.1 a-c-engine.com
 127.0.0.1 www.a-c-engine.com
@@ -6106,6 +6109,9 @@
 # ads-click.com
 127.0.0.1 ads-click.com
 127.0.0.1 antevenio.flux.ads-click.com
+
+# ads-connect.com
+127.0.0.1 pc.ads-connect.com
 
 # ads-i2i.jp
 127.0.0.1 ads-i2i.jp
