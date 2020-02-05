@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/05
-# block hosts: 31958 entry
+# block hosts: 31957 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -480,7 +480,6 @@
 127.0.0.1 imagesn02.247realmedia.com
 127.0.0.1 ipro.247realmedia.com
 127.0.0.1 looksmartcollect.247realmedia.com
-127.0.0.1 lseducationcollect.247realmedia.com
 127.0.0.1 lsmusiccollect.247realmedia.com
 127.0.0.1 lycos.247realmedia.com
 127.0.0.1 lycoscollect.247realmedia.com
