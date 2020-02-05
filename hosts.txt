@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/05
-# block hosts: 31942 entry
+# block hosts: 31940 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -55675,7 +55675,6 @@ white yt3.ggpht.com
 # vodone.com
 127.0.0.1 bus.vodone.com
 127.0.0.1 clubpic.vodone.com
-127.0.0.1 ego.vodone.com
 127.0.0.1 images.vodone.com
 127.0.0.1 msn.vodone.com
 127.0.0.1 pic.vodone.com
@@ -58957,7 +58956,6 @@ white yt3.ggpht.com
 127.0.0.1 games.zango.com
 127.0.0.1 gate11.powered-by.zango.com
 127.0.0.1 gate4.powered-by.zango.com
-127.0.0.1 gate6.powered-by.zango.com
 127.0.0.1 getmusicvideocodes.powered-by.zango.com
 127.0.0.1 graffitifonts.powered-by.zango.com
 127.0.0.1 hosted.zango.com
