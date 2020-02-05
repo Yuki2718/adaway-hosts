@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/06
-# block hosts: 31937 entry
+# block hosts: 31935 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -44079,7 +44079,6 @@ white yt3.ggpht.com
 127.0.0.1 nyads.ny.publicus.com
 127.0.0.1 ptads.sv.publicus.com
 127.0.0.1 rhads.sv.publicus.com
-127.0.0.1 shads.no.publicus.com
 127.0.0.1 siads.sv.publicus.com
 127.0.0.1 tpads.sv.publicus.com
 127.0.0.1 wdads.sx.atl.publicus.com
@@ -54543,7 +54542,6 @@ white yt3.ggpht.com
 
 # unlitui.com
 127.0.0.1 bsg.unlitui.com
-127.0.0.1 imgc.unlitui.com
 
 # unltd.info
 127.0.0.1 web.unltd.info
