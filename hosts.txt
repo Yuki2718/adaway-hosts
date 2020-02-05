@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/05
-# block hosts: 31961 entry
+# block hosts: 31960 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -24136,7 +24136,6 @@ white yt3.ggpht.com
 127.0.0.1 atpco.ur.gcion.com
 127.0.0.1 gannett.gcion.com
 127.0.0.1 gcirm.argusleader.gcion.com
-127.0.0.1 gcirm.arguslerm.azcentral.gcion.com
 127.0.0.1 gcirm.azcentral.gcion.com
 127.0.0.1 gcirm.battlecreekenquirer.gcion.com
 127.0.0.1 gcirm.baxterbulletin.gcion.com
