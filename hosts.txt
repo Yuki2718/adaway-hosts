@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/06
-# block hosts: 31933 entry
+# block hosts: 31932 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -16663,7 +16663,6 @@ white yt3.ggpht.com
 
 # crackulous.net
 127.0.0.1 crackulous.net
-127.0.0.1 ftp.crackulous.net
 127.0.0.1 www.crackulous.net
 
 # crackway.com
