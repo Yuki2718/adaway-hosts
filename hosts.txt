@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/06
-# block hosts: 31928 entry
+# block hosts: 31926 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -11268,9 +11268,6 @@ white yt3.ggpht.com
 
 # besite.be
 127.0.0.1 webtrends.besite.be
-
-# best-marketing-advice.com
-127.0.0.1 www.best-marketing-advice.com
 
 # best-meds.biz
 127.0.0.1 best-meds.biz
@@ -57699,9 +57696,6 @@ white yt3.ggpht.com
 
 # xeezy.com
 127.0.0.1 ads.xeezy.com
-
-# xenodiz.com
-127.0.0.1 xenodiz.com
 
 # xertive.com
 127.0.0.1 ad.xertive.com
