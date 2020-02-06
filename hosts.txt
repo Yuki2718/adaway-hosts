@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/06
-# block hosts: 31935 entry
+# block hosts: 31934 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -58958,7 +58958,6 @@ white yt3.ggpht.com
 127.0.0.1 maratsafin.powered-by.zango.com
 127.0.0.1 messenger.zango.com
 127.0.0.1 myfriendspy.powered-by.zango.com
-127.0.0.1 myspace-backgrounds.powered-by.zango.com
 127.0.0.1 myspacegraphicsx.powered-by.zango.com
 127.0.0.1 narutowallpaper.powered-by.zango.com
 127.0.0.1 newgrounds.dressup.powered-by.zango.com
