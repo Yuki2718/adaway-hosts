@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/06
-# block hosts: 31930 entry
+# block hosts: 31929 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -2079,9 +2079,6 @@
 
 # 51network.com
 127.0.0.1 log.51network.com
-
-# 51soo.com
-127.0.0.1 code.51soo.com
 
 # 51yes.com
 127.0.0.1 51yes.com
