@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/06
-# block hosts: 31932 entry
+# block hosts: 31931 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -44596,9 +44596,6 @@
 
 # rakuword.com
 127.0.0.1 parts.rakuword.com
-
-# ralphlaurensales.info
-127.0.0.1 ralphlaurensales.info
 
 # ralphlaurenshopping.info
 127.0.0.1 ralphlaurenshopping.info
