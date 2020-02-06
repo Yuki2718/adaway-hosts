@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/06
-# block hosts: 31934 entry
+# block hosts: 31933 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -35254,7 +35254,6 @@
 127.0.0.1 www.marketingsecrets.com
 
 # marketingsector.com
-127.0.0.1 content.marketingsector.com
 127.0.0.1 my.marketingsector.com
 
 # marketingtips.com
