@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/02/06
-# block hosts: 31919 entry
+# last updated: 2020/02/07
+# block hosts: 31917 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -28655,6 +28655,7 @@ white yt3.ggpht.com
 127.0.0.1 ac6.i2idata.com
 127.0.0.1 ac7.i2idata.com
 127.0.0.1 ac8.i2idata.com
+127.0.0.1 ad.i2idata.com
 127.0.0.1 adsp.i2idata.com
 127.0.0.1 i2idata.com
 
@@ -43544,9 +43545,6 @@ white yt3.ggpht.com
 # pradabagsnew-jp.com
 127.0.0.1 pradabagsnew-jp.com
 
-# pradaclubjp.com
-127.0.0.1 pradaclubjp.com
-
 # pradanedannoyasui.info
 127.0.0.1 pradanedannoyasui.info
 
@@ -54901,7 +54899,6 @@ white yt3.ggpht.com
 127.0.0.1 st.valueclick.com
 127.0.0.1 valueclick.com
 127.0.0.1 www.valueclick.com
-127.0.0.1 www23.valueclick.com
 127.0.0.1 www75.valueclick.com
 127.0.0.1 www80.valueclick.com
 
@@ -58736,9 +58733,6 @@ white yt3.ggpht.com
 
 # yourcatalogonline.biz
 127.0.0.1 yourcatalogonline.biz
-
-# yourdailydeal.mobi
-127.0.0.1 yourdailydeal.mobi
 
 # yourdedicatedhost.com
 127.0.0.1 www.yourdedicatedhost.com
