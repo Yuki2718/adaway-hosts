@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/06
-# block hosts: 31924 entry
+# block hosts: 31921 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -462,7 +462,6 @@
 127.0.0.1 adv0035.247realmedia.com
 127.0.0.1 betcollect.247realmedia.com
 127.0.0.1 ftbusinesscollect.247realmedia.com
-127.0.0.1 gmtvcollect.247realmedia.com
 127.0.0.1 imagec05.247realmedia.com
 127.0.0.1 imagec07.247realmedia.com
 127.0.0.1 imagec08.247realmedia.com
@@ -17057,9 +17056,6 @@
 
 # cyberfight.ru
 127.0.0.1 ads.cyberfight.ru
-
-# cyberheatinc.com
-127.0.0.1 os.cyberheatinc.com
 
 # cyberland.ne.jp
 127.0.0.1 www.cyberland.ne.jp
@@ -58905,7 +58901,6 @@
 127.0.0.1 te1.zango.com
 127.0.0.1 tv.zango.com
 127.0.0.1 tvf.zango.com
-127.0.0.1 userbars.org.powered-by.zango.com
 127.0.0.1 vimalonline.powered-by.zango.com
 127.0.0.1 wwedivas.powered-by.zango.com
 127.0.0.1 www.zango.com
