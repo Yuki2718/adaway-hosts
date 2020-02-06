@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/06
-# block hosts: 31921 entry
+# block hosts: 31920 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -50924,9 +50924,6 @@ white yt3.ggpht.com
 
 # surinter.net
 127.0.0.1 adv.surinter.net
-
-# surpara.com
-127.0.0.1 rb.surpara.com
 
 # survey-poll.com
 127.0.0.1 web.survey-poll.com
