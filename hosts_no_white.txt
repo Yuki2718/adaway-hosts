@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/06
-# block hosts: 31931 entry
+# block hosts: 31930 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -5099,7 +5099,6 @@
 
 # adigou.com
 127.0.0.1 adigou.com
-127.0.0.1 x.adigou.com
 
 # adimg.net
 127.0.0.1 a.adimg.net
