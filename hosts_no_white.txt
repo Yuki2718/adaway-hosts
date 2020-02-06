@@ -28577,6 +28577,7 @@
 127.0.0.1 ac.i2i.jp
 127.0.0.1 ac10.i2i.jp
 127.0.0.1 ac2.i2i.jp
+127.0.0.1 ac3.i2i.jp
 127.0.0.1 ac4.i2i.jp
 127.0.0.1 ac5.i2i.jp
 127.0.0.1 ac7.i2i.jp
@@ -58881,7 +58882,6 @@
 127.0.0.1 installs.zango.com
 127.0.0.1 maratsafin.powered-by.zango.com
 127.0.0.1 messenger.zango.com
-127.0.0.1 myfriendspy.powered-by.zango.com
 127.0.0.1 myspacegraphicsx.powered-by.zango.com
 127.0.0.1 narutowallpaper.powered-by.zango.com
 127.0.0.1 newgrounds.dressup.powered-by.zango.com
