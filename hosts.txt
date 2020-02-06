@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/06
-# block hosts: 31926 entry
+# block hosts: 31924 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -25397,7 +25397,6 @@ white yt3.ggpht.com
 127.0.0.1 ad-incisive.grapeshot.co.uk
 127.0.0.1 dmgt.grapeshot.co.uk
 127.0.0.1 grapeshot.co.uk
-127.0.0.1 reed-cw.grapeshot.co.uk
 
 # gratis-counter-gratis.de
 127.0.0.1 www.gratis-counter-gratis.de
@@ -28348,7 +28347,6 @@ white yt3.ggpht.com
 
 # huffingtonpost.com
 127.0.0.1 entry-stats.huffingtonpost.com
-127.0.0.1 tag-stats.huffingtonpost.com
 127.0.0.1 vertical-stats.huffingtonpost.com
 
 # huffpost.com
