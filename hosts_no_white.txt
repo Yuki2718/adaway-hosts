@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/07
-# block hosts: 31909 entry
+# block hosts: 31907 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -32987,7 +32987,6 @@
 127.0.0.1 www.layer-ads.de
 127.0.0.1 www1.layer-ads.de
 127.0.0.1 www2.layer-ads.de
-127.0.0.1 www3.layer-ads.de
 
 # layer-ads.org
 127.0.0.1 layer-ads.org
@@ -47624,7 +47623,6 @@
 127.0.0.1 ericablasberg.sexybabesx.com
 127.0.0.1 evagreen.sexybabesx.com
 127.0.0.1 evalongoria.sexybabesx.com
-127.0.0.1 gellar.sexybabesx.com
 127.0.0.1 giselebundchen.sexybabesx.com
 127.0.0.1 gwenstefani.sexybabesx.com
 127.0.0.1 halleberry.sexybabesx.com
