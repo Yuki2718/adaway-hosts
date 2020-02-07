@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/07
-# block hosts: 31903 entry
+# block hosts: 31901 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -3594,9 +3594,6 @@
 
 # aacdn.jp
 127.0.0.1 aoe.aacdn.jp
-
-# aacoolsearch.com
-127.0.0.1 www.aacoolsearch.com
 
 # aaddcount.com
 127.0.0.1 js-ssl.aaddcount.com
@@ -45506,7 +45503,6 @@
 127.0.0.1 ads1.revenue.net
 127.0.0.1 ads2.revenue.net
 127.0.0.1 images.revenue.net
-127.0.0.1 mediatrack.revenue.net
 127.0.0.1 revenue.net
 127.0.0.1 view.revenue.net
 127.0.0.1 www.revenue.net
