@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/07
-# block hosts: 31914 entry
+# block hosts: 31913 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -3643,7 +3643,6 @@
 127.0.0.1 prizeamerica.aavalue.com
 127.0.0.1 reciperewards.aavalue.com
 127.0.0.1 thumbplay.aavalue.com
-127.0.0.1 trynewgames.aavalue.com
 127.0.0.1 watchfreeflix.aavalue.com
 
 # ab1trk.com
