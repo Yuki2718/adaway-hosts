@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/07
-# block hosts: 31895 entry
+# block hosts: 31892 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -21685,9 +21685,6 @@
 127.0.0.1 images.ads.fairfax.com.au
 127.0.0.1 redirect.fairfax.com.au
 
-# fairfaxbm.co.nz
-127.0.0.1 machine.fairfaxbm.co.nz
-
 # fairpoker.com
 127.0.0.1 banner.fairpoker.com
 
@@ -22563,7 +22560,6 @@
 127.0.0.1 focalex.com
 127.0.0.1 img.focalex.com
 127.0.0.1 load.focalex.com
-127.0.0.1 pluto.focalex.com
 127.0.0.1 tafmaster-p.focalex.com
 127.0.0.1 tafmaster-s.focalex.com
 127.0.0.1 tafmaster-t.focalex.com
@@ -38444,9 +38440,6 @@
 
 # myx.net
 127.0.0.1 ads.myx.net
-
-# myxratedlinks.com
-127.0.0.1 www.myxratedlinks.com
 
 # mzstatic.com
 127.0.0.1 metrics.mzstatic.com
