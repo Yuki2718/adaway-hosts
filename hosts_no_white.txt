@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/07
-# block hosts: 31915 entry
+# block hosts: 31914 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -27167,7 +27167,6 @@
 127.0.0.1 skins.hotbar.com
 127.0.0.1 tooltips.hotbar.com
 127.0.0.1 updates.hotbar.com
-127.0.0.1 vip-farm5v.hotbar.com
 127.0.0.1 www.hotbar.com
 
 # hotbar.net
