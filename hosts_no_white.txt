@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/07
-# block hosts: 31900 entry
+# block hosts: 31896 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -23825,9 +23825,6 @@
 # gameparty.net
 127.0.0.1 adserver.gameparty.net
 
-# gamepot.co.jp
-127.0.0.1 ns01.gamepot.co.jp
-
 # gamerdna.com
 127.0.0.1 helios.gamerdna.com
 
@@ -44748,7 +44745,6 @@
 
 # razerporn.com
 127.0.0.1 razerporn.com
-127.0.0.1 www.razerporn.com
 
 # razil.jp
 127.0.0.1 brocli.razil.jp
@@ -47700,9 +47696,6 @@
 
 # sexyhotvideo.com
 127.0.0.1 sexyhotvideo.com
-
-# sexylingeriesavers.com
-127.0.0.1 www.sexylingeriesavers.com
 
 # sexyoung.us
 127.0.0.1 sexyoung.us
@@ -57804,9 +57797,6 @@
 
 # xn--pcki7d3eybf1c6dc.net
 127.0.0.1 xn--pcki7d3eybf1c6dc.net
-
-# xn--pckua9bvdzb1cg8cxe.net
-127.0.0.1 xn--pckua9bvdzb1cg8cxe.net
 
 # xn--zuzy24d.co
 127.0.0.1 xn--zuzy24d.co
