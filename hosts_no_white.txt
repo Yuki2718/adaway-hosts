@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/07
-# block hosts: 31911 entry
+# block hosts: 31909 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -36034,7 +36034,6 @@
 
 # megaxvids.com
 127.0.0.1 megaxvids.com
-127.0.0.1 www.megaxvids.com
 
 # meilleuremutuelle.xyz
 127.0.0.1 meilleuremutuelle.xyz
@@ -56166,9 +56165,6 @@
 # webclients.net
 127.0.0.1 webclients.net
 127.0.0.1 www.webclients.net
-
-# webclixs.com
-127.0.0.1 www.webclixs.com
 
 # webconnect.net
 127.0.0.1 secure.webconnect.net
