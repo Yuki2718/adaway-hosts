@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/07
-# block hosts: 31896 entry
+# block hosts: 31895 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -24913,9 +24913,6 @@ white yt3.ggpht.com
 
 # gofreetube.com
 127.0.0.1 x.gofreetube.com
-
-# gogetscan.com
-127.0.0.1 gogetscan.com
 
 # goggle.com
 127.0.0.1 goggle.com
