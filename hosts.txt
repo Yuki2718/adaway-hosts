@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/07
-# block hosts: 31914 entry
+# block hosts: 31913 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -3888,9 +3888,6 @@ white yt3.ggpht.com
 
 # accoonachess.com
 127.0.0.1 www.accoonachess.com
-
-# accuracysurf.com
-127.0.0.1 www.accuracysurf.com
 
 # accusearch.org
 127.0.0.1 accusearch.org
