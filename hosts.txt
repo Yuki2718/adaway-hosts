@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/07
-# block hosts: 31907 entry
+# block hosts: 31906 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -18435,9 +18435,6 @@ white yt3.ggpht.com
 
 # doctors.co.il
 127.0.0.1 ads.doctors.co.il
-
-# doctorvaccine.co.kr
-127.0.0.1 www.doctorvaccine.co.kr
 
 # dodostats.com
 127.0.0.1 www.dodostats.com

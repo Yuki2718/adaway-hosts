@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/07
-# block hosts: 31907 entry
+# block hosts: 31906 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -18391,9 +18391,6 @@
 
 # doctors.co.il
 127.0.0.1 ads.doctors.co.il
-
-# doctorvaccine.co.kr
-127.0.0.1 www.doctorvaccine.co.kr
 
 # dodostats.com
 127.0.0.1 www.dodostats.com
