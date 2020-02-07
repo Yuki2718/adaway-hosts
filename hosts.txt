@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/07
-# block hosts: 31916 entry
+# block hosts: 31915 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -10946,7 +10946,6 @@ white yt3.ggpht.com
 127.0.0.1 bargain-buddy.net
 127.0.0.1 download.bargain-buddy.net
 127.0.0.1 service.bargain-buddy.net
-127.0.0.1 service2.bargain-buddy.net
 127.0.0.1 service3.bargain-buddy.net
 127.0.0.1 service4.bargain-buddy.net
 127.0.0.1 www.bargain-buddy.net
