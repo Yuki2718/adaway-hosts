@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/07
-# block hosts: 31904 entry
+# block hosts: 31903 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -55522,9 +55522,6 @@
 # vivosearch.com
 127.0.0.1 vivosearch.com
 127.0.0.1 www.vivosearch.com
-
-# vivthomas.com
-127.0.0.1 openx.vivthomas.com
 
 # vizu.com
 127.0.0.1 wp.vizu.com

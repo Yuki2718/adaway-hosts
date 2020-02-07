@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/07
-# block hosts: 31904 entry
+# block hosts: 31903 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -55566,9 +55566,6 @@ white yt3.ggpht.com
 # vivosearch.com
 127.0.0.1 vivosearch.com
 127.0.0.1 www.vivosearch.com
-
-# vivthomas.com
-127.0.0.1 openx.vivthomas.com
 
 # vizu.com
 127.0.0.1 wp.vizu.com
