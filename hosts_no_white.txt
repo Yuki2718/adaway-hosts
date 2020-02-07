@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/07
-# block hosts: 31913 entry
+# block hosts: 31911 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -386,9 +386,6 @@
 
 # 2001positions.com
 127.0.0.1 2001positions.com
-
-# 2009-d0wnloadz.com
-127.0.0.1 www.2009-d0wnloadz.com
 
 # 2009-search.com
 127.0.0.1 2009-search.com
@@ -24849,9 +24846,6 @@
 
 # goantiques.com
 127.0.0.1 ads.goantiques.com
-
-# gobarscan.com
-127.0.0.1 gobarscan.com
 
 # goclick.com
 127.0.0.1 goclick.com
