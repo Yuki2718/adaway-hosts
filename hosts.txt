@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/09
-# block hosts: 31891 entry
+# block hosts: 31888 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -44026,7 +44026,6 @@ white yt3.ggpht.com
 127.0.0.1 crimg.sv.publicus.com
 127.0.0.1 fdads.sv.publicus.com
 127.0.0.1 lladinserts.us.publicus.com
-127.0.0.1 moads.no.publicus.com
 127.0.0.1 nsads.sv.publicus.com
 127.0.0.1 nyads.ny.publicus.com
 127.0.0.1 ptads.sv.publicus.com
@@ -52246,9 +52245,6 @@ white yt3.ggpht.com
 # tinet.ie
 127.0.0.1 ads.tinet.ie
 
-# tinhbienpro.com
-127.0.0.1 www.tinhbienpro.com
-
 # tinka.ru
 127.0.0.1 www.tinka.ru
 
@@ -54474,7 +54470,6 @@ white yt3.ggpht.com
 
 # unlimitedsongs.net
 127.0.0.1 unlimitedsongs.net
-127.0.0.1 www.unlimitedsongs.net
 
 # unlimits.net
 127.0.0.1 www.unlimits.net
