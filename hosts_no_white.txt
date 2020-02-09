@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/09
-# block hosts: 31885 entry
+# block hosts: 31883 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -48831,9 +48831,6 @@
 # snsbank.nl
 127.0.0.1 wa.snsbank.nl
 
-# so-net.ne.jp
-127.0.0.1 senkaino-tubuyaki.blog.so-net.ne.jp
-
 # sobakozgav.net
 127.0.0.1 sobakozgav.net
 
@@ -51899,7 +51896,6 @@
 127.0.0.1 www.themexp.org
 
 # themonkeysball.com
-127.0.0.1 cydia.themonkeysball.com
 127.0.0.1 themonkeysball.com
 127.0.0.1 www.themonkeysball.com
 
