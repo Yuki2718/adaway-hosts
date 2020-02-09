@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/02/07
-# block hosts: 31892 entry
+# last updated: 2020/02/09
+# block hosts: 31891 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -24088,7 +24088,6 @@
 127.0.0.1 gcirm.sctimes.gcion.com
 127.0.0.1 gcirm.stargazette.gcion.com
 127.0.0.1 gcirm.statesmanjournal.gcion.com
-127.0.0.1 gcirm.tallahassee.gcion.com
 127.0.0.1 gcirm.tennessean.gcion.com
 127.0.0.1 gcirm.thedailyjournal.gcion.com
 127.0.0.1 gcirm.theithacajournal.gcion.com
