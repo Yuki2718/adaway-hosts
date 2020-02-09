@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/02/09
-# block hosts: 31882 entry
+# last updated: 2020/02/10
+# block hosts: 31881 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -34939,7 +34939,6 @@ white yt3.ggpht.com
 # madisonavenue.com
 127.0.0.1 ads.madisonavenue.com
 127.0.0.1 madisonavenue.com
-127.0.0.1 pagepeelads.madisonavenue.com
 127.0.0.1 resource.madisonavenue.com
 127.0.0.1 textads.madisonavenue.com
 
