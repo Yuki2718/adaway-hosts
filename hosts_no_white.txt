@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/09
-# block hosts: 31887 entry
+# block hosts: 31885 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -3576,7 +3576,6 @@
 127.0.0.1 www27.a8.net
 127.0.0.1 www28.a8.net
 127.0.0.1 www29.a8.net
-127.0.0.1 www30.a8.net
 
 # a8ww.net
 127.0.0.1 asy.a8ww.net
@@ -46532,9 +46531,6 @@
 
 # scotiabank.com
 127.0.0.1 omniture.scotiabank.com
-
-# scotsglen.com
-127.0.0.1 www.downloads.scotsglen.com
 
 # scourg.info
 127.0.0.1 scourg.info
