@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/09
-# block hosts: 31883 entry
+# block hosts: 31882 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -37149,9 +37149,6 @@ white yt3.ggpht.com
 
 # more.com
 127.0.0.1 metrics.more.com
-
-# moreflyads.biz
-127.0.0.1 moreflyads.biz
 
 # moreniche.com
 127.0.0.1 banners.moreniche.com
