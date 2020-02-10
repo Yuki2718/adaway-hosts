@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/10
-# block hosts: 31881 entry
+# block hosts: 31880 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -9786,7 +9786,6 @@ white yt3.ggpht.com
 # ask.com
 127.0.0.1 ads.ask.com
 127.0.0.1 aslads.ask.com
-127.0.0.1 contextual.syndication.ask.com
 127.0.0.1 wzeu.ask.com
 127.0.0.1 wzus.ask.com
 127.0.0.1 wzuy1.ask.com
