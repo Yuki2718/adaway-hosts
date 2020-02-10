@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/10
-# block hosts: 31880 entry
+# block hosts: 31876 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -4530,7 +4530,6 @@ white yt3.ggpht.com
 127.0.0.1 imediac.adbureau.net
 127.0.0.1 inl-images.adbureau.net
 127.0.0.1 inl.adbureau.net
-127.0.0.1 itv-images.adbureau.net
 127.0.0.1 legacy-images.adbureau.net
 127.0.0.1 mediapst-images.adbureau.net
 127.0.0.1 mediapst.adbureau.net
@@ -21660,7 +21659,6 @@ white yt3.ggpht.com
 127.0.0.1 dl.ezthemes.com
 127.0.0.1 dl1.ezthemes.com
 127.0.0.1 ezthemes.ezthemes.com
-127.0.0.1 funskins.ezthemes.com
 127.0.0.1 themexp.ezthemes.com
 127.0.0.1 topdesktop.ezthemes.com
 127.0.0.1 www.ezthemes.com
@@ -22220,9 +22218,6 @@ white yt3.ggpht.com
 
 # findromance.com
 127.0.0.1 findromance.com
-
-# findsearchlocate.net
-127.0.0.1 www.findsearchlocate.net
 
 # findthewebsiteyouneed.com
 127.0.0.1 click.findthewebsiteyouneed.com
@@ -47065,7 +47060,6 @@ white yt3.ggpht.com
 127.0.0.1 downloads.seekmo.com
 127.0.0.1 freeblowjobmovies.powered-by.seekmo.com
 127.0.0.1 freeblowjobvideos.powered-by.seekmo.com
-127.0.0.1 funberry.powered-by.seekmo.com
 127.0.0.1 galleries.seekmo.com
 127.0.0.1 installs.seekmo.com
 127.0.0.1 origin-ics.seekmo.com
