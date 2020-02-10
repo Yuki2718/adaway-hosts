@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/02/10
-# block hosts: 31872 entry
+# last updated: 2020/02/11
+# block hosts: 31870 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -275,9 +275,6 @@ white yt3.ggpht.com
 
 # 163ads.com
 127.0.0.1 163ads.com
-
-# 16kxs.com
-127.0.0.1 wap10.16kxs.com
 
 # 1800banners.com
 127.0.0.1 www.1800banners.com
@@ -49103,7 +49100,6 @@ white yt3.ggpht.com
 127.0.0.1 cdnimg02.spacash.com
 127.0.0.1 dvdcovers.spacash.com
 127.0.0.1 exit.spacash.com
-127.0.0.1 freesites.spacash.com
 127.0.0.1 ip.spacash.com
 127.0.0.1 layers.spacash.com
 127.0.0.1 movies.spacash.com
