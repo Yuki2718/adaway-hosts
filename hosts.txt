@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/10
-# block hosts: 31873 entry
+# block hosts: 31872 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -24119,7 +24119,6 @@ white yt3.ggpht.com
 127.0.0.1 gcirm.pensacolanewsjournal.gcion.com
 127.0.0.1 gcirm.poughkeepsiejournal.gcion.com
 127.0.0.1 gcirm.press-citizen.gcion.com
-127.0.0.1 gcirm.sctimes.gcion.com
 127.0.0.1 gcirm.stargazette.gcion.com
 127.0.0.1 gcirm.statesmanjournal.gcion.com
 127.0.0.1 gcirm.tennessean.gcion.com
