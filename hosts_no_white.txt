@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/10
-# block hosts: 31875 entry
+# block hosts: 31873 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -24280,9 +24280,6 @@
 # genericlink.com
 127.0.0.1 ads.genericlink.com
 
-# generics4.com
-127.0.0.1 www.generics4.com
-
 # genericshotsale.com
 127.0.0.1 genericshotsale.com
 
@@ -29429,7 +29426,6 @@
 127.0.0.1 server-ua.imrworldwide.com
 127.0.0.1 server-uk.imrworldwide.com
 127.0.0.1 server-us.imrworldwide.com
-127.0.0.1 survey1-au.imrworldwide.com
 127.0.0.1 telstra.imrworldwide.com
 127.0.0.1 www.imrworldwide.com
 
