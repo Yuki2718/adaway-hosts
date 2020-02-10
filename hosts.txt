@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/10
-# block hosts: 31876 entry
+# block hosts: 31875 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -17960,9 +17960,6 @@ white yt3.ggpht.com
 
 # digitalacre.com
 127.0.0.1 admin.digitalacre.com
-
-# digitalbettingcasinos.com
-127.0.0.1 www.digitalbettingcasinos.com
 
 # digitalcity.com
 127.0.0.1 cdn.digitalcity.com

@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/10
-# block hosts: 31876 entry
+# block hosts: 31875 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -17916,9 +17916,6 @@
 
 # digitalacre.com
 127.0.0.1 admin.digitalacre.com
-
-# digitalbettingcasinos.com
-127.0.0.1 www.digitalbettingcasinos.com
 
 # digitalcity.com
 127.0.0.1 cdn.digitalcity.com
