@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/02/11
-# block hosts: 31866 entry
+# last updated: 2020/02/12
+# block hosts: 31863 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -4537,7 +4537,6 @@ white yt3.ggpht.com
 127.0.0.1 pgcom.adbureau.net
 127.0.0.1 photobkt-images.adbureau.net
 127.0.0.1 questex-images.adbureau.net
-127.0.0.1 realtrac-images.adbureau.net
 127.0.0.1 reunion.adbureau.net
 127.0.0.1 rocku.adbureau.net
 127.0.0.1 secure.adbureau.net
@@ -40138,7 +40137,6 @@ white yt3.ggpht.com
 127.0.0.1 poldk.nuggad.net
 127.0.0.1 rmsi.nuggad.net
 127.0.0.1 si.nuggad.net
-127.0.0.1 sol.nuggad.net
 127.0.0.1 styria.nuggad.net
 127.0.0.1 survey.nuggad.net
 127.0.0.1 tofo.nuggad.net
@@ -58828,7 +58826,6 @@ white yt3.ggpht.com
 127.0.0.1 gate4.powered-by.zango.com
 127.0.0.1 hosted.zango.com
 127.0.0.1 idrink.powered-by.zango.com
-127.0.0.1 imp.games.zango.com
 127.0.0.1 installs.zango.com
 127.0.0.1 maratsafin.powered-by.zango.com
 127.0.0.1 messenger.zango.com
