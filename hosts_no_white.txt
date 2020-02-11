@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/11
-# block hosts: 31867 entry
+# block hosts: 31866 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -56021,9 +56021,6 @@
 
 # web21.de
 127.0.0.1 ads.web21.de
-
-# web2corp.com
-127.0.0.1 tracking.web2corp.com
 
 # web4friends.com
 127.0.0.1 web4friends.com
