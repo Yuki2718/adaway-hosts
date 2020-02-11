@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/12
-# block hosts: 31863 entry
+# block hosts: 31862 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -14420,7 +14420,6 @@ white yt3.ggpht.com
 127.0.0.1 kw107.chinoc.net
 127.0.0.1 kw123.chinoc.net
 127.0.0.1 kw15.chinoc.net
-127.0.0.1 kw82.chinoc.net
 127.0.0.1 v5.chinoc.net
 
 # chint-lf.com
