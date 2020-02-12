@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/02/12
-# block hosts: 31859 entry
+# last updated: 2020/02/13
+# block hosts: 31857 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -35229,9 +35229,6 @@ white yt3.ggpht.com
 127.0.0.1 marketingsecrets.com
 127.0.0.1 www.marketingsecrets.com
 
-# marketingsector.com
-127.0.0.1 my.marketingsector.com
-
 # marketingtips.com
 127.0.0.1 marketingtips.com
 127.0.0.1 www.marketingtips.com
@@ -58810,7 +58807,6 @@ white yt3.ggpht.com
 127.0.0.1 cds.zango.com
 127.0.0.1 coolvuurwerk.powered-by.zango.com
 127.0.0.1 creative.zango.com
-127.0.0.1 davidmovie.com.powered-by.zango.com
 127.0.0.1 deansplanet.com.powered-by.zango.com
 127.0.0.1 downloads.zango.com
 127.0.0.1 fightvideos.powered-by.zango.com
