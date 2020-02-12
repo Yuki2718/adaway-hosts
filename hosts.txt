@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/12
-# block hosts: 31860 entry
+# block hosts: 31859 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -15310,7 +15310,6 @@ white yt3.ggpht.com
 
 # clk4.com
 127.0.0.1 clk4.com
-127.0.0.1 dev.clk4.com
 127.0.0.1 www.clk4.com
 
 # clkads.com
