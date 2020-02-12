@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/12
-# block hosts: 31861 entry
+# block hosts: 31860 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -5507,7 +5507,6 @@
 
 # admax.com.tr
 127.0.0.1 admax.com.tr
-127.0.0.1 www.admax.com.tr
 
 # admaxasia.com
 127.0.0.1 ads.admaxasia.com
