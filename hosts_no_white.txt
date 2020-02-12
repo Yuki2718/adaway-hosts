@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/12
-# block hosts: 31862 entry
+# block hosts: 31861 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -16929,9 +16929,6 @@
 
 # currentsession.net
 127.0.0.1 currentsession.net
-
-# cursecdn.com
-127.0.0.1 gamepedia.cursecdn.com
 
 # cursormania.com
 127.0.0.1 utm.cursormania.com
