@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/13
-# block hosts: 31857 entry
+# block hosts: 31854 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -6347,9 +6347,6 @@ white yt3.ggpht.com
 
 # adserver5.com
 127.0.0.1 www.adserver5.com
-
-# adserver9.com
-127.0.0.1 www.adserver9.com
 
 # adserverplus.com
 127.0.0.1 ad.adserverplus.com
@@ -50394,9 +50391,6 @@ white yt3.ggpht.com
 # stripsaver.com
 127.0.0.1 clicks.stripsaver.com
 
-# stumble-upon.com
-127.0.0.1 stumbleupon.stumble-upon.com
-
 # stumbleupon.com
 127.0.0.1 platform.stumbleupon.com
 127.0.0.1 www.stumbleupon.com
@@ -58817,7 +58811,6 @@ white yt3.ggpht.com
 127.0.0.1 hosted.zango.com
 127.0.0.1 idrink.powered-by.zango.com
 127.0.0.1 installs.zango.com
-127.0.0.1 maratsafin.powered-by.zango.com
 127.0.0.1 messenger.zango.com
 127.0.0.1 myspacegraphicsx.powered-by.zango.com
 127.0.0.1 narutowallpaper.powered-by.zango.com
