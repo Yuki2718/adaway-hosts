@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/16
-# block hosts: 31847 entry
+# block hosts: 31846 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -19414,9 +19414,6 @@ white yt3.ggpht.com
 # dxlive.com
 127.0.0.1 aff-jp.dxlive.com
 127.0.0.1 bn.dxlive.com
-
-# dymsg.net
-127.0.0.1 dymsg.net
 
 # dynadot.com
 127.0.0.1 parkcloud.dynadot.com
