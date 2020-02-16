@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/16
-# block hosts: 31852 entry
+# block hosts: 31849 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -4510,7 +4510,6 @@ white yt3.ggpht.com
 127.0.0.1 cgm.adbureau.net
 127.0.0.1 content.adbureau.net
 127.0.0.1 creview.adbureau.net
-127.0.0.1 curtco-images.adbureau.net
 127.0.0.1 devart.adbureau.net
 127.0.0.1 divx.adbureau.net
 127.0.0.1 eb.adbureau.net
@@ -38600,9 +38599,6 @@ white yt3.ggpht.com
 127.0.0.1 liquidad.narrowcastmedia.com
 127.0.0.1 narrowcastmedia.com
 
-# nasads.com
-127.0.0.1 nads57.nasads.com
-
 # nascar.com
 127.0.0.1 ads.nascar.com
 127.0.0.1 analytics.nascar.com
@@ -58804,7 +58800,6 @@ white yt3.ggpht.com
 # zango.com
 127.0.0.1 analytics.zango.com
 127.0.0.1 cds.zango.com
-127.0.0.1 coolvuurwerk.powered-by.zango.com
 127.0.0.1 creative.zango.com
 127.0.0.1 downloads.zango.com
 127.0.0.1 fightvideos.powered-by.zango.com
