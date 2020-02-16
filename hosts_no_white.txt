@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/16
-# block hosts: 31846 entry
+# block hosts: 31844 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -38398,9 +38398,6 @@
 # mzstatic.com
 127.0.0.1 metrics.mzstatic.com
 
-# mzwad.com
-127.0.0.1 mzwad.com
-
 # n-ad.work
 127.0.0.1 n-ad.work
 
@@ -49101,9 +49098,6 @@
 # spawnet.com
 127.0.0.1 spawnet.com
 127.0.0.1 www.spawnet.com
-
-# spaworldcorp.net
-127.0.0.1 www.spaworldcorp.net
 
 # spb.ru
 127.0.0.1 alltraff.spb.ru
