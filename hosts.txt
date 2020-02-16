@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/16
-# block hosts: 31838 entry
+# block hosts: 31837 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -4042,7 +4042,6 @@ white yt3.ggpht.com
 # ad-and.com
 127.0.0.1 ad-and.com
 127.0.0.1 c.ad-and.com
-127.0.0.1 i.ad-and.com
 
 # ad-arata.com
 127.0.0.1 ad-arata.com
