@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/16
-# block hosts: 31844 entry
+# block hosts: 31842 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -478,7 +478,6 @@
 127.0.0.1 lycoscollect.247realmedia.com
 127.0.0.1 mediafr.247realmedia.com
 127.0.0.1 mediauk.247realmedia.com
-127.0.0.1 medicinenetcollect.247realmedia.com
 127.0.0.1 mfr.247realmedia.com
 127.0.0.1 muk.247realmedia.com
 127.0.0.1 network-ca.247realmedia.com
@@ -24050,7 +24049,6 @@
 127.0.0.1 gcirm.ozarksnow.gcion.com
 127.0.0.1 gcirm.pensacolanewsjournal.gcion.com
 127.0.0.1 gcirm.poughkeepsiejournal.gcion.com
-127.0.0.1 gcirm.press-citizen.gcion.com
 127.0.0.1 gcirm.stargazette.gcion.com
 127.0.0.1 gcirm.statesmanjournal.gcion.com
 127.0.0.1 gcirm.tennessean.gcion.com
