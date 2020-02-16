@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/17
-# block hosts: 31833 entry
+# block hosts: 31832 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -12633,7 +12633,6 @@ white yt3.ggpht.com
 127.0.0.1 admon1.count.brat-online.ro
 127.0.0.1 capital.count.brat-online.ro
 127.0.0.1 cotidianul.count.brat-online.ro
-127.0.0.1 g-f5fun.count.brat-online.ro
 127.0.0.1 myvideo.count.brat-online.ro
 127.0.0.1 onefm.count.brat-online.ro
 127.0.0.1 qds.count.brat-online.ro
