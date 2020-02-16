@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/16
-# block hosts: 31849 entry
+# block hosts: 31848 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -58802,7 +58802,6 @@ white yt3.ggpht.com
 127.0.0.1 cds.zango.com
 127.0.0.1 creative.zango.com
 127.0.0.1 downloads.zango.com
-127.0.0.1 fightvideos.powered-by.zango.com
 127.0.0.1 frazoogames.powered-by.zango.com
 127.0.0.1 games.zango.com
 127.0.0.1 gate11.powered-by.zango.com
