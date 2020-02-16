@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/16
-# block hosts: 31842 entry
+# block hosts: 31838 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -12598,9 +12598,6 @@ white yt3.ggpht.com
 127.0.0.1 pub1.branchez-vous.com
 127.0.0.1 pub3.branchez-vous.com
 127.0.0.1 pubs.branchez-vous.com
-
-# brand-diamond.com
-127.0.0.1 www.brand-diamond.com
 
 # brand.net
 127.0.0.1 ads.brand.net
@@ -37314,7 +37311,6 @@ white yt3.ggpht.com
 127.0.0.1 mreco0.jp
 127.0.0.1 n2.ads.mreco0.jp
 127.0.0.1 n5.ads.mreco0.jp
-127.0.0.1 n8.ads.mreco0.jp
 
 # mrejata.net
 127.0.0.1 www.ads.mrejata.net
@@ -38274,7 +38270,6 @@ white yt3.ggpht.com
 127.0.0.1 c4.mysearch.com
 127.0.0.1 help.mysearch.com
 127.0.0.1 msalt.mysearch.com
-127.0.0.1 msdbalt.mysearch.com
 127.0.0.1 www.mysearch.com
 
 # mysearchhome.com
@@ -39103,9 +39098,6 @@ white yt3.ggpht.com
 
 # netmarketing2004.com
 127.0.0.1 netmarketing2004.com
-
-# netmastering2.net
-127.0.0.1 www.netmastering2.net
 
 # netmaxx.com
 127.0.0.1 www.netmaxx.com
