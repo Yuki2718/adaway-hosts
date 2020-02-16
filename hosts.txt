@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/16
-# block hosts: 31855 entry
+# block hosts: 31852 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -9616,9 +9616,6 @@ white yt3.ggpht.com
 127.0.0.1 areasnap.com
 127.0.0.1 www.areasnap.com
 
-# areviews.net
-127.0.0.1 www.areviews.net
-
 # aribo.net
 127.0.0.1 aribo.net
 
@@ -14414,7 +14411,6 @@ white yt3.ggpht.com
 127.0.0.1 chinoc.net
 127.0.0.1 kw107.chinoc.net
 127.0.0.1 kw123.chinoc.net
-127.0.0.1 kw15.chinoc.net
 127.0.0.1 v5.chinoc.net
 
 # chint-lf.com
@@ -36192,7 +36188,6 @@ white yt3.ggpht.com
 127.0.0.1 line17.metriweb.be
 127.0.0.1 line18.metriweb.be
 127.0.0.1 line19.metriweb.be
-127.0.0.1 line32.metriweb.be
 127.0.0.1 rtbf09.metriweb.be
 127.0.0.1 skynet-news.metriweb.be
 127.0.0.1 startpagina.metriweb.be
