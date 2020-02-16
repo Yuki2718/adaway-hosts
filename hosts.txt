@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/16
-# block hosts: 31837 entry
+# block hosts: 31835 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -46803,7 +46803,6 @@ white yt3.ggpht.com
 127.0.0.1 www.searchrelevancy.com
 
 # searchresultsdirect.com
-127.0.0.1 js.www3.searchresultsdirect.com
 127.0.0.1 pics.www3.searchresultsdirect.com
 127.0.0.1 www2.searchresultsdirect.com
 
@@ -54904,9 +54903,6 @@ white yt3.ggpht.com
 # vdopia.com
 127.0.0.1 cdn.vdopia.com
 127.0.0.1 serve.vdopia.com
-
-# vdshostter.ru
-127.0.0.1 vdshostter.ru
 
 # ve.lt
 127.0.0.1 reklama.ve.lt
