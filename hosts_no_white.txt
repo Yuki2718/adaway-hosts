@@ -36948,9 +36948,6 @@
 # monclerjacketsjp2013.com
 127.0.0.1 monclerjacketsjp2013.com
 
-# monclers-japan.jp
-127.0.0.1 monclers-japan.jp
-
 # monclershops.info
 127.0.0.1 monclershops.info
 
@@ -48550,6 +48547,7 @@
 127.0.0.1 f06.smaato.net
 127.0.0.1 f07.smaato.net
 127.0.0.1 f10.smaato.net
+127.0.0.1 sdk-android.ad.smaato.net
 127.0.0.1 smaato.net
 127.0.0.1 soma.smaato.net
 
