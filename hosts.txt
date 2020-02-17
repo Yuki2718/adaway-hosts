@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/17
-# block hosts: 31832 entry
+# block hosts: 31831 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -39883,9 +39883,6 @@ white yt3.ggpht.com
 
 # norton.com
 127.0.0.1 stats.norton.com
-
-# norwichbulletin.com
-127.0.0.1 gcirm.norwichbulletin.com
 
 # nossopark.com.br
 127.0.0.1 url.nossopark.com.br
