@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/17
-# block hosts: 31829 entry
+# block hosts: 31828 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -8007,9 +8007,6 @@ white yt3.ggpht.com
 
 # affiliation-france.com
 127.0.0.1 affiliation-france.com
-
-# affiliation-int.com
-127.0.0.1 park.affiliation-int.com
 
 # affiliation.com
 127.0.0.1 adserver.affiliation.com

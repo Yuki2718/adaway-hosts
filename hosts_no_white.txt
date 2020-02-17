@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/17
-# block hosts: 31829 entry
+# block hosts: 31828 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -7963,9 +7963,6 @@
 
 # affiliation-france.com
 127.0.0.1 affiliation-france.com
-
-# affiliation-int.com
-127.0.0.1 park.affiliation-int.com
 
 # affiliation.com
 127.0.0.1 adserver.affiliation.com
