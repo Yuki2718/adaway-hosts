@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/17
-# block hosts: 31827 entry
+# block hosts: 31825 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -49846,9 +49846,6 @@ white yt3.ggpht.com
 # square-max.net
 127.0.0.1 mobile.square-max.net
 
-# squareclk.com
-127.0.0.1 hp.squareclk.com
-
 # squidanalytics.com
 127.0.0.1 aws.tracker.squidanalytics.com
 127.0.0.1 tracker.squidanalytics.com
@@ -54857,9 +54854,6 @@ white yt3.ggpht.com
 
 # vasta.co.jp
 127.0.0.1 lp.vasta.co.jp
-
-# vaulttech13.cn
-127.0.0.1 vaulttech13.cn
 
 # vba.ru
 127.0.0.1 ad.vba.ru
