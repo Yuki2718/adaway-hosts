@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/17
-# block hosts: 31828 entry
+# block hosts: 31827 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -7669,7 +7669,6 @@ white yt3.ggpht.com
 127.0.0.1 cast.adwires.com
 127.0.0.1 conv.adwires.com
 127.0.0.1 icast.adwires.com
-127.0.0.1 media.adwires.com
 
 # adwise.bg
 127.0.0.1 as.adwise.bg
