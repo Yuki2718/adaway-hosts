@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/17
-# block hosts: 31831 entry
+# block hosts: 31830 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -49938,7 +49938,6 @@ white yt3.ggpht.com
 127.0.0.1 adx.starbanner.com
 
 # starbulletin.com
-127.0.0.1 insightxe.starbulletin.com
 127.0.0.1 oascentral.starbulletin.com
 
 # stardialer.de
