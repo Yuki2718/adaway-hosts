@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/18
-# block hosts: 31817 entry
+# block hosts: 31818 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -50428,6 +50428,9 @@ white yt3.ggpht.com
 
 # sulfurcell.com
 127.0.0.1 www.sulfurcell.com
+
+# sulinox.com.br
+127.0.0.1 sulinox.com.br
 
 # sumapo.org
 127.0.0.1 sumapo.org
