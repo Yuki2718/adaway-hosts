@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/18
-# block hosts: 31817 entry
+# block hosts: 31815 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -15777,9 +15777,6 @@ white yt3.ggpht.com
 127.0.0.1 com2ushub.com2us.net
 127.0.0.1 s.com2us.net
 
-# combocash.com
-127.0.0.1 direct.combocash.com
-
 # comcast.net
 127.0.0.1 oascentral.comcast.net
 127.0.0.1 serviceo.comcast.net
@@ -29238,7 +29235,6 @@ white yt3.ggpht.com
 
 # imocha.com
 127.0.0.1 cast.ra.imocha.com
-127.0.0.1 sdk.imocha.com
 
 # imoti.net
 127.0.0.1 openx.imoti.net
