@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/19
-# block hosts: 31822 entry
+# block hosts: 31821 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -46018,7 +46018,6 @@ white yt3.ggpht.com
 127.0.0.1 http.content.ru4.com
 127.0.0.1 http.edge.ru4.com
 127.0.0.1 http100.content.ru4.com
-127.0.0.1 http3.edge.ru4.com
 127.0.0.1 http300.content.ru4.com
 127.0.0.1 http300.edge.ru4.com
 127.0.0.1 http400.edge.ru4.com
