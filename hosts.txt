@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/18
-# block hosts: 31820 entry
+# block hosts: 31819 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -25158,9 +25158,6 @@ white yt3.ggpht.com
 
 # goserv.com
 127.0.0.1 goserv.com
-
-# goshoescan.com
-127.0.0.1 goshoescan.com
 
 # gossipkings.com
 127.0.0.1 adtools.gossipkings.com
