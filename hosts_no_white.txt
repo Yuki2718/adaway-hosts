@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/18
-# block hosts: 31815 entry
+# block hosts: 31813 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -3962,7 +3962,6 @@
 
 # activexcash.com
 127.0.0.1 activexcash.com
-127.0.0.1 www.activexcash.com
 
 # activexcash.net
 127.0.0.1 activexcash.net
@@ -25304,9 +25303,6 @@
 
 # greatpokerclub.org
 127.0.0.1 banner.greatpokerclub.org
-
-# greatschools.net
-127.0.0.1 gms.greatschools.net
 
 # greatseeking.com
 127.0.0.1 greatseeking.com
