@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/02/17
-# block hosts: 31823 entry
+# last updated: 2020/02/18
+# block hosts: 31821 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -13920,7 +13920,6 @@ white yt3.ggpht.com
 
 # caxmeowrsn.net
 127.0.0.1 caxmeowrsn.net
-127.0.0.1 www.caxmeowrsn.net
 
 # cb-cdn.com
 127.0.0.1 ads.cb-cdn.com
@@ -32228,7 +32227,6 @@ white yt3.ggpht.com
 
 # jutcom.com
 127.0.0.1 jutcom.com
-127.0.0.1 www.jutcom.com
 
 # jve.net
 127.0.0.1 click.jve.net
