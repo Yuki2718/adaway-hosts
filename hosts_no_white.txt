@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/02/18
-# block hosts: 31825 entry
+# last updated: 2020/02/19
+# block hosts: 31822 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -27201,9 +27201,6 @@
 127.0.0.1 hover-it.com
 127.0.0.1 www.hover-it.com
 
-# howaboutnowone.net
-127.0.0.1 howaboutnowone.net
-
 # howstuffworks.com
 127.0.0.1 ad.howstuffworks.com
 127.0.0.1 metrics.howstuffworks.com
@@ -43404,9 +43401,6 @@
 # pradashopja.com
 127.0.0.1 pradashopja.com
 
-# pradaya.info
-127.0.0.1 pradaya.info
-
 # praddpro.de
 127.0.0.1 praddpro.de
 
@@ -58746,7 +58740,6 @@
 127.0.0.1 te1.zango.com
 127.0.0.1 tv.zango.com
 127.0.0.1 tvf.zango.com
-127.0.0.1 vimalonline.powered-by.zango.com
 127.0.0.1 www.zango.com
 127.0.0.1 zango.com
 
