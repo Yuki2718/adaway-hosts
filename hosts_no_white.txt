@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/18
-# block hosts: 31813 entry
+# block hosts: 31812 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -58700,7 +58700,6 @@
 127.0.0.1 hosted.zango.com
 127.0.0.1 installs.zango.com
 127.0.0.1 messenger.zango.com
-127.0.0.1 myspacegraphicsx.powered-by.zango.com
 127.0.0.1 narutowallpaper.powered-by.zango.com
 127.0.0.1 newgrounds.dressup.powered-by.zango.com
 127.0.0.1 shared.zango.com
