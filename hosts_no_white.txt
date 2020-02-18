@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/18
-# block hosts: 31812 entry
+# block hosts: 31817 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -19745,6 +19745,9 @@
 # ecsuite.com
 127.0.0.1 bill.ecsuite.com
 
+# eczacibasiprofesyonel.com
+127.0.0.1 eczacibasiprofesyonel.com
+
 # ed4.net
 127.0.0.1 images.ed4.net
 
@@ -31167,6 +31170,9 @@
 # isboost.co.jp
 127.0.0.1 js.isboost.co.jp
 
+# isea-sonora.gob.mx
+127.0.0.1 www.isea-sonora.gob.mx
+
 # isearch.com
 127.0.0.1 auto.isearch.com
 127.0.0.1 auto.origin.isearch.com
@@ -34510,6 +34516,9 @@
 
 # lords-of-havoc.de
 127.0.0.1 www.lords-of-havoc.de
+
+# loria.com.ar
+127.0.0.1 tienda.loria.com.ar
 
 # lorixmovies.com
 127.0.0.1 lorixmovies.com
@@ -44613,6 +44622,9 @@
 # rapt.com
 127.0.0.1 rtt.rapt.com
 
+# rariya.com.ng
+127.0.0.1 rariya.com.ng
+
 # rarure.com
 127.0.0.1 ad.rarure.com
 
@@ -54086,6 +54098,9 @@
 
 # udvxq.com
 127.0.0.1 udvxq.com
+
+# uea.edu.br
+127.0.0.1 proadm.uea.edu.br
 
 # ugo.com
 127.0.0.1 ads.ugo.com
