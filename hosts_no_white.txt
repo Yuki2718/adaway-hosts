@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/18
-# block hosts: 31818 entry
+# block hosts: 31817 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -24042,7 +24042,6 @@
 127.0.0.1 gcirm.theithacajournal.gcion.com
 127.0.0.1 gcirm.thejournalnews.gcion.com
 127.0.0.1 gcirm.thespectrum.gcion.com
-127.0.0.1 gcirm.thetimesherald.gcion.com
 127.0.0.1 gcirm.tucson.gcion.com
 127.0.0.1 gcirm.visaliatimesdelta.gcion.com
 127.0.0.1 gcirm.wisinfo.gcion.com
