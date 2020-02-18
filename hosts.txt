@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/18
-# block hosts: 31821 entry
+# block hosts: 31828 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -6976,6 +6976,9 @@ white yt3.ggpht.com
 # adtrix.com
 127.0.0.1 netshelter.adtrix.com
 
+# adtrk22.com
+127.0.0.1 trk.adtrk22.com
+
 # adtrue.com
 127.0.0.1 adtrue.com
 127.0.0.1 cdn.adtrue.com
@@ -10480,6 +10483,9 @@ white yt3.ggpht.com
 
 # bag70.net
 127.0.0.1 bag70.net
+
+# bagallyouwant.com
+127.0.0.1 iph11pro.bagallyouwant.com
 
 # baidu.com
 127.0.0.1 a.baidu.com
@@ -35116,6 +35122,9 @@ white yt3.ggpht.com
 # manticoretechnology.com
 127.0.0.1 stats.manticoretechnology.com
 
+# manygreatthingsonline.com
+127.0.0.1 manygreatthingsonline.com
+
 # map24.com
 127.0.0.1 wdm.map24.com
 
@@ -36726,6 +36735,9 @@ white yt3.ggpht.com
 # mobile-10.com
 127.0.0.1 secure.mobile-10.com
 
+# mobile-app-market-here1.info
+127.0.0.1 mobile-app-market-here1.info
+
 # mobile-market.cn
 127.0.0.1 airpush.mobile-market.cn
 
@@ -37026,6 +37038,9 @@ white yt3.ggpht.com
 
 # monkeybanana3.com
 127.0.0.1 counter.monkeybanana3.com
+
+# monkeydoggy.com
+127.0.0.1 monkeydoggy.com
 
 # monliveshow.com
 127.0.0.1 www.monliveshow.com
@@ -47762,6 +47777,9 @@ white yt3.ggpht.com
 # sharkadnetwork.com
 127.0.0.1 1.sharkadnetwork.com
 
+# sharkysharkas.com
+127.0.0.1 sharkysharkas.com
+
 # sharpdsp.com
 127.0.0.1 sharpdsp.com
 
@@ -52054,6 +52072,9 @@ white yt3.ggpht.com
 # thisteddagblad.dk
 127.0.0.1 thisteddagblad.dk
 127.0.0.1 www.thisteddagblad.dk
+
+# thiswaytotheinternet.com
+127.0.0.1 thiswaytotheinternet.com
 
 # thomsonlocal.com
 127.0.0.1 banners.thomsonlocal.com
