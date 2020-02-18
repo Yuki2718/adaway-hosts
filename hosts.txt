@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/18
-# block hosts: 31828 entry
+# block hosts: 31825 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -24672,9 +24672,6 @@ white yt3.ggpht.com
 # globaltrack.com
 127.0.0.1 globaltrack.com
 
-# globaltrafficservice.com
-127.0.0.1 clicks.globaltrafficservice.com
-
 # globalwebsearch.com
 127.0.0.1 globalwebsearch.com
 127.0.0.1 www.globalwebsearch.com
@@ -26028,9 +26025,6 @@ white yt3.ggpht.com
 
 # hepsiburada.com
 127.0.0.1 ad.hepsiburada.com
-
-# herald-dispatch.com
-127.0.0.1 gcirm.herald-dispatch.com
 
 # herald-mail.com
 127.0.0.1 ads.herald-mail.com
@@ -38647,9 +38641,6 @@ white yt3.ggpht.com
 
 # naughtyconnect.com
 127.0.0.1 aff.naughtyconnect.com
-
-# naughtynudesavers.com
-127.0.0.1 www.naughtynudesavers.com
 
 # nav.cx
 127.0.0.1 nav.cx
