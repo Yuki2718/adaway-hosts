@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/18
-# block hosts: 31819 entry
+# block hosts: 31818 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -58762,7 +58762,6 @@ white yt3.ggpht.com
 127.0.0.1 tv.zango.com
 127.0.0.1 tvf.zango.com
 127.0.0.1 vimalonline.powered-by.zango.com
-127.0.0.1 wwedivas.powered-by.zango.com
 127.0.0.1 www.zango.com
 127.0.0.1 zango.com
 
