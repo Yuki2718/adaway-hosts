@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/18
-# block hosts: 31818 entry
+# block hosts: 31821 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -51276,6 +51276,9 @@
 # tdsearchware.com
 127.0.0.1 tdsearchware.com
 
+# tdsjsext1.com
+127.0.0.1 tdsjsext1.com
+
 # tdska.net
 127.0.0.1 tdska.net
 
@@ -57294,6 +57297,9 @@
 127.0.0.1 tu.connect.wunderloop.net
 127.0.0.1 wunderloop.net
 
+# wurfl.io
+127.0.0.1 wurfl.io
+
 # ww6z7lrg3a.top
 127.0.0.1 ww6z7lrg3a.top
 
@@ -58543,6 +58549,9 @@
 
 # yourdictionary.com
 127.0.0.1 adjuggler.yourdictionary.com
+
+# yourfast-prizehere11.life
+127.0.0.1 yourfast-prizehere11.life
 
 # yourfilehost.com
 127.0.0.1 tracking.yourfilehost.com
