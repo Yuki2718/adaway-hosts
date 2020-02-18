@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/18
-# block hosts: 31821 entry
+# block hosts: 31820 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -58706,7 +58706,6 @@
 127.0.0.1 cds.zango.com
 127.0.0.1 creative.zango.com
 127.0.0.1 downloads.zango.com
-127.0.0.1 frazoogames.powered-by.zango.com
 127.0.0.1 games.zango.com
 127.0.0.1 gate11.powered-by.zango.com
 127.0.0.1 gate4.powered-by.zango.com
