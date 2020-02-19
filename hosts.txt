@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/19
-# block hosts: 31821 entry
+# block hosts: 31818 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -8534,9 +8534,6 @@ white yt3.ggpht.com
 # allrecipes.com
 127.0.0.1 metric.allrecipes.com
 
-# allsearchers.com
-127.0.0.1 www.allsearchers.com
-
 # allseek.info
 127.0.0.1 www.allseek.info
 
@@ -16477,7 +16474,6 @@ white yt3.ggpht.com
 
 # cpmadz.com
 127.0.0.1 cpmadz.com
-127.0.0.1 www.cpmadz.com
 
 # cpmly.com
 127.0.0.1 cpmly.com
@@ -17860,9 +17856,6 @@ white yt3.ggpht.com
 127.0.0.1 d.dianru.com
 127.0.0.1 static.dianru.com
 127.0.0.1 www.dianru.com
-
-# diary.ne.jp
-127.0.0.1 img.diary.ne.jp
 
 # dice.com
 127.0.0.1 stats.dice.com
