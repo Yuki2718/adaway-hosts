@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/19
-# block hosts: 31818 entry
+# block hosts: 31817 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -36957,9 +36957,6 @@
 
 # moneyexpert.com
 127.0.0.1 moneyexpert.com
-
-# moneymakermother.com
-127.0.0.1 www.moneymakermother.com
 
 # moneytoday.co.kr
 127.0.0.1 ad.moneytoday.co.kr
