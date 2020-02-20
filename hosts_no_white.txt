@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/02/19
-# block hosts: 31817 entry
+# last updated: 2020/02/20
+# block hosts: 31816 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -54064,7 +54064,6 @@
 127.0.0.1 www.uclick.com
 
 # ucmore.com
-127.0.0.1 download.ucmore.com
 127.0.0.1 sponsor2.ucmore.com
 127.0.0.1 users.ucmore.com
 127.0.0.1 www.ucmore.com
