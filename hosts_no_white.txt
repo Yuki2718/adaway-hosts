@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/02/20
-# block hosts: 31809 entry
+# last updated: 2020/02/21
+# block hosts: 31807 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -17908,7 +17908,6 @@
 127.0.0.1 download.digitalnames.net
 127.0.0.1 search.digitalnames.net
 127.0.0.1 service1.digitalnames.net
-127.0.0.1 service2.digitalnames.net
 127.0.0.1 update.digitalnames.net
 127.0.0.1 upgrade.digitalnames.net
 127.0.0.1 www.digitalnames.net
@@ -20158,9 +20157,6 @@
 
 # emmathumbs.com
 127.0.0.1 www.emmathumbs.com
-
-# emmis.bg
-127.0.0.1 openx.emmis.bg
 
 # emoinstaller.com
 127.0.0.1 www.emoinstaller.com
