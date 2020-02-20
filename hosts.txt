@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/21
-# block hosts: 31807 entry
+# block hosts: 31805 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -19238,7 +19238,6 @@ white yt3.ggpht.com
 
 # dsnr-portal.info
 127.0.0.1 dsnr-portal.info
-127.0.0.1 www.dsnr-portal.info
 
 # dsnr.net
 127.0.0.1 dsnr.net
@@ -43404,9 +43403,6 @@ white yt3.ggpht.com
 
 # pr5dir.com
 127.0.0.1 pr5dir.com
-
-# prada-jp-bag.com
-127.0.0.1 prada-jp-bag.com
 
 # pradabagsnew-jp.com
 127.0.0.1 pradabagsnew-jp.com

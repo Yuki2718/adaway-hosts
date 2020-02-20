@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/21
-# block hosts: 31807 entry
+# block hosts: 31805 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -19194,7 +19194,6 @@
 
 # dsnr-portal.info
 127.0.0.1 dsnr-portal.info
-127.0.0.1 www.dsnr-portal.info
 
 # dsnr.net
 127.0.0.1 dsnr.net
@@ -43360,9 +43359,6 @@
 
 # pr5dir.com
 127.0.0.1 pr5dir.com
-
-# prada-jp-bag.com
-127.0.0.1 prada-jp-bag.com
 
 # pradabagsnew-jp.com
 127.0.0.1 pradabagsnew-jp.com
