@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/21
-# block hosts: 31803 entry
+# block hosts: 31802 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -58092,7 +58092,6 @@ white yt3.ggpht.com
 127.0.0.1 dk.adserver.yahoo.com
 127.0.0.1 es.adserver.yahoo.com
 127.0.0.1 eu-pn1.adserver.yahoo.com
-127.0.0.1 eu-pn1.ard.yahoo.com
 127.0.0.1 eu-pn2.adserver.yahoo.com
 127.0.0.1 eu-pn3.adserver.yahoo.com
 127.0.0.1 eu-pn4.adserver.yahoo.com
