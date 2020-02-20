@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/20
-# block hosts: 31813 entry
+# block hosts: 31812 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -4471,7 +4471,6 @@
 127.0.0.1 fdau.adbureau.net
 127.0.0.1 ffxd-images.adbureau.net
 127.0.0.1 ggrind.adbureau.net
-127.0.0.1 granada.adbureau.net
 127.0.0.1 hbpl-images.adbureau.net
 127.0.0.1 iacas.adbureau.net
 127.0.0.1 ieee-images.adbureau.net
