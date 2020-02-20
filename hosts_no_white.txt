@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/20
-# block hosts: 31812 entry
+# block hosts: 31811 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -45833,7 +45833,6 @@
 127.0.0.1 adclient.rottentomatoes.com
 127.0.0.1 ads.rottentomatoes.com
 127.0.0.1 de.rottentomatoes.com
-127.0.0.1 fimserve.rottentomatoes.com
 127.0.0.1 metrics.rottentomatoes.com
 
 # roulettebotplus.com
