@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/21
-# block hosts: 31806 entry
+# block hosts: 31807 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -18256,10 +18256,12 @@
 127.0.0.1 track.dmipartners.com
 
 # dmm.co.jp
+127.0.0.1 al.dmm.co.jp
 127.0.0.1 aqua.dmm.co.jp
 
 # dmm.com
 127.0.0.1 affili.dmm.com
+127.0.0.1 al.dmm.com
 127.0.0.1 blogparts.dmm.com
 
 # dmpi.net
@@ -22516,7 +22518,6 @@
 127.0.0.1 tafmaster-v7.focalex.com
 127.0.0.1 tafmaster-v9.focalex.com
 127.0.0.1 thankyou.focalex.com
-127.0.0.1 webgames-a.focalex.com
 127.0.0.1 webgames.focalex.com
 
 # focalink.com
