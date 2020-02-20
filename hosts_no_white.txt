@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/21
-# block hosts: 31805 entry
+# block hosts: 31804 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -24217,9 +24217,6 @@
 
 # generalonlinequiz.com
 127.0.0.1 generalonlinequiz.com
-
-# generation-nt.com
-127.0.0.1 gnt01.generation-nt.com
 
 # genericlink.com
 127.0.0.1 ads.genericlink.com
