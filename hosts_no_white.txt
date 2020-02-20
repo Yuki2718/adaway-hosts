@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/20
-# block hosts: 31811 entry
+# block hosts: 31809 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -34318,9 +34318,6 @@
 # locari.jp
 127.0.0.1 delivery.locari.jp
 
-# locatewebsearch.com
-127.0.0.1 www.locatewebsearch.com
-
 # lockerz.com
 127.0.0.1 pegasus-pts.lockerz.com
 
@@ -41162,7 +41159,6 @@
 127.0.0.1 cm.au.msn.overture.com
 127.0.0.1 cm.au.thewest.overture.com
 127.0.0.1 cm.br.clickgratis.overture.com
-127.0.0.1 cm.cbsnews.overture.com
 127.0.0.1 cm.cmt.overture.com
 127.0.0.1 cm.comedycentral.overture.com
 127.0.0.1 cm.eu.guardian.overture.com
