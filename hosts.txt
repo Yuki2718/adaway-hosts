@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/20
-# block hosts: 31816 entry
+# block hosts: 31813 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -22096,7 +22096,6 @@ white yt3.ggpht.com
 
 # fimserve.com
 127.0.0.1 cache.opt.fimserve.com
-127.0.0.1 debr.opt.fimserve.com
 127.0.0.1 deeb.opt.fimserve.com
 127.0.0.1 dehp.opt.fimserve.com
 127.0.0.1 delb.opt.fimserve.com
@@ -23523,9 +23522,6 @@ white yt3.ggpht.com
 
 # fun9.net
 127.0.0.1 fun9.net
-
-# funadvice.com
-127.0.0.1 stats.funadvice.com
 
 # funbuddyicons.com
 127.0.0.1 buddies.funbuddyicons.com
@@ -43428,9 +43424,6 @@ white yt3.ggpht.com
 
 # pradanedannoyasui.info
 127.0.0.1 pradanedannoyasui.info
-
-# pradaoutlets-jp.com
-127.0.0.1 pradaoutlets-jp.com
 
 # pradashopja.com
 127.0.0.1 pradashopja.com
