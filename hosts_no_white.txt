@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/21
-# block hosts: 31804 entry
+# block hosts: 31803 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -37228,7 +37228,6 @@
 127.0.0.1 img.ads.mreco0.jp
 127.0.0.1 mreco0.jp
 127.0.0.1 n2.ads.mreco0.jp
-127.0.0.1 n5.ads.mreco0.jp
 
 # mrejata.net
 127.0.0.1 www.ads.mrejata.net
