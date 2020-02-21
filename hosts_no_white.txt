@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/02/21
-# block hosts: 31802 entry
+# last updated: 2020/02/22
+# block hosts: 31800 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -6395,9 +6395,6 @@
 
 # adsinimages.com
 127.0.0.1 ads.adsinimages.com
-
-# adsinnetwork.com
-127.0.0.1 images.adsinnetwork.com
 
 # adsinstant.com
 127.0.0.1 static.adsinstant.com
@@ -24012,7 +24009,6 @@
 127.0.0.1 gcirm.indystar.gcion.com
 127.0.0.1 gcirm.injersey.gcion.com
 127.0.0.1 gcirm.jacksonsun.gcion.com
-127.0.0.1 gcirm.jconline.gcion.com
 127.0.0.1 gcirm.laregionalonline.gcion.com
 127.0.0.1 gcirm.mconetwork.gcion.com
 127.0.0.1 gcirm.montgomeryadvertiser.gcion.com
