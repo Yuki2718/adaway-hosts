@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/22
-# block hosts: 31797 entry
+# block hosts: 31795 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -19016,9 +19016,6 @@
 
 # downshu.net
 127.0.0.1 ad.downshu.net
-
-# downup-removal.com
-127.0.0.1 www.downup-removal.com
 
 # doyoo.net
 127.0.0.1 doyoo.net
@@ -46700,7 +46697,6 @@
 127.0.0.1 www.searchrelevancy.com
 
 # searchresultsdirect.com
-127.0.0.1 pics.www3.searchresultsdirect.com
 127.0.0.1 www2.searchresultsdirect.com
 
 # searchshrine.info
