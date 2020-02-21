@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/22
-# block hosts: 31800 entry
+# block hosts: 31797 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -4512,7 +4512,6 @@ white yt3.ggpht.com
 127.0.0.1 fdau.adbureau.net
 127.0.0.1 ffxd-images.adbureau.net
 127.0.0.1 ggrind.adbureau.net
-127.0.0.1 hbpl-images.adbureau.net
 127.0.0.1 iacas.adbureau.net
 127.0.0.1 ieee-images.adbureau.net
 127.0.0.1 imediac.adbureau.net
@@ -42026,7 +42025,6 @@ white yt3.ggpht.com
 127.0.0.1 www.paypopup.com
 127.0.0.1 www1.paypopup.com
 127.0.0.1 www10.paypopup.com
-127.0.0.1 www14.paypopup.com
 127.0.0.1 www2.paypopup.com
 127.0.0.1 www21.paypopup.com
 127.0.0.1 www210.paypopup.com
@@ -59038,7 +59036,6 @@ white yt3.ggpht.com
 127.0.0.1 ctfile.ziyu.net
 127.0.0.1 file.ziyu.net
 127.0.0.1 js1.ziyu.net
-127.0.0.1 log01.v4.ziyu.net
 127.0.0.1 log02.v4.ziyu.net
 127.0.0.1 log03.v4.ziyu.net
 127.0.0.1 log04.v4.ziyu.net
