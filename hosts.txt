@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/25
-# block hosts: 31789 entry
+# block hosts: 31786 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -7202,9 +7202,6 @@ white yt3.ggpht.com
 # adv-adserver.com
 127.0.0.1 adv-adserver.com
 127.0.0.1 www.adv-adserver.com
-
-# adv.bg
-127.0.0.1 yield.adv.bg
 
 # advack.net
 127.0.0.1 advack.net
@@ -21410,9 +21407,6 @@ white yt3.ggpht.com
 127.0.0.1 admedia.expedia.com
 127.0.0.1 ads.expedia.com
 127.0.0.1 om.expedia.com
-
-# expedia.fr
-127.0.0.1 stream.expedia.fr
 
 # expekt.com
 127.0.0.1 ads.expekt.com
@@ -53645,7 +53639,6 @@ white yt3.ggpht.com
 
 # truebooter.com
 127.0.0.1 truebooter.com
-127.0.0.1 www.truebooter.com
 
 # truecash.com
 127.0.0.1 banners.truecash.com
