@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/25
-# block hosts: 31790 entry
+# block hosts: 31789 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -14346,7 +14346,6 @@
 127.0.0.1 ares.chinoc.net
 127.0.0.1 chinoc.net
 127.0.0.1 kw107.chinoc.net
-127.0.0.1 kw123.chinoc.net
 127.0.0.1 v5.chinoc.net
 
 # chint-lf.com
