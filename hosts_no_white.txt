@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/02/22
-# block hosts: 31795 entry
+# last updated: 2020/02/25
+# block hosts: 31794 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -22207,9 +22207,6 @@
 
 # firstream.net
 127.0.0.1 ads.nit.firstream.net
-
-# firstrxpharma.com
-127.0.0.1 www.firstrxpharma.com
 
 # fish-screensaver.com
 127.0.0.1 www.fish-screensaver.com
