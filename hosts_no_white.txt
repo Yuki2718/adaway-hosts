@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/25
-# block hosts: 31793 entry
+# block hosts: 31790 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -18224,9 +18224,6 @@
 # dlsite.jp
 127.0.0.1 dlsite.jp
 
-# dlurumhpcq.website
-127.0.0.1 ihu1mafh.dlurumhpcq.website
-
 # dlv4.com
 127.0.0.1 es6-scripts.dlv4.com
 127.0.0.1 scripts.dlv4.com
@@ -21697,9 +21694,6 @@
 
 # farlex.com
 127.0.0.1 a.farlex.com
-
-# fashion.bg
-127.0.0.1 openx2.fashion.bg
 
 # fashionista.com
 127.0.0.1 cache.fashionista.com
@@ -43884,9 +43878,6 @@
 
 # pubnative.net
 127.0.0.1 api.pubnative.net
-
-# pubpremium3.com
-127.0.0.1 www.pubpremium3.com
 
 # pubsage.com
 127.0.0.1 mobi.pubsage.com
