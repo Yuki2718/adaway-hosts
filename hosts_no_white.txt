@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/02/25
-# block hosts: 31786 entry
+# last updated: 2020/02/26
+# block hosts: 31784 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -7724,6 +7724,9 @@
 127.0.0.1 adzerver.com
 127.0.0.1 dn.adzerver.com
 127.0.0.1 temp.adzerver.com
+
+# adziondin.club
+127.0.0.1 adziondin.club
 
 # adzly.com
 127.0.0.1 adzly.com
@@ -31940,9 +31943,6 @@
 # joylandcasino.com
 127.0.0.1 banner.joylandcasino.com
 
-# jp-canadagoosedown.biz
-127.0.0.1 jp-canadagoosedown.biz
-
 # jp-yupp111.com
 127.0.0.1 jp-yupp111.com
 
@@ -36067,7 +36067,6 @@
 127.0.0.1 line18.metriweb.be
 127.0.0.1 line19.metriweb.be
 127.0.0.1 rtbf09.metriweb.be
-127.0.0.1 skynet-news.metriweb.be
 127.0.0.1 startpagina.metriweb.be
 
 # metrobostonnews.com
@@ -58658,7 +58657,6 @@
 127.0.0.1 downloads.zango.com
 127.0.0.1 games.zango.com
 127.0.0.1 gate11.powered-by.zango.com
-127.0.0.1 gate4.powered-by.zango.com
 127.0.0.1 hosted.zango.com
 127.0.0.1 installs.zango.com
 127.0.0.1 messenger.zango.com
