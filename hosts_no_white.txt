@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/26
-# block hosts: 31784 entry
+# block hosts: 31781 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -13453,9 +13453,6 @@
 # canadian-medshop.com
 127.0.0.1 canadian-medshop.com
 
-# canadian-pharamacy-drugstore.com
-127.0.0.1 www.canadian-pharamacy-drugstore.com
-
 # canadian-pharmacy-store.com
 127.0.0.1 canadian-pharmacy-store.com
 
@@ -19068,9 +19065,6 @@
 
 # drf.com
 127.0.0.1 ads.drf.com
-
-# drinkminx.com
-127.0.0.1 www.drinkminx.com
 
 # drivelinemedia.com
 127.0.0.1 ads2.drivelinemedia.com
@@ -50075,9 +50069,6 @@
 
 # statsmachine.com
 127.0.0.1 www.statsmachine.com
-
-# statstrackeronline.com
-127.0.0.1 www.statstrackeronline.com
 
 # stattrax.com
 127.0.0.1 stattrax.com
