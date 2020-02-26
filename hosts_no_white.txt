@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/02/26
-# block hosts: 31781 entry
+# block hosts: 31780 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -5744,7 +5744,6 @@
 127.0.0.1 my.adocean.pl
 127.0.0.1 myao.adocean.pl
 127.0.0.1 negbg.adocean.pl
-127.0.0.1 neogenro.adocean.pl
 127.0.0.1 obozua.adocean.pl
 127.0.0.1 oglasnikhr.adocean.pl
 127.0.0.1 pkt.adocean.pl
