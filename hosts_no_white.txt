@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/02/26
-# block hosts: 31779 entry
+# last updated: 2020/02/27
+# block hosts: 31783 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -643,6 +643,9 @@
 127.0.0.1 rmcdn.2mdn.net
 127.0.0.1 rmcdn.f.2mdn.net
 127.0.0.1 s1.2mdn.net
+
+# 2mdnsys.com
+127.0.0.1 ads.2mdnsys.com
 
 # 2mng.com
 127.0.0.1 need.2mng.com
@@ -32563,6 +32566,9 @@
 # kohls.com
 127.0.0.1 ww9.kohls.com
 
+# koindut.com
+127.0.0.1 koindut.com
+
 # kolmic.com
 127.0.0.1 images.kolmic.com
 127.0.0.1 pics.kolmic.com
@@ -45946,6 +45952,9 @@
 # run-syndicate.com
 127.0.0.1 run-syndicate.com
 
+# runative-syndicate.com
+127.0.0.1 runative-syndicate.com
+
 # rundll-exe.com
 127.0.0.1 www.rundll-exe.com
 
@@ -51467,6 +51476,9 @@
 
 # terraclicks.com
 127.0.0.1 www.terraclicks.com
+
+# terrapsps.com
+127.0.0.1 terrapsps.com
 
 # tesimages.com
 127.0.0.1 www.tesimages.com
