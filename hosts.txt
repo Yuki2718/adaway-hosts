@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/03/02
-# block hosts: 31785 entry
+# block hosts: 31786 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -7262,6 +7262,9 @@ white yt3.ggpht.com
 
 # advcpm.com
 127.0.0.1 www.advcpm.com
+
+# adve.net
+127.0.0.1 adve.net
 
 # adventertainment.it
 127.0.0.1 www.adventertainment.it
