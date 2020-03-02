@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/03/02
-# block hosts: 31784 entry
+# block hosts: 31785 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -39417,6 +39417,9 @@
 
 # newtransfer.cn
 127.0.0.1 newtransfer.cn
+
+# newugeno-banuge.com
+127.0.0.1 www.newugeno-banuge.com
 
 # newwebmaster.net
 127.0.0.1 www.newwebmaster.net
