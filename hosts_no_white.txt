@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/03/02
-# block hosts: 31786 entry
+# last updated: 2020/03/07
+# block hosts: 31807 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -19557,6 +19557,19 @@
 # easyinvestment.info
 127.0.0.1 easyinvestment.info
 
+# easymedia2.com
+127.0.0.1 0.easymedia2.com
+127.0.0.1 1.easymedia2.com
+127.0.0.1 2.easymedia2.com
+127.0.0.1 3.easymedia2.com
+127.0.0.1 4.easymedia2.com
+127.0.0.1 5.easymedia2.com
+127.0.0.1 6.easymedia2.com
+127.0.0.1 7.easymedia2.com
+127.0.0.1 8.easymedia2.com
+127.0.0.1 9.easymedia2.com
+127.0.0.1 easymedia2.com
+
 # easymobi.cn
 127.0.0.1 adver.easymobi.cn
 127.0.0.1 app.easymobi.cn
@@ -20689,6 +20702,9 @@
 # erostracker.net
 127.0.0.1 erostracker.net
 127.0.0.1 www.erostracker.net
+
+# erosyndc.com
+127.0.0.1 erosyndc.com
 
 # eroterest.net
 127.0.0.1 bpm.eroterest.net
@@ -25503,6 +25519,7 @@
 127.0.0.1 ad.gunosy.com
 127.0.0.1 adapi.gunosy.com
 127.0.0.1 adntokyo.gunosy.com
+127.0.0.1 ads-delivery.gunosy.com
 127.0.0.1 assets.gunosy.com
 127.0.0.1 creatives.gunosy.com
 
@@ -29898,6 +29915,9 @@
 # instantnavigation.com
 127.0.0.1 www.instantnavigation.com
 
+# instantresp.com
+127.0.0.1 instantresp.com
+
 # instantservice.com
 127.0.0.1 instantservice.com
 
@@ -30961,6 +30981,9 @@
 # inyourpocket.com
 127.0.0.1 banner.inyourpocket.com
 
+# iociley.com
+127.0.0.1 iociley.com
+
 # iogous.com
 127.0.0.1 a.iogous.com
 127.0.0.1 c.iogous.com
@@ -31666,6 +31689,9 @@
 # jadina-counter.de
 127.0.0.1 jadina-counter.de
 127.0.0.1 www.jadina-counter.de
+
+# jads.co
+127.0.0.1 jads.co
 
 # jamba.de
 127.0.0.1 ad.jamba.de
@@ -38138,6 +38164,9 @@
 # mypowermall.com
 127.0.0.1 mypowermall.com
 
+# myprizebox9.live
+127.0.0.1 reward6031.myprizebox9.live
+
 # myquicksearch.com
 127.0.0.1 mn.myquicksearch.com
 127.0.0.1 mr.myquicksearch.com
@@ -38809,6 +38838,12 @@
 
 # neppa-ad.com
 127.0.0.1 cdn.neppa-ad.com
+
+# neppa-adsv.com
+127.0.0.1 cdn.neppa-adsv.com
+
+# neppa-dsp-ad.com
+127.0.0.1 neppa-dsp-ad.com
 
 # nerve.com
 127.0.0.1 ads.nerve.com
@@ -44806,6 +44841,9 @@
 
 # realtextads.com
 127.0.0.1 www.realtextads.com
+
+# realtime-bid.com
+127.0.0.1 realtime-bid.com
 
 # realtimeads.com
 127.0.0.1 realtimeads.com
@@ -51955,6 +51993,9 @@
 
 # thiswaytotheinternet.com
 127.0.0.1 thiswaytotheinternet.com
+
+# thofigdot.club
+127.0.0.1 thofigdot.club
 
 # thomsonlocal.com
 127.0.0.1 banners.thomsonlocal.com
