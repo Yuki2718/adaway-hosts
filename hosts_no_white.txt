@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/03/07
-# block hosts: 31807 entry
+# block hosts: 31809 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -52249,6 +52249,9 @@
 # todacell.com
 127.0.0.1 ads.todacell.com
 
+# todayprizes-best3.info
+127.0.0.1 todayprizes-best3.info
+
 # todayshunks.com
 127.0.0.1 todayshunks.com
 127.0.0.1 www.todayshunks.com
@@ -55085,6 +55088,9 @@
 
 # videotvportal.org
 127.0.0.1 videotvportal.org
+
+# videowatchmore.com
+127.0.0.1 videowatchmore.com
 
 # videoweed.es
 127.0.0.1 videoweed.es
