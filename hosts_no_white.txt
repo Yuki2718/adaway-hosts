@@ -5,7 +5,7 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/03/07
+# last updated: 2020/03/15
 # block hosts: 31809 entry
 
 # 000webhost.com
@@ -6213,6 +6213,9 @@
 
 # adscholar.com
 127.0.0.1 adscholar.com
+
+# adsco.re
+127.0.0.1 adsco.re
 
 # adscpm.com
 127.0.0.1 adscpm.com
@@ -50747,9 +50750,6 @@
 
 # surveymanager.com
 127.0.0.1 surveymanager.com
-
-# surveymonkey.com
-127.0.0.1 www.surveymonkey.com
 
 # surveynetworks.com
 127.0.0.1 surveynetworks.com
