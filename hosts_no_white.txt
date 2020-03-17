@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/03/18
-# block hosts: 31808 entry
+# block hosts: 31809 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -47136,6 +47136,9 @@
 # sesamestats.com
 127.0.0.1 www.sesamestats.com
 127.0.0.1 www2.sesamestats.com
+
+# sesasu-guffh.com
+127.0.0.1 www.sesasu-guffh.com
 
 # setcounter.com
 127.0.0.1 setcounter.com
