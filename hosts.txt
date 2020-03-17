@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/03/15
-# block hosts: 31809 entry
+# last updated: 2020/03/18
+# block hosts: 31808 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -58165,7 +58165,6 @@ white yt3.ggpht.com
 # yahooapis.jp
 127.0.0.1 aag.yahooapis.jp
 127.0.0.1 entrypoint.search.yahooapis.jp
-127.0.0.1 shopping.yahooapis.jp
 
 # yakbucks.com
 127.0.0.1 counter.yakbucks.com
