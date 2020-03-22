@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/03/18
-# block hosts: 31809 entry
+# last updated: 2020/03/22
+# block hosts: 31808 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -25009,9 +25009,6 @@
 127.0.0.1 pagead.googlesyndication.com
 127.0.0.1 pagead3.googlesyndication.com
 127.0.0.1 tpc.googlesyndication.com
-
-# googletagmanager.com
-127.0.0.1 www.googletagmanager.com
 
 # googletagservices.com
 127.0.0.1 www.googletagservices.com

@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/03/18
-# block hosts: 31809 entry
+# last updated: 2020/03/22
+# block hosts: 31808 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -49,6 +49,7 @@ white web-jp.ad-v.jp
 white ws.tapjoyads.com
 white www.google-analytics.com
 white www.googleadservices.com
+white www.googletagmanager.com
 white youtube.googleapis.com
 white yt3.ggpht.com
 
@@ -25053,9 +25054,6 @@ white yt3.ggpht.com
 127.0.0.1 pagead.googlesyndication.com
 127.0.0.1 pagead3.googlesyndication.com
 127.0.0.1 tpc.googlesyndication.com
-
-# googletagmanager.com
-127.0.0.1 www.googletagmanager.com
 
 # googletagservices.com
 127.0.0.1 www.googletagservices.com
