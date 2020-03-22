@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/03/22
-# block hosts: 31808 entry
+# block hosts: 31817 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -6620,6 +6620,9 @@ white yt3.ggpht.com
 127.0.0.1 ads.adsponse.de
 127.0.0.1 adsponse.de
 
+# adspyglass.com
+127.0.0.1 adspyglass.com
+
 # adsrevenue.net
 127.0.0.1 adsrevenue.net
 127.0.0.1 banner.adsrevenue.net
@@ -7722,6 +7725,7 @@ white yt3.ggpht.com
 
 # adxadserv.com
 127.0.0.1 ads.adxadserv.com
+127.0.0.1 adxadserv.com
 
 # adxcorp.kr
 127.0.0.1 api.adxcorp.kr
@@ -8498,6 +8502,9 @@ white yt3.ggpht.com
 
 # allmygreatestlife.com
 127.0.0.1 allmygreatestlife.com
+
+# allmyverygreatlife.com
+127.0.0.1 allmyverygreatlife.com
 
 # alloha.info
 127.0.0.1 alloha.info
@@ -14718,6 +14725,9 @@ white yt3.ggpht.com
 127.0.0.1 geoip.cleveland.com
 127.0.0.1 metrics.cleveland.com
 127.0.0.1 te.cleveland.com
+
+# clfvfumqqok.com
+127.0.0.1 clfvfumqqok.com
 
 # clhctrk.com
 127.0.0.1 c.clhctrk.com
@@ -22128,6 +22138,9 @@ white yt3.ggpht.com
 
 # find-job.net
 127.0.0.1 www.find-job.net
+
+# find-my-great-life.com
+127.0.0.1 find-my-great-life.com
 
 # find-quick-results.com
 127.0.0.1 www.find-quick-results.com
@@ -38077,6 +38090,9 @@ white yt3.ggpht.com
 # mygoodguardian.com
 127.0.0.1 report.mygoodguardian.com
 
+# mygoodlives.com
+127.0.0.1 mygoodlives.com
+
 # mygooglepagerank.com
 127.0.0.1 www.mygooglepagerank.com
 
@@ -44923,6 +44939,9 @@ white yt3.ggpht.com
 
 # realvail.com
 127.0.0.1 ads.realvail.com
+
+# realvu.net
+127.0.0.1 realvu.net
 
 # reanimapedia.org
 127.0.0.1 reanimapedia.org
@@ -54958,6 +54977,7 @@ white yt3.ggpht.com
 127.0.0.1 vu.veoxa.com
 
 # verajohn.com
+127.0.0.1 offers.verajohn.com
 127.0.0.1 promo.verajohn.com
 
 # vericlick.com
@@ -58240,6 +58260,9 @@ white yt3.ggpht.com
 
 # ycheba.info
 127.0.0.1 ycheba.info
+
+# ycxtpbfcsl.com
+127.0.0.1 ycxtpbfcsl.com
 
 # ydoing.com
 127.0.0.1 ydoing.com
