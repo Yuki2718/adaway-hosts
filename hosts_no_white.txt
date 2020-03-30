@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/03/22
-# block hosts: 31817 entry
+# last updated: 2020/03/31
+# block hosts: 31816 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -5283,7 +5283,6 @@
 127.0.0.1 ac7aa69d96b75a55c5e0fe8035f45bce.ulink.adjust.com
 127.0.0.1 api.adjust.com
 127.0.0.1 app-benchmarks.adjust.com
-127.0.0.1 app.adjust.com
 127.0.0.1 atom.adjust.com
 127.0.0.1 b43108c070cb09d6caba2b9dba10d2a6.ulink.adjust.com
 127.0.0.1 b5c3cd05645e38884a6207c125a572c1.ulink.adjust.com
