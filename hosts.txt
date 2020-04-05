@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/03/31
-# block hosts: 31816 entry
+# last updated: 2020/04/05
+# block hosts: 31823 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -15317,6 +15317,7 @@ white yt3.ggpht.com
 127.0.0.1 np7beacon.cloudapp.net
 
 # cloudfront.net
+127.0.0.1 d141wsrw9m4as6.cloudfront.net
 127.0.0.1 d18q5nc9wflibl.cloudfront.net
 127.0.0.1 d1aow18uk61pdc.cloudfront.net
 127.0.0.1 d1l6p2sc9645hc.cloudfront.net
@@ -15337,6 +15338,7 @@ white yt3.ggpht.com
 127.0.0.1 d3oltyb66oj2v8.cloudfront.net
 127.0.0.1 d5nxst8fruw4z.cloudfront.net
 127.0.0.1 d8rk54i4mohrb.cloudfront.net
+127.0.0.1 dc5k8fg5ioc8s.cloudfront.net
 127.0.0.1 dlp4luwpus5kr.cloudfront.net
 127.0.0.1 dnn506yrbagrg.cloudfront.net
 127.0.0.1 dtym7iokkjlif.cloudfront.net
@@ -17247,6 +17249,7 @@ white yt3.ggpht.com
 
 # dailymotion.com
 127.0.0.1 advertising.dailymotion.com
+127.0.0.1 dmxleo.dailymotion.com
 
 # dailypornmag.com
 127.0.0.1 dailypornmag.com
@@ -19213,6 +19216,9 @@ white yt3.ggpht.com
 
 # drunkporn.us
 127.0.0.1 drunkporn.us
+
+# dryzapsol.com
+127.0.0.1 dryzapsol.com
 
 # ds1.nl
 127.0.0.1 b.ds1.nl
@@ -26030,6 +26036,9 @@ white yt3.ggpht.com
 
 # herbalsmokeshops.com
 127.0.0.1 www.herbalsmokeshops.com
+
+# herepackagine.info
+127.0.0.1 herepackagine.info
 
 # heretv.com
 127.0.0.1 a.heretv.com
@@ -41037,6 +41046,9 @@ white yt3.ggpht.com
 # orgasms4free.com
 127.0.0.1 www.orgasms4free.com
 
+# originalsecurecn.com
+127.0.0.1 originalsecurecn.com
+
 # orlandosentinel.com
 127.0.0.1 te.orlandosentinel.com
 
@@ -54978,6 +54990,7 @@ white yt3.ggpht.com
 # verajohn.com
 127.0.0.1 offers.verajohn.com
 127.0.0.1 promo.verajohn.com
+127.0.0.1 verajohn.com
 
 # vericlick.com
 127.0.0.1 vericlick.com
