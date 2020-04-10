@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/04/11
-# block hosts: 31835 entry
+# block hosts: 31840 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -19883,6 +19883,9 @@ white yt3.ggpht.com
 
 # edonkey2000.at
 127.0.0.1 edonkey2000.at
+
+# edspicuousind.site
+127.0.0.1 edspicuousind.site
 
 # edua29146y.com
 127.0.0.1 edua29146y.com
@@ -42214,6 +42217,9 @@ white yt3.ggpht.com
 # pdf-platinum.info
 127.0.0.1 www.pdf-platinum.info
 
+# pdfconvertme.com
+127.0.0.1 pdfconvertme.com
+
 # pdltracking.com
 127.0.0.1 click.pdltracking.com
 
@@ -53140,6 +53146,9 @@ white yt3.ggpht.com
 # traffic-in.com
 127.0.0.1 www.traffic-in.com
 
+# traffic-media.co
+127.0.0.1 example.traffic-media.co
+
 # traffic-staff.com
 127.0.0.1 traffic-staff.com
 
@@ -55076,6 +55085,9 @@ white yt3.ggpht.com
 
 # veryfunnyads.com
 127.0.0.1 metrics.veryfunnyads.com
+
+# vexacion.com
+127.0.0.1 vexacion.com
 
 # vgchartz.com
 127.0.0.1 ads.vgchartz.com
@@ -58400,6 +58412,9 @@ white yt3.ggpht.com
 
 # yfdmedia.com
 127.0.0.1 www.yfdmedia.com
+
+# yfurtherew.info
+127.0.0.1 yfurtherew.info
 
 # yhstats.com
 127.0.0.1 yhstats.com
