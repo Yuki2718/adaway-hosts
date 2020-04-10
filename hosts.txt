@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/04/05
-# block hosts: 31823 entry
+# last updated: 2020/04/11
+# block hosts: 31825 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -51608,6 +51608,9 @@ white yt3.ggpht.com
 # testnet.nl
 127.0.0.1 dy.testnet.nl
 
+# tetilot-cesah.com
+127.0.0.1 www.tetilot-cesah.com
+
 # text-link-ads.com
 127.0.0.1 text-link-ads.com
 127.0.0.1 www.text-link-ads.com
@@ -55891,6 +55894,9 @@ white yt3.ggpht.com
 
 # watchama2009.tk
 127.0.0.1 watchama2009.tk
+
+# watchheavilypreciseproduct.icu
+127.0.0.1 watchheavilypreciseproduct.icu
 
 # watchmygf.com
 127.0.0.1 stats.watchmygf.com
