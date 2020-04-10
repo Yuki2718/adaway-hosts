@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/04/11
-# block hosts: 31840 entry
+# block hosts: 31841 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -52614,6 +52614,9 @@ white yt3.ggpht.com
 
 # topflist.com
 127.0.0.1 topflist.com
+
+# topflownews.com
+127.0.0.1 topflownews.com
 
 # topforall.com
 127.0.0.1 topforall.com
