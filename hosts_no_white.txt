@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/04/11
-# block hosts: 31825 entry
+# block hosts: 31835 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -11023,6 +11023,9 @@
 
 # bcnewsgroup.com
 127.0.0.1 ads.bcnewsgroup.com
+
+# bcnmonetize.com
+127.0.0.1 link.bcnmonetize.com
 
 # bde3d.com
 127.0.0.1 bde3d.com
@@ -34300,6 +34303,9 @@
 # loading321.com
 127.0.0.1 loading321.com
 
+# loadlatestintenselyapplication.icu
+127.0.0.1 loadlatestintenselyapplication.icu
+
 # loadmill.com
 127.0.0.1 loadmill.com
 
@@ -38023,6 +38029,9 @@
 127.0.0.1 myetracker.com
 127.0.0.1 www.myetracker.com
 
+# myfirstwebnet.com
+127.0.0.1 myfirstwebnet.com
+
 # myfuncards.com
 127.0.0.1 utm.myfuncards.com
 127.0.0.1 utm.trk.myfuncards.com
@@ -39460,6 +39469,10 @@
 # newsx.cc
 127.0.0.1 collector.newsx.cc
 127.0.0.1 images.newsx.cc
+
+# newtabtv.com
+127.0.0.1 ja.newtabtv.com
+127.0.0.1 newtabtv.com
 
 # newtention.net
 127.0.0.1 ads.newtention.net
@@ -42306,6 +42319,9 @@
 
 # performable.com
 127.0.0.1 analytics.performable.com
+
+# performanceonclick.com
+127.0.0.1 www.performanceonclick.com
 
 # performancerevenues.com
 127.0.0.1 tracking.performancerevenues.com
@@ -47755,6 +47771,10 @@
 
 # shifen.com
 127.0.0.1 mpro.e.shifen.com
+
+# shiftexten.com
+127.0.0.1 shiftexten.com
+127.0.0.1 www.shiftexten.com
 
 # shiftlock.com
 127.0.0.1 www4.shiftlock.com
@@ -53948,6 +53968,9 @@
 # tvnorge.no
 127.0.0.1 openads.tvnorge.no
 
+# tvplusnewtab.com
+127.0.0.1 tvplusnewtab.com
+
 # tvsquad.com
 127.0.0.1 www.tvsquad.com
 
@@ -55687,6 +55710,9 @@
 
 # vttrack.com.br
 127.0.0.1 tr2.vttrack.com.br
+
+# vuer.net
+127.0.0.1 volume.vuer.net
 
 # vug.in
 127.0.0.1 vug.in
