@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/04/11
-# block hosts: 31841 entry
+# last updated: 2020/04/12
+# block hosts: 31842 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -36531,6 +36531,9 @@ white yt3.ggpht.com
 127.0.0.1 iad.xmlsearch.miva.com
 127.0.0.1 miva.com
 127.0.0.1 v10.xmlsearch.miva.com
+
+# mixh.jp
+127.0.0.1 www.accountgoback.mixh.jp
 
 # mixi.jp
 127.0.0.1 ads.mixi.jp
