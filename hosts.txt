@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/04/12
-# block hosts: 31842 entry
+# last updated: 2020/04/13
+# block hosts: 31845 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -19908,6 +19908,9 @@ white yt3.ggpht.com
 # efektiv.net
 127.0.0.1 efektiv.net
 
+# effectionothere.site
+127.0.0.1 effectionothere.site
+
 # effectivebrand.com
 127.0.0.1 search.effectivebrand.com
 127.0.0.1 users.effectivebrand.com
@@ -35102,6 +35105,9 @@ white yt3.ggpht.com
 
 # mammanett.no
 127.0.0.1 ads.mammanett.no
+
+# manageheavilyrenewedsystem.icu
+127.0.0.1 manageheavilyrenewedsystem.icu
 
 # manager.bg
 127.0.0.1 ads.manager.bg
@@ -55941,6 +55947,9 @@ white yt3.ggpht.com
 
 # watchheavilypreciseproduct.icu
 127.0.0.1 watchheavilypreciseproduct.icu
+
+# watchheavilyswiftproduct.icu
+127.0.0.1 watchheavilyswiftproduct.icu
 
 # watchmygf.com
 127.0.0.1 stats.watchmygf.com
