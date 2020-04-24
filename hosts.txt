@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/04/13
-# block hosts: 31845 entry
+# last updated: 2020/04/24
+# block hosts: 31849 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -15321,6 +15321,7 @@ white yt3.ggpht.com
 
 # cloudfront.net
 127.0.0.1 d141wsrw9m4as6.cloudfront.net
+127.0.0.1 d18g6t7whf8ejf.cloudfront.net
 127.0.0.1 d18q5nc9wflibl.cloudfront.net
 127.0.0.1 d1aow18uk61pdc.cloudfront.net
 127.0.0.1 d1l6p2sc9645hc.cloudfront.net
@@ -24911,6 +24912,7 @@ white yt3.ggpht.com
 
 # goldspotmedia.com
 127.0.0.1 cdn.us.goldspotmedia.com
+127.0.0.1 gcmast-cdn.goldspotmedia.com
 127.0.0.1 jp3adv-cdn.goldspotmedia.com
 
 # goldstats.com
@@ -25020,7 +25022,6 @@ white yt3.ggpht.com
 127.0.0.1 adservices.google.com
 127.0.0.1 adwords.google.com
 127.0.0.1 googleadapis.l.google.com
-127.0.0.1 gstaticadssl.l.google.com
 127.0.0.1 mobileads.google.com
 127.0.0.1 pagead-googlehosted.l.google.com
 127.0.0.1 pagead.l.google.com
@@ -33267,7 +33268,9 @@ white yt3.ggpht.com
 127.0.0.1 rt.liftdna.com
 
 # liftoff.io
+127.0.0.1 cdn.liftoff.io
 127.0.0.1 click.liftoff.io
+127.0.0.1 impression-asia.liftoff.io
 
 # ligatus.com
 127.0.0.1 a.ligatus.com
@@ -33310,6 +33313,9 @@ white yt3.ggpht.com
 
 # line-cross.com
 127.0.0.1 line-cross.com
+
+# line.me
+127.0.0.1 sch.line.me
 
 # lineacount.info
 127.0.0.1 lineacount.info
