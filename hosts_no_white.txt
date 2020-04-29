@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/04/24
-# block hosts: 31849 entry
+# last updated: 2020/04/29
+# block hosts: 31851 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -15619,6 +15619,9 @@
 # codeonclick.com
 127.0.0.1 c.codeonclick.com
 
+# cogleapad.com
+127.0.0.1 cogleapad.com
+
 # cogtree.com
 127.0.0.1 cogtree.com
 127.0.0.1 www.cogtree.com
@@ -26117,6 +26120,9 @@
 
 # highpro1.com
 127.0.0.1 highpro1.com
+
+# highsecureus.com
+127.0.0.1 highsecureus.com
 
 # hightrafficads.com
 127.0.0.1 hightrafficads.com
