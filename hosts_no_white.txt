@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/05/10
-# block hosts: 31855 entry
+# block hosts: 31858 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -8463,6 +8463,9 @@
 # alloha.info
 127.0.0.1 alloha.info
 
+# allopingender.club
+127.0.0.1 allopingender.club
+
 # allosponsor.com
 127.0.0.1 allosponsor.com
 127.0.0.1 www.allosponsor.com
@@ -14628,6 +14631,9 @@
 
 # cleaner-2009.com
 127.0.0.1 cleaner-2009.com
+
+# cleaneryelded.site
+127.0.0.1 cleaneryelded.site
 
 # cleanprint.net
 127.0.0.1 cleanprint.net
@@ -25590,15 +25596,6 @@
 127.0.0.1 beacons2.gvt2.com
 127.0.0.1 beacons3.gvt2.com
 127.0.0.1 beacons4.gvt2.com
-127.0.0.1 beacons5.gvt2.com
-
-# gvt3.com
-127.0.0.1 beacons.gcp.gvt3.com
-127.0.0.1 beacons.gvt3.com
-127.0.0.1 beacons2.gvt3.com
-127.0.0.1 beacons3.gvt3.com
-127.0.0.1 beacons4.gvt3.com
-127.0.0.1 beacons5.gvt3.com
 
 # gw8888.com
 127.0.0.1 gw8888.com
@@ -47233,6 +47230,9 @@
 # setihome.com
 127.0.0.1 setihome.com
 127.0.0.1 www.setihome.com
+
+# seveningusha.club
+127.0.0.1 seveningusha.club
 
 # sevenload.com
 127.0.0.1 adserver.sevenload.com
