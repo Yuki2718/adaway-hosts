@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/05/10
-# block hosts: 31858 entry
+# block hosts: 31865 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -25641,6 +25641,15 @@ white yt3.ggpht.com
 127.0.0.1 beacons2.gvt2.com
 127.0.0.1 beacons3.gvt2.com
 127.0.0.1 beacons4.gvt2.com
+127.0.0.1 beacons5.gvt2.com
+
+# gvt3.com
+127.0.0.1 beacons.gcp.gvt3.com
+127.0.0.1 beacons.gvt3.com
+127.0.0.1 beacons2.gvt3.com
+127.0.0.1 beacons3.gvt3.com
+127.0.0.1 beacons4.gvt3.com
+127.0.0.1 beacons5.gvt3.com
 
 # gw8888.com
 127.0.0.1 gw8888.com
