@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/04/29
-# block hosts: 31851 entry
+# last updated: 2020/05/10
+# block hosts: 31853 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -26165,6 +26165,9 @@ white yt3.ggpht.com
 
 # highpro1.com
 127.0.0.1 highpro1.com
+
+# highsecurecn.com
+127.0.0.1 highsecurecn.com
 
 # highsecureus.com
 127.0.0.1 highsecureus.com
@@ -52400,6 +52403,7 @@ white yt3.ggpht.com
 127.0.0.1 ad.tokyo-tube-ad.com
 127.0.0.1 affiliate.tokyo-tube-ad.com
 127.0.0.1 pic.tokyo-tube-ad.com
+127.0.0.1 tokyo-tube-ad.com
 
 # tom.com
 127.0.0.1 ad.tom.com
