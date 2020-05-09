@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/05/10
-# block hosts: 31853 entry
+# block hosts: 31855 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -15286,6 +15286,7 @@
 127.0.0.1 d28nwox1gdjlve.cloudfront.net
 127.0.0.1 d2bgg7rjywcwsy.cloudfront.net
 127.0.0.1 d2cjo8xlt6fbwy.cloudfront.net
+127.0.0.1 d2k1gzykfsah3o.cloudfront.net
 127.0.0.1 d2p8taqyjofgrq.cloudfront.net
 127.0.0.1 d2swpuhpwp3khd.cloudfront.net
 127.0.0.1 d2zq3cb8ug8r1h.cloudfront.net
@@ -38818,6 +38819,9 @@
 # negrasporno.com
 127.0.0.1 galleries.negrasporno.com
 127.0.0.1 www.negrasporno.com
+
+# nehanodo-secapi.com
+127.0.0.1 www.nehanodo-secapi.com
 
 # neimanmarcus.com
 127.0.0.1 om.neimanmarcus.com
