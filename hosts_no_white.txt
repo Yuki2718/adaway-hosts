@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/05/10
-# block hosts: 31865 entry
+# block hosts: 31866 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -13553,6 +13553,9 @@
 
 # carbonads.com
 127.0.0.1 carbonads.com
+
+# carbonads.net
+127.0.0.1 carbonads.net
 
 # carbonite.com
 127.0.0.1 metrics.carbonite.com
