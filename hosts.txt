@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/05/11
-# block hosts: 31867 entry
+# block hosts: 31872 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -3129,6 +3129,9 @@ white yt3.ggpht.com
 
 # 522kuaigo.com
 127.0.0.1 522kuaigo.com
+
+# 5240348.com
+127.0.0.1 lu.5240348.com
 
 # 52clickad.com
 127.0.0.1 52clickad.com
@@ -12984,6 +12987,9 @@ white yt3.ggpht.com
 # brucelead.com
 127.0.0.1 brucelead.com
 
+# brwz7.com
+127.0.0.1 www.brwz7.com
+
 # bsdpng.info
 127.0.0.1 bsdpng.info
 
@@ -17623,6 +17629,9 @@ white yt3.ggpht.com
 
 # delivere.com
 127.0.0.1 delivere.com
+
+# deliverps.com
+127.0.0.1 deliverps.com
 
 # dell.com
 127.0.0.1 nsm.dell.com
@@ -41639,6 +41648,9 @@ white yt3.ggpht.com
 # paper.li
 127.0.0.1 ads.paper.li
 
+# paprikapromo.ru
+127.0.0.1 989189348.paprikapromo.ru
+
 # papy.co.jp
 127.0.0.1 renta.papy.co.jp
 127.0.0.1 www.papy.co.jp
@@ -44357,6 +44369,9 @@ white yt3.ggpht.com
 
 # questseek.com
 127.0.0.1 questseek.com
+
+# quick-downloads.com
+127.0.0.1 quick-downloads.com
 
 # quickcleaner.com
 127.0.0.1 quickcleaner.com
