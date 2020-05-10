@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/05/10
-# block hosts: 31866 entry
+# last updated: 2020/05/11
+# block hosts: 31867 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -57178,6 +57178,9 @@
 
 # wootmedia.net
 127.0.0.1 w00tpublishers.wootmedia.net
+
+# woovooza.net
+127.0.0.1 woovooza.net
 
 # woowy.com
 127.0.0.1 ad.sa9.woowy.com
