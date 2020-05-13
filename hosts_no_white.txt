@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/05/11
-# block hosts: 31872 entry
+# last updated: 2020/05/13
+# block hosts: 31871 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -18925,7 +18925,6 @@
 127.0.0.1 ns2.doubleclick.net
 127.0.0.1 optout.doubleclick.net
 127.0.0.1 paypalssl.doubleclick.net
-127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 rd.intl.doubleclick.net
 127.0.0.1 reports.doubleclick.net
 127.0.0.1 resolver.doubleclick.net

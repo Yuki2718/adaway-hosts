@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/05/11
-# block hosts: 31872 entry
+# last updated: 2020/05/13
+# block hosts: 31871 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -34,6 +34,7 @@ white lh3.googleusercontent.com
 white line.me
 white m.facebook.com
 white pagead2.googlesyndication.com
+white pubads.g.doubleclick.net
 white r.r10s.jp
 white r10.to
 white rd.rakuten.co.jp
@@ -18970,7 +18971,6 @@ white yt3.ggpht.com
 127.0.0.1 ns2.doubleclick.net
 127.0.0.1 optout.doubleclick.net
 127.0.0.1 paypalssl.doubleclick.net
-127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 rd.intl.doubleclick.net
 127.0.0.1 reports.doubleclick.net
 127.0.0.1 resolver.doubleclick.net
