@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/05/13
-# block hosts: 31871 entry
+# last updated: 2020/05/15
+# block hosts: 31870 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -41601,9 +41601,6 @@
 
 # paper.li
 127.0.0.1 ads.paper.li
-
-# paprikapromo.ru
-127.0.0.1 989189348.paprikapromo.ru
 
 # papy.co.jp
 127.0.0.1 renta.papy.co.jp
