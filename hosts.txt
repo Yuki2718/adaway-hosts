@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/05/15
-# block hosts: 31870 entry
+# last updated: 2020/05/19
+# block hosts: 31871 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -51572,6 +51572,9 @@ white yt3.ggpht.com
 
 # teknum.com
 127.0.0.1 s1.teknum.com
+
+# telamoncleaner.com
+127.0.0.1 telamoncleaner.com
 
 # tele.net
 127.0.0.1 ads.tele.net
