@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/05/19
-# block hosts: 31871 entry
+# block hosts: 31877 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -11237,6 +11237,9 @@
 # bestadvert.net
 127.0.0.1 www.bestadvert.net
 
+# bestanimegame.com
+127.0.0.1 bestanimegame.com
+
 # bestbuy.com
 127.0.0.1 metrics.bestbuy.com
 
@@ -14269,6 +14272,9 @@
 
 # cheatscodesguides.com
 127.0.0.1 stats.cheatscodesguides.com
+
+# checkandgo.info
+127.0.0.1 checkandgo.info
 
 # checkm8.co.za
 127.0.0.1 ads.checkm8.co.za
@@ -21744,6 +21750,9 @@
 
 # fantasyplayers.com
 127.0.0.1 oascentral.fantasyplayers.com
+
+# faptitans.com
+127.0.0.1 faptitans.com
 
 # faqandtestimonials.com
 127.0.0.1 faqandtestimonials.com
@@ -31203,6 +31212,9 @@
 127.0.0.1 h.irs01.com
 127.0.0.1 irs01.com
 
+# isadatingpl12.live
+127.0.0.1 isadatingpl12.live
+
 # isanalyze.com
 127.0.0.1 www.isanalyze.com
 
@@ -36743,6 +36755,9 @@
 # mobile-app-market-here1.info
 127.0.0.1 mobile-app-market-here1.info
 
+# mobile-app-market-here2.life
+127.0.0.1 mobile-app-market-here2.life
+
 # mobile-market.cn
 127.0.0.1 airpush.mobile-market.cn
 
@@ -40817,6 +40832,9 @@
 
 # ontheweb.com
 127.0.0.1 ads.ontheweb.com
+
+# onvictinitor.com
+127.0.0.1 onvictinitor.com
 
 # onwisconsin.com
 127.0.0.1 oascentral.onwisconsin.com
