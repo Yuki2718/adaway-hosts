@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/05/19
-# block hosts: 31877 entry
+# last updated: 2020/05/22
+# block hosts: 31879 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -39972,6 +39972,9 @@ white yt3.ggpht.com
 # norton.com
 127.0.0.1 stats.norton.com
 
+# nosi-igraya.ru
+127.0.0.1 331488.nosi-igraya.ru
+
 # nossopark.com.br
 127.0.0.1 url.nossopark.com.br
 
@@ -40897,6 +40900,9 @@ white yt3.ggpht.com
 # ootugomori.com
 127.0.0.1 x7.ootugomori.com
 127.0.0.1 x8.ootugomori.com
+
+# opelg.ru
+127.0.0.1 litten.opelg.ru
 
 # open-office-download.org
 127.0.0.1 open-office-download.org
