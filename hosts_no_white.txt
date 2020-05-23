@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/05/22
-# block hosts: 31879 entry
+# last updated: 2020/05/24
+# block hosts: 31880 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -34344,6 +34344,9 @@
 127.0.0.1 ads.lmmob.com
 127.0.0.1 api.lmmob.com
 127.0.0.1 resource.lmmob.com
+
+# lmodr.biz
+127.0.0.1 lmodr.biz
 
 # lmportant-notlce-sc0.gdn
 127.0.0.1 lmportant-notlce-sc0.gdn
