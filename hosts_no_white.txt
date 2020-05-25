@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/05/24
-# block hosts: 31880 entry
+# last updated: 2020/05/25
+# block hosts: 31879 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -39928,9 +39928,6 @@
 
 # norton.com
 127.0.0.1 stats.norton.com
-
-# nosi-igraya.ru
-127.0.0.1 331488.nosi-igraya.ru
 
 # nossopark.com.br
 127.0.0.1 url.nossopark.com.br
