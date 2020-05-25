@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/05/25
-# block hosts: 31879 entry
+# block hosts: 31878 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -40900,9 +40900,6 @@ white yt3.ggpht.com
 # ootugomori.com
 127.0.0.1 x7.ootugomori.com
 127.0.0.1 x8.ootugomori.com
-
-# opelg.ru
-127.0.0.1 litten.opelg.ru
 
 # open-office-download.org
 127.0.0.1 open-office-download.org
