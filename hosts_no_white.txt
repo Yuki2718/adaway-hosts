@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/05/25
-# block hosts: 31878 entry
+# last updated: 2020/05/26
+# block hosts: 31880 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -25619,7 +25619,6 @@
 127.0.0.1 beacons5.gvt2.com
 
 # gvt3.com
-127.0.0.1 beacons.gcp.gvt3.com
 127.0.0.1 beacons.gvt3.com
 127.0.0.1 beacons2.gvt3.com
 127.0.0.1 beacons3.gvt3.com
@@ -34390,6 +34389,9 @@
 
 # local.ie
 127.0.0.1 ads.local.ie
+
+# localdates18.com
+127.0.0.1 localdates18.com
 
 # localnow.com
 127.0.0.1 ads.localnow.com
@@ -47299,6 +47301,9 @@
 127.0.0.1 www.sex-explorer.com
 127.0.0.1 xxx.sex-explorer.com
 
+# sex-for-you.site
+127.0.0.1 jennab7w77.sex-for-you.site
+
 # sex-list.us
 127.0.0.1 sex-list.us
 
@@ -58699,6 +58704,9 @@
 
 # your-soft.com
 127.0.0.1 www.your-soft.com
+
+# your-the-best-datings1.com
+127.0.0.1 your-the-best-datings1.com
 
 # your.com
 127.0.0.1 www.your.com
