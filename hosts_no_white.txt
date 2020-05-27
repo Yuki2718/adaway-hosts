@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/05/26
-# block hosts: 31880 entry
+# last updated: 2020/05/28
+# block hosts: 31881 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -22199,6 +22199,9 @@
 
 # findyourcasino.com
 127.0.0.1 findyourcasino.com
+
+# findyourpleasure3.life
+127.0.0.1 a.findyourpleasure3.life
 
 # fine-results.com
 127.0.0.1 fine-results.com
