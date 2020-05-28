@@ -5,7 +5,7 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/05/28
+# last updated: 2020/05/29
 # block hosts: 31881 entry
 
 127.0.0.1       localhost
@@ -42745,6 +42745,9 @@ white yt3.ggpht.com
 127.0.0.1 public.pinballpublishernetwork.com
 127.0.0.1 static.pinballpublishernetwork.com
 
+# pineapple.work
+127.0.0.1 pineapple.work
+
 # pingdom.com
 127.0.0.1 pingdom.com
 127.0.0.1 royal.pingdom.com
@@ -47349,9 +47352,6 @@ white yt3.ggpht.com
 127.0.0.1 trial.sex-explorer.com
 127.0.0.1 www.sex-explorer.com
 127.0.0.1 xxx.sex-explorer.com
-
-# sex-for-you.site
-127.0.0.1 jennab7w77.sex-for-you.site
 
 # sex-list.us
 127.0.0.1 sex-list.us
