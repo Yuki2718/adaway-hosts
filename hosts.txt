@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/05/29
-# block hosts: 31881 entry
+# block hosts: 31882 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -33761,6 +33761,9 @@ white yt3.ggpht.com
 
 # live365.com
 127.0.0.1 ads.live365.com
+
+# live4love.site
+127.0.0.1 tonyaa2r15.live4love.site
 
 # livead.jp
 127.0.0.1 livead.jp
