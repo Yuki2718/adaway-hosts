@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/06/01
-# block hosts: 31886 entry
+# last updated: 2020/06/02
+# block hosts: 31887 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -58136,6 +58136,7 @@
 
 # xxxxxxxx.jp
 127.0.0.1 ct2.xxxxxxxx.jp
+127.0.0.1 xxxxxxxx.jp
 
 # xxxymovies.com
 127.0.0.1 404.xxxymovies.com
