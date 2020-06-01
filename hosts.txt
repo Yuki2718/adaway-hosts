@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/05/29
-# block hosts: 31882 entry
+# last updated: 2020/06/01
+# block hosts: 31886 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -3964,6 +3964,9 @@ white yt3.ggpht.com
 # acsseo.com
 127.0.0.1 acsseo.com
 
+# act1-1.info
+127.0.0.1 act1-1.info
+
 # actimele.com
 127.0.0.1 actimele.com
 
@@ -6126,6 +6129,7 @@ white yt3.ggpht.com
 127.0.0.1 antevenio.flux.ads-click.com
 
 # ads-connect.com
+127.0.0.1 ads-connect.com
 127.0.0.1 pc.ads-connect.com
 
 # ads-i2i.jp
@@ -48144,6 +48148,9 @@ white yt3.ggpht.com
 # showstat.com
 127.0.0.1 showstat.com
 
+# shqbsdjatunl.com
+127.0.0.1 shqbsdjatunl.com
+
 # shufoo.net
 127.0.0.1 ad.shufoo.net
 
@@ -54304,6 +54311,9 @@ white yt3.ggpht.com
 
 # uea.edu.br
 127.0.0.1 proadm.uea.edu.br
+
+# ueuodgnrhb.com
+127.0.0.1 ueuodgnrhb.com
 
 # ugo.com
 127.0.0.1 ads.ugo.com
