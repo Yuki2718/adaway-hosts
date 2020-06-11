@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/06/11
-# block hosts: 31891 entry
+# last updated: 2020/06/12
+# block hosts: 31892 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -50209,6 +50209,9 @@
 
 # statgep.hu
 127.0.0.1 statgep.hu
+
+# stati.bid
+127.0.0.1 web.stati.bid
 
 # static-files.com
 127.0.0.1 adn.static-files.com
