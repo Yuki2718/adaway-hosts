@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/06/02
-# block hosts: 31887 entry
+# last updated: 2020/06/11
+# block hosts: 31891 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -4949,6 +4949,7 @@ white yt3.ggpht.com
 127.0.0.1 adform.com
 
 # adform.net
+127.0.0.1 adform.net
 127.0.0.1 track.adform.net
 
 # adfox.cz
@@ -10078,6 +10079,9 @@ white yt3.ggpht.com
 # augustads.com
 127.0.0.1 augustads.com
 
+# aukana.jp
+127.0.0.1 aukana.jp
+
 # aulde.net
 127.0.0.1 aulde.net
 
@@ -13369,6 +13373,9 @@ white yt3.ggpht.com
 127.0.0.1 bypass.jp
 127.0.0.1 image.bypass.jp
 127.0.0.1 img.bypass.jp
+
+# byplay.net
+127.0.0.1 cdn.byplay.net
 
 # bypush.com
 127.0.0.1 www.bypush.com
@@ -23743,6 +23750,9 @@ white yt3.ggpht.com
 
 # gabia.net
 127.0.0.1 errdoc.gabia.net
+
+# gacraft.jp
+127.0.0.1 gacraft.jp
 
 # gactv.com
 127.0.0.1 te.gactv.com
