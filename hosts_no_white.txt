@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/06/12
-# block hosts: 31892 entry
+# last updated: 2020/06/13
+# block hosts: 31893 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -34243,6 +34243,7 @@
 
 # livejasmin.com
 127.0.0.1 creatives.livejasmin.com
+127.0.0.1 crt.livejasmin.com
 127.0.0.1 live-cams-0.livejasmin.com
 127.0.0.1 live-cams-1.livejasmin.com
 127.0.0.1 static.creatives.livejasmin.com
