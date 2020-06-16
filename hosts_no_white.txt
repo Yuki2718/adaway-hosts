@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/06/16
-# block hosts: 31896 entry
+# block hosts: 31895 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -12421,9 +12421,6 @@
 
 # bootcampmedia.com
 127.0.0.1 ads.bootcampmedia.com
-
-# bootstrapcdn.com
-127.0.0.1 netdna.bootstrapcdn.com
 
 # bopstermedia56.com
 127.0.0.1 bopstermedia56.com
