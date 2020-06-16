@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/06/13
-# block hosts: 31893 entry
+# last updated: 2020/06/16
+# block hosts: 31896 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -36955,6 +36955,9 @@
 # mogs.com
 127.0.0.1 affiliate.mogs.com
 
+# moi-solutions.ca
+127.0.0.1 moi-solutions.ca
+
 # moitepari.bg
 127.0.0.1 a.moitepari.bg
 
@@ -47132,6 +47135,9 @@
 # sekkaku.net
 127.0.0.1 scnt.sekkaku.net
 
+# selehuqotkon.com
+127.0.0.1 www.selehuqotkon.com
+
 # selfnetwork.com
 127.0.0.1 selfnetwork.com
 127.0.0.1 www.selfnetwork.com
@@ -52227,6 +52233,9 @@
 
 # tidningsnatet.se
 127.0.0.1 oas.tidningsnatet.se
+
+# tiefgrundig3.live
+127.0.0.1 tiefgrundig3.live
 
 # tiendaolimpia.com
 127.0.0.1 www.tiendaolimpia.com
