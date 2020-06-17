@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/06/16
-# block hosts: 31895 entry
+# last updated: 2020/06/17
+# block hosts: 31900 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -231,6 +231,9 @@
 
 # 163ads.com
 127.0.0.1 163ads.com
+
+# 17bigdata.com
+127.0.0.1 17bigdata.com
 
 # 1800banners.com
 127.0.0.1 www.1800banners.com
@@ -1917,6 +1920,9 @@
 
 # 3rdads.com
 127.0.0.1 delivery.3rdads.com
+
+# 3rooodnews.net
+127.0.0.1 www.3rooodnews.net
 
 # 3sfmedia.com
 127.0.0.1 ads.3sfmedia.com
@@ -55045,6 +55051,9 @@
 127.0.0.1 veely.com
 127.0.0.1 www.veely.com
 
+# veganeyja.org
+127.0.0.1 veganeyja.org
+
 # vegas.com
 127.0.0.1 ads.vegas.com
 
@@ -55119,6 +55128,9 @@
 
 # vermontteddybear.com
 127.0.0.1 sleep.vermontteddybear.com
+
+# vernistrail19.live
+127.0.0.1 vernistrail19.live
 
 # versaneeds.com
 127.0.0.1 adserving.versaneeds.com
@@ -58025,6 +58037,9 @@
 127.0.0.1 ad.xtendmedia.com
 127.0.0.1 adan.xtendmedia.com
 127.0.0.1 xtendmedia.com
+
+# xthra.com
+127.0.0.1 xthra.com
 
 # xtra-get.com
 127.0.0.1 xtra-get.com
