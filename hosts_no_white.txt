@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/06/17
-# block hosts: 31900 entry
+# block hosts: 31901 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -55128,6 +55128,9 @@
 
 # vermontteddybear.com
 127.0.0.1 sleep.vermontteddybear.com
+
+# vernistrail12.live
+127.0.0.1 vernistrail12.live
 
 # vernistrail19.live
 127.0.0.1 vernistrail19.live
