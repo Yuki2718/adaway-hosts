@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/06/17
-# block hosts: 31901 entry
+# last updated: 2020/06/20
+# block hosts: 31912 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -4575,6 +4575,9 @@ white yt3.ggpht.com
 # adc-serv.net
 127.0.0.1 ad.adc-serv.net
 127.0.0.1 adc-serv.net
+
+# adcampo.com
+127.0.0.1 adcampo.com
 
 # adcash.com
 127.0.0.1 adcash.com
@@ -16085,6 +16088,7 @@ white yt3.ggpht.com
 127.0.0.1 ads.contentabc.com
 127.0.0.1 ads2.contentabc.com
 127.0.0.1 cdn1.ads.contentabc.com
+127.0.0.1 contentabc.com
 127.0.0.1 static.contentabc.com
 
 # context-tool.com
@@ -19775,6 +19779,7 @@ white yt3.ggpht.com
 127.0.0.1 ebuzzing.com
 
 # ec-concier.com
+127.0.0.1 cnt.crs.ec-concier.com
 127.0.0.1 js-sdk-crossmedia.ec-concier.com
 
 # ec-images.com
@@ -25578,6 +25583,9 @@ white yt3.ggpht.com
 
 # guantanameratraffic.com
 127.0.0.1 guantanameratraffic.com
+
+# guardapl.com
+127.0.0.1 guardapl.com
 
 # guardian.co.uk
 127.0.0.1 adimage.guardian.co.uk
@@ -37175,6 +37183,9 @@ white yt3.ggpht.com
 127.0.0.1 premium.mookie1.com
 127.0.0.1 t.mookie1.com
 
+# moonicorn.network
+127.0.0.1 moonicorn.network
+
 # moonmarketing.com
 127.0.0.1 www.moonmarketing.com
 
@@ -43216,6 +43227,7 @@ white yt3.ggpht.com
 127.0.0.1 a.popin.cc
 127.0.0.1 api.popin.cc
 127.0.0.1 discoveryplus.popin.cc
+127.0.0.1 r.popin.cc
 
 # popinads.com
 127.0.0.1 popinads.com
@@ -46037,6 +46049,9 @@ white yt3.ggpht.com
 127.0.0.1 ads.rottentomatoes.com
 127.0.0.1 de.rottentomatoes.com
 127.0.0.1 metrics.rottentomatoes.com
+
+# roujaufu.net
+127.0.0.1 roujaufu.net
 
 # roulettebotplus.com
 127.0.0.1 files.roulettebotplus.com
@@ -53402,6 +53417,9 @@ white yt3.ggpht.com
 127.0.0.1 trafficjuicer.com
 127.0.0.1 www.trafficjuicer.com
 
+# trafficjunky.com
+127.0.0.1 trafficjunky.com
+
 # trafficjunky.net
 127.0.0.1 ad.trafficjunky.net
 127.0.0.1 ads.trafficjunky.net
@@ -53967,6 +53985,9 @@ white yt3.ggpht.com
 
 # trywith.us
 127.0.0.1 trywith.us
+
+# tryworks.website
+127.0.0.1 tryworks.website
 
 # tsgonline.com
 127.0.0.1 www.tsgonline.com
@@ -56031,6 +56052,9 @@ white yt3.ggpht.com
 127.0.0.1 ads.wapx.cn
 127.0.0.1 app.wapx.cn
 127.0.0.1 push.wapx.cn
+
+# waqool.com
+127.0.0.1 waqool.com
 
 # warcraftmovies.com
 127.0.0.1 ad.warcraftmovies.com
@@ -58443,6 +58467,7 @@ white yt3.ggpht.com
 127.0.0.1 an.yandex.ru
 127.0.0.1 bs.yandex.ru
 127.0.0.1 mc.yandex.ru
+127.0.0.1 yandex.ru
 
 # yankscash.com
 127.0.0.1 ads.yankscash.com
