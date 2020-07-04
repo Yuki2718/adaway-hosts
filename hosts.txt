@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/06/20
-# block hosts: 31912 entry
+# last updated: 2020/07/04
+# block hosts: 31913 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -44168,6 +44168,9 @@ white yt3.ggpht.com
 # punto.net
 127.0.0.1 ad.sma.punto.net
 127.0.0.1 sma.punto.net
+
+# punyu.com
+127.0.0.1 advert.punyu.com
 
 # puppykibble.com
 127.0.0.1 www.puppykibble.com
