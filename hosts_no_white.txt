@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/07/04
-# block hosts: 31913 entry
+# last updated: 2020/07/08
+# block hosts: 31915 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -26963,6 +26963,9 @@
 # homes.bg
 127.0.0.1 homes.bg
 
+# homes.co.jp
+127.0.0.1 adp.homes.co.jp
+
 # homesidelendinginc.com
 127.0.0.1 homesidelendinginc.com
 127.0.0.1 www.homesidelendinginc.com
@@ -40518,6 +40521,9 @@
 
 # okazii.ro
 127.0.0.1 ads.okazii.ro
+
+# okbp.xyz
+127.0.0.1 okbp.xyz
 
 # okcimg.com
 127.0.0.1 ads.okcimg.com
