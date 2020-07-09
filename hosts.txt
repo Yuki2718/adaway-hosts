@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/07/08
-# block hosts: 31915 entry
+# last updated: 2020/07/09
+# block hosts: 31914 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -34249,9 +34249,6 @@ white yt3.ggpht.com
 
 # livechat.tv
 127.0.0.1 www.livechat.tv
-
-# livechatinc.com
-127.0.0.1 cdn.livechatinc.com
 
 # livecount.fr
 127.0.0.1 www.livecount.fr
