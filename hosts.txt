@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/07/09
-# block hosts: 31914 entry
+# last updated: 2020/07/19
+# block hosts: 31920 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -17125,6 +17125,9 @@ white yt3.ggpht.com
 # cybersales.cz
 127.0.0.1 ads.cybersales.cz
 
+# cybershop-affiliate.jp
+127.0.0.1 widget.cybershop-affiliate.jp
+
 # cybertechdev.com
 127.0.0.1 banner.cybertechdev.com
 
@@ -18362,6 +18365,7 @@ white yt3.ggpht.com
 # dmm.co.jp
 127.0.0.1 al.dmm.co.jp
 127.0.0.1 aqua.dmm.co.jp
+127.0.0.1 widget-view.dmm.co.jp
 
 # dmm.com
 127.0.0.1 affili.dmm.com
@@ -40332,6 +40336,9 @@ white yt3.ggpht.com
 # o2u.jp
 127.0.0.1 a.o2u.jp
 
+# o333o.com
+127.0.0.1 o333o.com
+
 # oaft.net
 127.0.0.1 oaft.net
 
@@ -45056,6 +45063,9 @@ white yt3.ggpht.com
 # realpharmacy.net
 127.0.0.1 realpharmacy.net
 
+# realpush.media
+127.0.0.1 realpush.media
+
 # realtechnetwork.com
 127.0.0.1 realtechnetwork.com
 
@@ -45427,6 +45437,9 @@ white yt3.ggpht.com
 127.0.0.1 ad.reklamstore.com
 127.0.0.1 adserver.reklamstore.com
 127.0.0.1 adstest.reklamstore.com
+
+# rekovers.ru
+127.0.0.1 rekovers.ru
 
 # relax.ru
 127.0.0.1 medialand.relax.ru
@@ -55457,6 +55470,9 @@ white yt3.ggpht.com
 # vipermailer.com
 127.0.0.1 vipermailer.com
 
+# vipicmou.net
+127.0.0.1 vipicmou.net
+
 # vipmeds.biz
 127.0.0.1 vipmeds.biz
 
@@ -58473,7 +58489,6 @@ white yt3.ggpht.com
 127.0.0.1 an.yandex.ru
 127.0.0.1 bs.yandex.ru
 127.0.0.1 mc.yandex.ru
-127.0.0.1 yandex.ru
 
 # yankscash.com
 127.0.0.1 ads.yankscash.com
@@ -58654,6 +58669,9 @@ white yt3.ggpht.com
 # yieldoptimizer.com
 127.0.0.1 ag.yieldoptimizer.com
 127.0.0.1 tag.yieldoptimizer.com
+
+# yieldpass.com
+127.0.0.1 yieldpass.com
 
 # yieldsoftware.com
 127.0.0.1 track.yieldsoftware.com
