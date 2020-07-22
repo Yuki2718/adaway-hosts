@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/07/19
-# block hosts: 31920 entry
+# last updated: 2020/07/23
+# block hosts: 31921 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -46632,6 +46632,9 @@
 
 # scotiabank.com
 127.0.0.1 omniture.scotiabank.com
+
+# scottdwebgraphics.com
+127.0.0.1 scottdwebgraphics.com
 
 # scourg.info
 127.0.0.1 scourg.info
