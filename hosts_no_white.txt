@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/07/23
-# block hosts: 31921 entry
+# last updated: 2020/07/24
+# block hosts: 31922 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -36468,6 +36468,9 @@
 
 # minemytraffic.com
 127.0.0.1 minemytraffic.com
+
+# minero.pw
+127.0.0.1 minero.pw
 
 # mingpao.com
 127.0.0.1 adc1.mingpao.com
