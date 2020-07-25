@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/07/25
-# block hosts: 31931 entry
+# block hosts: 31932 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -31813,6 +31813,7 @@
 # jads.co
 127.0.0.1 ck.jads.co
 127.0.0.1 jads.co
+127.0.0.1 poweredby.jads.co
 
 # jamba.de
 127.0.0.1 ad.jamba.de
