@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/07/24
-# block hosts: 31922 entry
+# last updated: 2020/07/25
+# block hosts: 31931 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -12267,6 +12267,9 @@
 127.0.0.1 bwp.bnet.com
 127.0.0.1 mads.bnet.com
 127.0.0.1 ocp.bnet.com
+
+# bngpt.com
+127.0.0.1 bngpt.com
 
 # bninews.com
 127.0.0.1 ads.bninews.com
@@ -24547,6 +24550,10 @@
 # girls-chat.tv
 127.0.0.1 girls-chat.tv
 
+# girls.xyz
+127.0.0.1 girls.xyz
+127.0.0.1 jp.girls.xyz
+
 # girlsprancingnaked.com
 127.0.0.1 girlsprancingnaked.com
 
@@ -31804,6 +31811,7 @@
 127.0.0.1 www.jadina-counter.de
 
 # jads.co
+127.0.0.1 ck.jads.co
 127.0.0.1 jads.co
 
 # jamba.de
@@ -34517,6 +34525,9 @@
 
 # lonelycheatingwives.com
 127.0.0.1 www.lonelycheatingwives.com
+
+# lonelypartners.com
+127.0.0.1 lonelypartners.com
 
 # lonelyplanet.com
 127.0.0.1 om.lonelyplanet.com
@@ -40470,6 +40481,9 @@
 # ofuda.cc
 127.0.0.1 e.ofuda.cc
 
+# ofxs.top
+127.0.0.1 ofxs.top
+
 # og-affiliate.com
 127.0.0.1 media.og-affiliate.com
 
@@ -40588,6 +40602,9 @@
 
 # omdadget.com
 127.0.0.1 ads1.omdadget.com
+
+# omegatrak.com
+127.0.0.1 trk.omegatrak.com
 
 # omg.com.au
 127.0.0.1 stats.omg.com.au
@@ -40879,6 +40896,9 @@
 # onresponse.com
 127.0.0.1 onresponse.com
 127.0.0.1 www.onresponse.com
+
+# onstunkyr.com
+127.0.0.1 onstunkyr.com
 
 # ontargetjobs.com
 127.0.0.1 at.ontargetjobs.com
@@ -43895,6 +43915,9 @@
 
 # promoserver.net
 127.0.0.1 promoserver.net
+
+# promosocialjp.com
+127.0.0.1 www.promosocialjp.com
 
 # promosrv.com
 127.0.0.1 cdn.g.promosrv.com
