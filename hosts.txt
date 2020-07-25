@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/07/25
-# block hosts: 31937 entry
+# block hosts: 31954 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -3992,6 +3992,9 @@ white yt3.ggpht.com
 127.0.0.1 stat.active24stats.nl
 
 # active8ads.com
+127.0.0.1 dsp.active8ads.com
+127.0.0.1 mail.active8ads.com
+127.0.0.1 www.active8ads.com
 127.0.0.1 xml.active8ads.com
 
 # activeadv.net
@@ -21490,6 +21493,8 @@ white yt3.ggpht.com
 127.0.0.1 syndication.exoclick.com
 
 # exosrv.com
+127.0.0.1 ads.exosrv.com
+127.0.0.1 origin-ads.exosrv.com
 127.0.0.1 syndication.exosrv.com
 
 # expandsearch.com
@@ -24597,8 +24602,20 @@ white yt3.ggpht.com
 127.0.0.1 girls-chat.tv
 
 # girls.xyz
+127.0.0.1 cn.girls.xyz
+127.0.0.1 de.girls.xyz
+127.0.0.1 es.girls.xyz
+127.0.0.1 fr.girls.xyz
 127.0.0.1 girls.xyz
+127.0.0.1 il.girls.xyz
+127.0.0.1 in.girls.xyz
+127.0.0.1 it.girls.xyz
 127.0.0.1 jp.girls.xyz
+127.0.0.1 kr.girls.xyz
+127.0.0.1 nl.girls.xyz
+127.0.0.1 pt.girls.xyz
+127.0.0.1 ua.girls.xyz
+127.0.0.1 www.girls.xyz
 
 # girlsprancingnaked.com
 127.0.0.1 girlsprancingnaked.com
