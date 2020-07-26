@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/07/26
-# block hosts: 31970 entry
+# block hosts: 31971 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -21848,6 +21848,9 @@ white yt3.ggpht.com
 
 # faqandtestimonials.com
 127.0.0.1 faqandtestimonials.com
+
+# faracoon.com
+127.0.0.1 faracoon.com
 
 # fark.com
 127.0.0.1 ads.fark.com
