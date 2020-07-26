@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/07/25
-# block hosts: 31954 entry
+# block hosts: 31956 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -43923,6 +43923,9 @@
 # projo.com
 127.0.0.1 metrics.projo.com
 
+# promo-bc.com
+127.0.0.1 promo-bc.com
+
 # promo.com.au
 127.0.0.1 www.promo.com.au
 
@@ -50554,6 +50557,9 @@
 # stumbleupon.com
 127.0.0.1 platform.stumbleupon.com
 127.0.0.1 www.stumbleupon.com
+
+# stunninglover.com
+127.0.0.1 stunninglover.com
 
 # style.com
 127.0.0.1 stats.style.com

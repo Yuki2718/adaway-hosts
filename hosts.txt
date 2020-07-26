@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/07/25
-# block hosts: 31954 entry
+# block hosts: 31956 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -43969,6 +43969,9 @@ white yt3.ggpht.com
 # projo.com
 127.0.0.1 metrics.projo.com
 
+# promo-bc.com
+127.0.0.1 promo-bc.com
+
 # promo.com.au
 127.0.0.1 www.promo.com.au
 
@@ -50600,6 +50603,9 @@ white yt3.ggpht.com
 # stumbleupon.com
 127.0.0.1 platform.stumbleupon.com
 127.0.0.1 www.stumbleupon.com
+
+# stunninglover.com
+127.0.0.1 stunninglover.com
 
 # style.com
 127.0.0.1 stats.style.com
