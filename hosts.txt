@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/07/26
-# block hosts: 31971 entry
+# block hosts: 32016 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -4277,6 +4277,9 @@ white yt3.ggpht.com
 # ad-vanx.com
 127.0.0.1 ad-vanx.com
 
+# ad-web-ad.com
+127.0.0.1 ad-web-ad.com
+
 # ad-x.co.uk
 127.0.0.1 ad-x.co.uk
 
@@ -6148,6 +6151,9 @@ white yt3.ggpht.com
 127.0.0.1 ads-connect.com
 127.0.0.1 pc.ads-connect.com
 
+# ads-i.org
+127.0.0.1 www.ads-i.org
+
 # ads-i2i.jp
 127.0.0.1 ads-i2i.jp
 
@@ -6564,6 +6570,10 @@ white yt3.ggpht.com
 127.0.0.1 req.adsmogo.org
 127.0.0.1 serv.adsmogo.org
 127.0.0.1 www.adsmogo.org
+
+# adsmoloco.com
+127.0.0.1 cdn-f.adsmoloco.com
+127.0.0.1 tr-us.adsmoloco.com
 
 # adsmoon.com
 127.0.0.1 www.adsmoon.com
@@ -8497,6 +8507,9 @@ white yt3.ggpht.com
 127.0.0.1 allantivirus.net
 127.0.0.1 www.allantivirus.net
 
+# allbestsecurecn.com
+127.0.0.1 allbestsecurecn.com
+
 # allblet.net
 127.0.0.1 guide.allblet.net
 
@@ -9513,8 +9526,10 @@ white yt3.ggpht.com
 # appsflyer.com
 127.0.0.1 api.appsflyer.com
 127.0.0.1 attr.appsflyer.com
+127.0.0.1 conversions.appsflyer.com
 127.0.0.1 events.appsflyer.com
 127.0.0.1 impression.appsflyer.com
+127.0.0.1 launches.appsflyer.com
 127.0.0.1 register.appsflyer.com
 127.0.0.1 t.appsflyer.com
 127.0.0.1 track.appsflyer.com
@@ -13413,6 +13428,12 @@ white yt3.ggpht.com
 
 # bytecode.biz
 127.0.0.1 www.bytecode.biz
+
+# bytedance.com
+127.0.0.1 dm.bytedance.com
+
+# byteoversea.com
+127.0.0.1 v16-ad.byteoversea.com
 
 # c-on-text.com
 127.0.0.1 c-on-text.com
@@ -17704,6 +17725,10 @@ white yt3.ggpht.com
 # delta.com
 127.0.0.1 metrics.delta.com
 
+# deltadna.net
+127.0.0.1 collect11442ldybg.deltadna.net
+127.0.0.1 collect16785svthg.deltadna.net
+
 # deltahost.de
 127.0.0.1 www.deltahost.de
 
@@ -18040,6 +18065,10 @@ white yt3.ggpht.com
 127.0.0.1 update.digitalnames.net
 127.0.0.1 upgrade.digitalnames.net
 127.0.0.1 www.digitalnames.net
+
+# digitaloceanspaces.com
+127.0.0.1 saygames.sfo2.cdn.digitaloceanspaces.com
+127.0.0.1 saypromo.sfo2.cdn.digitaloceanspaces.com
 
 # digitalpartners.com
 127.0.0.1 adserver.digitalpartners.com
@@ -19334,6 +19363,10 @@ white yt3.ggpht.com
 
 # dsparking.com
 127.0.0.1 dsparking.com
+
+# dspunion.com
+127.0.0.1 assets.dspunion.com
+127.0.0.1 newplayable.dspunion.com
 
 # dsultra.com
 127.0.0.1 cdn.dsultra.com
@@ -21999,11 +22032,14 @@ white yt3.ggpht.com
 127.0.0.1 dreamlove.h.fc2.com
 127.0.0.1 error.fc2.com
 127.0.0.1 game.fc2.com
+127.0.0.1 gdpr.fc2.com
 127.0.0.1 liberazione.web.fc2.com
 127.0.0.1 media.fc2.com
 127.0.0.1 media3.fc2.com
 127.0.0.1 news.fc2.com
 127.0.0.1 panel.counter1.fc2.com
+127.0.0.1 piwik.fc2.com
+127.0.0.1 piwik2.fc2.com
 127.0.0.1 ranking.fc2.com
 127.0.0.1 ranking2.fc2.com
 127.0.0.1 search.fc2.com
@@ -25772,6 +25808,9 @@ white yt3.ggpht.com
 # gyutto.jp
 127.0.0.1 gyutto.jp
 
+# gzfingertip.cn
+127.0.0.1 adsoss.gzfingertip.cn
+
 # h0tbesfgirls.net
 127.0.0.1 www.h0tbesfgirls.net
 
@@ -28568,6 +28607,9 @@ white yt3.ggpht.com
 
 # hyperwebads.com
 127.0.0.1 www.hyperwebads.com
+
+# hypstarcdn.com
+127.0.0.1 p16.hypstarcdn.com
 
 # hz7.de
 127.0.0.1 hz7.de
@@ -32988,6 +33030,7 @@ white yt3.ggpht.com
 # ladsp.com
 127.0.0.1 cd.ladsp.com
 127.0.0.1 ladsp.com
+127.0.0.1 pb.ladsp.com
 127.0.0.1 tag.ladsp.com
 
 # ladycash.ru
@@ -37121,6 +37164,9 @@ white yt3.ggpht.com
 127.0.0.1 mokono.com
 127.0.0.1 www.mokono.com
 
+# molocoads.com
+127.0.0.1 molocoads.com
+
 # momark.cc
 127.0.0.1 api.momark.cc
 
@@ -37695,6 +37741,9 @@ white yt3.ggpht.com
 127.0.0.1 www.mtreexxx.net
 127.0.0.1 www7.mtreexxx.net
 127.0.0.1 xxx.mtreexxx.net
+
+# mtrtb.com
+127.0.0.1 tracker.mtrtb.com
 
 # mttag.com
 127.0.0.1 mttag.com
@@ -38935,6 +38984,9 @@ white yt3.ggpht.com
 
 # ncm.ne.jp
 127.0.0.1 www.ncm.ne.jp
+
+# ncourtainco.club
+127.0.0.1 ncourtainco.club
 
 # ncsreporting.com
 127.0.0.1 img1.ncsreporting.com
@@ -41388,6 +41440,9 @@ white yt3.ggpht.com
 
 # outfit7.com
 127.0.0.1 apps.outfit7.com
+127.0.0.1 cdn-gcs.outfit7.com
+127.0.0.1 cdn.outfit7.com
+127.0.0.1 events-api.outfit7.com
 
 # outpersonals.com
 127.0.0.1 ads.outpersonals.com
@@ -46633,6 +46688,12 @@ white yt3.ggpht.com
 # say-on.net
 127.0.0.1 dev.say-on.net
 
+# saygames.io
+127.0.0.1 track.saygames.io
+
+# saypromo.net
+127.0.0.1 api.saypromo.net
+
 # sayyac.com
 127.0.0.1 s6.sayyac.com
 127.0.0.1 srv.sayyac.com
@@ -49089,6 +49150,15 @@ white yt3.ggpht.com
 # snsbank.nl
 127.0.0.1 wa.snsbank.nl
 
+# snssdk.com
+127.0.0.1 bds.snssdk.com
+
+# snva.jp
+127.0.0.1 snva.jp
+
+# soafov.ru
+127.0.0.1 soafov.ru
+
 # sobakozgav.net
 127.0.0.1 sobakozgav.net
 
@@ -50174,6 +50244,9 @@ white yt3.ggpht.com
 # st-hatena.com
 127.0.0.1 red.st-hatena.com
 
+# stackadapt.com
+127.0.0.1 sync.srv.stackadapt.com
+
 # stackmag.com
 127.0.0.1 oascentral.stackmag.com
 
@@ -50799,6 +50872,9 @@ white yt3.ggpht.com
 
 # superasdc.pw
 127.0.0.1 superasdc.pw
+
+# superawesome.tv
+127.0.0.1 ads.superawesome.tv
 
 # superclix.de
 127.0.0.1 clix.superclix.de
@@ -51833,6 +51909,9 @@ white yt3.ggpht.com
 # tenderteen.com
 127.0.0.1 ad.tenderteen.com
 
+# tenjin.com
+127.0.0.1 track.tenjin.com
+
 # tenjin.io
 127.0.0.1 track.tenjin.io
 
@@ -52631,6 +52710,9 @@ white yt3.ggpht.com
 
 # together.net
 127.0.0.1 webcounter.together.net
+
+# togothermany.cn
+127.0.0.1 adscfg.togothermany.cn
 
 # togueno.com
 127.0.0.1 togueno.com
@@ -54126,6 +54208,9 @@ white yt3.ggpht.com
 # tt-forums.net
 127.0.0.1 adsystem.tt-forums.net
 
+# ttpsdk.info
+127.0.0.1 promo-images.ttpsdk.info
+
 # ttzmedia.com
 127.0.0.1 ttzmedia.com
 127.0.0.1 www.ttzmedia.com
@@ -54696,7 +54781,10 @@ white yt3.ggpht.com
 127.0.0.1 cdn-akamai.unityads.unity3d.com
 127.0.0.1 cdn-creatives-akamai-prd.unityads.unity3d.com
 127.0.0.1 cdn-store-icons-akamai-prd.unityads.unity3d.com
+127.0.0.1 cdp.cloud.unity3d.com
+127.0.0.1 config.uca.cloud.unity3d.com
 127.0.0.1 config.unityads.unity3d.com
+127.0.0.1 ecommerce.iap.unity3d.com
 127.0.0.1 publisher-config.unityads.unity3d.com
 127.0.0.1 publisher-event.unityads.unity3d.com
 127.0.0.1 tracking.prd.mz.internal.unity3d.com
@@ -55305,6 +55393,9 @@ white yt3.ggpht.com
 127.0.0.1 offers.verajohn.com
 127.0.0.1 promo.verajohn.com
 127.0.0.1 verajohn.com
+
+# verajohn.digital
+127.0.0.1 verajohn.digital
 
 # vericlick.com
 127.0.0.1 vericlick.com
@@ -55942,6 +56033,10 @@ white yt3.ggpht.com
 # voodoo-ads.io
 127.0.0.1 addelivery-engine-api.voodoo-ads.io
 127.0.0.1 front-logs.voodoo-ads.io
+127.0.0.1 splash-screen.voodoo-ads.io
+
+# voodoo-tech.io
+127.0.0.1 vs-api.voodoo-tech.io
 
 # voodoo.io
 127.0.0.1 crosspromo.voodoo.io
@@ -58345,6 +58440,9 @@ white yt3.ggpht.com
 # xxxset.net
 127.0.0.1 xxxset.net
 
+# xxxssk.com
+127.0.0.1 count.xxxssk.com
+
 # xxxstatistics.com
 127.0.0.1 hitx.xxxstatistics.com
 
@@ -58768,6 +58866,9 @@ white yt3.ggpht.com
 127.0.0.1 l.yieldmanager.net
 127.0.0.1 open.ad.yieldmanager.net
 127.0.0.1 yieldmanager.net
+
+# yieldmo.com
+127.0.0.1 ads.yieldmo.com
 
 # yieldoptimizer.com
 127.0.0.1 ag.yieldoptimizer.com
