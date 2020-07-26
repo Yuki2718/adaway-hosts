@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/07/25
-# block hosts: 31956 entry
+# last updated: 2020/07/26
+# block hosts: 31971 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -3890,6 +3890,9 @@
 # acezsoftware.com
 127.0.0.1 www.acezsoftware.com
 
+# achilles-ena.com
+127.0.0.1 achilles-ena.com
+
 # achmedia.com
 127.0.0.1 achmedia.com
 127.0.0.1 www.achmedia.com
@@ -7085,6 +7088,10 @@
 
 # adultfriendsearch.com
 127.0.0.1 www.adultfriendsearch.com
+
+# adultgames.fun
+127.0.0.1 adultgames.fun
+127.0.0.1 wcrgl.adultgames.fun
 
 # adultgameserver.com
 127.0.0.1 adultgameserver.com
@@ -11254,6 +11261,9 @@
 127.0.0.1 best-top.ro
 127.0.0.1 www.best-top.ro
 
+# best2019-games-web4.com
+127.0.0.1 best2019-games-web4.com
+
 # bestadvert.net
 127.0.0.1 www.bestadvert.net
 
@@ -11351,6 +11361,9 @@
 127.0.0.1 img.bet-at-home.com
 127.0.0.1 oddbanner.bet-at-home.com
 
+# bet365.com
+127.0.0.1 www.bet365.com
+
 # bet365affiliates.com
 127.0.0.1 imstore.bet365affiliates.com
 
@@ -11428,6 +11441,9 @@
 # beyourownaffiliate.com
 127.0.0.1 beyourownaffiliate.com
 127.0.0.1 www.beyourownaffiliate.com
+
+# beyourxfriend.com
+127.0.0.1 beyourxfriend.com
 
 # bezruler.net
 127.0.0.1 bezruler.net
@@ -29260,6 +29276,9 @@
 127.0.0.1 adforce.imgis.com
 127.0.0.1 imgis.com
 
+# imglnkd.com
+127.0.0.1 www.imglnkd.com
+
 # imgserver.net
 127.0.0.1 images.imgserver.net
 
@@ -31415,6 +31434,9 @@
 # itnnetmedia.com
 127.0.0.1 itnnetmedia.com
 
+# itnuzleafan.com
+127.0.0.1 itnuzleafan.com
+
 # itoot.net
 127.0.0.1 ads.itoot.net
 
@@ -32597,6 +32619,9 @@
 
 # kinxxx.com
 127.0.0.1 ads.kinxxx.com
+
+# kiolim.com
+127.0.0.1 kiolim.com
 
 # kiosked.com
 127.0.0.1 kiosked.com
@@ -34731,6 +34756,12 @@
 # lucidmedia.com
 127.0.0.1 ads.lucidmedia.com
 127.0.0.1 lucidmedia.com
+
+# luckydays.com
+127.0.0.1 luckydays.com
+
+# luckydaysaffiliates.com
+127.0.0.1 media.luckydaysaffiliates.com
 
 # luckyhomepage.com
 127.0.0.1 luckyhomepage.com
@@ -38653,6 +38684,9 @@
 # nameintel.com
 127.0.0.1 img.nameintel.com
 
+# namejp06.xyz
+127.0.0.1 www.namejp06.xyz
+
 # namekuji.jp
 127.0.0.1 x5.namekuji.jp
 
@@ -42276,6 +42310,9 @@
 
 # pch.com
 127.0.0.1 ox-d.mods.pch.com
+
+# pchelpsoft.net
+127.0.0.1 www.pchelpsoft.net
 
 # pchome.net
 127.0.0.1 stat.pchome.net
@@ -50064,6 +50101,9 @@
 127.0.0.1 s1.srtk.net
 127.0.0.1 s2.srtk.net
 
+# srvcraft.com
+127.0.0.1 srvcraft.com
+
 # srvfrgm.com
 127.0.0.1 srvfrgm.com
 
@@ -56923,6 +56963,9 @@
 
 # whatsonstage.com
 127.0.0.1 ads.whatsonstage.com
+
+# whatsyourflower.com
+127.0.0.1 whatsyourflower.com
 
 # whatusee.com
 127.0.0.1 www.whatusee.com
