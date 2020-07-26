@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/07/26
-# block hosts: 31971 entry
+# block hosts: 31970 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -21465,7 +21465,6 @@
 # exosrv.com
 127.0.0.1 ads.exosrv.com
 127.0.0.1 origin-ads.exosrv.com
-127.0.0.1 syndication.exosrv.com
 
 # expandsearch.com
 127.0.0.1 www.expandsearch.com
