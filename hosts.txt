@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/07/26
-# block hosts: 32016 entry
+# last updated: 2020/07/27
+# block hosts: 32017 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -18422,6 +18422,7 @@ white yt3.ggpht.com
 127.0.0.1 affili.dmm.com
 127.0.0.1 al.dmm.com
 127.0.0.1 blogparts.dmm.com
+127.0.0.1 widget-view.dmm.com
 
 # dmpi.net
 127.0.0.1 ad.dmpi.net
