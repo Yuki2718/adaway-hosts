@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/07/27
-# block hosts: 32017 entry
+# last updated: 2020/08/05
+# block hosts: 32016 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -33849,9 +33849,6 @@
 
 # live365.com
 127.0.0.1 ads.live365.com
-
-# live4love.site
-127.0.0.1 tonyaa2r15.live4love.site
 
 # livead.jp
 127.0.0.1 livead.jp
