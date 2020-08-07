@@ -5,7 +5,7 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/08/05
+# last updated: 2020/08/06
 # block hosts: 32016 entry
 
 127.0.0.1       localhost
@@ -17809,6 +17809,7 @@ white yt3.ggpht.com
 
 # deqwas.net
 127.0.0.1 books.rakuten.deqwas.net
+127.0.0.1 deqwas.net
 127.0.0.1 dsp07.deqwas.net
 127.0.0.1 ichiba.rakuten.deqwas.net
 127.0.0.1 jnk2.deqwas.net
@@ -22655,7 +22656,6 @@ white yt3.ggpht.com
 127.0.0.1 antfarm-ad.flycast.com
 127.0.0.1 flycast.com
 127.0.0.1 responsemedia-ad.flycast.com
-127.0.0.1 suissa-ad.flycast.com
 127.0.0.1 www.flycast.com
 
 # flyinads.com
