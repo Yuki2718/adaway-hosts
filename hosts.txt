@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/08/06
-# block hosts: 32016 entry
+# last updated: 2020/08/21
+# block hosts: 32023 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -15421,6 +15421,7 @@ white yt3.ggpht.com
 127.0.0.1 d33mfo0eh6vs57.cloudfront.net
 127.0.0.1 d3anogn3pbtk4v.cloudfront.net
 127.0.0.1 d3hmb5h5qngs7g.cloudfront.net
+127.0.0.1 d3ithbwcmjcxl7.cloudfront.net
 127.0.0.1 d3mgo879eugsjh.cloudfront.net
 127.0.0.1 d3oltyb66oj2v8.cloudfront.net
 127.0.0.1 d5nxst8fruw4z.cloudfront.net
@@ -15428,6 +15429,7 @@ white yt3.ggpht.com
 127.0.0.1 dc5k8fg5ioc8s.cloudfront.net
 127.0.0.1 dlp4luwpus5kr.cloudfront.net
 127.0.0.1 dnn506yrbagrg.cloudfront.net
+127.0.0.1 dq3yxnlzwhcys.cloudfront.net
 127.0.0.1 dtym7iokkjlif.cloudfront.net
 
 # cloudmobi.net
@@ -16082,6 +16084,9 @@ white yt3.ggpht.com
 
 # consearch.jp
 127.0.0.1 consearch.jp
+
+# consensu.org
+127.0.0.1 c.sharethis.mgr.consensu.org
 
 # consolemul.com
 127.0.0.1 ads.consolemul.com
@@ -35964,6 +35969,9 @@ white yt3.ggpht.com
 127.0.0.1 mediamind.com
 127.0.0.1 www.mediamind.com
 
+# mediamodern.biz
+127.0.0.1 mediamodern.biz
+
 # median.hu
 127.0.0.1 audit.median.hu
 127.0.0.1 audit1.median.hu
@@ -47200,6 +47208,9 @@ white yt3.ggpht.com
 127.0.0.1 legal.secure-softwaremanager.com
 127.0.0.1 prompt.secure-softwaremanager.com
 
+# secure-upgrade.com
+127.0.0.1 secure-upgrade.com
+
 # securecasting.com
 127.0.0.1 go.securecasting.com
 
@@ -48084,6 +48095,7 @@ white yt3.ggpht.com
 127.0.0.1 r.sharethis.com
 127.0.0.1 s.sharethis.com
 127.0.0.1 seg.sharethis.com
+127.0.0.1 t.sharethis.com
 127.0.0.1 w.sharethis.com
 
 # sharethrough.com
@@ -49150,9 +49162,6 @@ white yt3.ggpht.com
 
 # snssdk.com
 127.0.0.1 bds.snssdk.com
-
-# snva.jp
-127.0.0.1 snva.jp
 
 # soafov.ru
 127.0.0.1 soafov.ru
@@ -51206,6 +51215,9 @@ white yt3.ggpht.com
 
 # svatbata.org
 127.0.0.1 ads.svatbata.org
+
+# svenskafans.com
+127.0.0.1 podcast.svenskafans.com
 
 # svitonline.com
 127.0.0.1 banner.svitonline.com
@@ -55013,6 +55025,9 @@ white yt3.ggpht.com
 
 # uservoice.com
 127.0.0.1 widget.uservoice.com
+
+# useurmind.com
+127.0.0.1 useurmind.com
 
 # ushimairi.com
 127.0.0.1 ct2.ushimairi.com
