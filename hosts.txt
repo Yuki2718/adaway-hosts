@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/08/24
-# block hosts: 31190 entry
+# last updated: 2020/08/31
+# block hosts: 31193 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -7659,6 +7659,9 @@ white yt3.ggpht.com
 127.0.0.1 realtouchbannerwidget.aebn.net
 127.0.0.1 template.aebn.net
 
+# aeiinkraro5.live
+127.0.0.1 aeiinkraro5.live
+
 # aetn.com
 127.0.0.1 metrics.aetn.com
 
@@ -11970,6 +11973,9 @@ white yt3.ggpht.com
 
 # bnmedia.com
 127.0.0.1 ads.bnmedia.com
+
+# bnmjjwinf292.com
+127.0.0.1 bnmjjwinf292.com
 
 # bnmla.com
 127.0.0.1 ad.bnmla.com
@@ -50533,6 +50539,9 @@ white yt3.ggpht.com
 
 # theb2bt.com
 127.0.0.1 metrics.theb2bt.com
+
+# thebestgame2020.com
+127.0.0.1 thebestgame2020.com
 
 # thebighits.com
 127.0.0.1 thebighits.com
