@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/08/31
-# block hosts: 31193 entry
+# last updated: 2020/09/02
+# block hosts: 31194 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -21331,6 +21331,7 @@
 127.0.0.1 game.fc2.com
 127.0.0.1 media.fc2.com
 127.0.0.1 media3.fc2.com
+127.0.0.1 media5.fc2.com
 127.0.0.1 news.fc2.com
 127.0.0.1 panel.counter1.fc2.com
 127.0.0.1 ranking.fc2.com
