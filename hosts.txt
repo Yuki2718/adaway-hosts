@@ -5,7 +5,7 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/09/02
+# last updated: 2020/10/12
 # block hosts: 31194 entry
 
 127.0.0.1       localhost
@@ -12115,6 +12115,9 @@ white yt3.ggpht.com
 
 # boost-my-pr.de
 127.0.0.1 boost-my-pr.de
+
+# boost-next.co.jp
+127.0.0.1 boost-next.co.jp
 
 # boostclic.com
 127.0.0.1 track.boostclic.com
@@ -43484,7 +43487,6 @@ white yt3.ggpht.com
 127.0.0.1 mall.ashiato.rakuten.co.jp
 127.0.0.1 pitatto.rakuten.co.jp
 127.0.0.1 pzd.rakuten.co.jp
-127.0.0.1 ranking.rakuten.co.jp
 127.0.0.1 rt.rakuten.co.jp
 127.0.0.1 static.affiliate.rakuten.co.jp
 127.0.0.1 t.recommend.rakuten.co.jp
