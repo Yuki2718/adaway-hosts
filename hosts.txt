@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/10/12
-# block hosts: 31194 entry
+# last updated: 2020/10/13
+# block hosts: 31195 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -47837,6 +47837,9 @@ white yt3.ggpht.com
 
 # solarwinds.com
 127.0.0.1 metrics.solarwinds.com
+
+# solty.biz
+127.0.0.1 solty.biz
 
 # somd.com
 127.0.0.1 ads.somd.com
