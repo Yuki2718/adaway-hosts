@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/10/13
-# block hosts: 31195 entry
+# last updated: 2020/10/19
+# block hosts: 31197 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -3423,6 +3423,9 @@
 
 # a-affiliate.jp
 127.0.0.1 a-affiliate.jp
+
+# a-affiliate.net
+127.0.0.1 a-affiliate.net
 
 # a-c-engine.com
 127.0.0.1 a-c-engine.com
@@ -16665,6 +16668,9 @@
 
 # d1g.com
 127.0.0.1 oas.d1g.com
+
+# d2-apps.net
+127.0.0.1 d2-apps.net
 
 # d2c.ne.jp
 127.0.0.1 ad.ssp.d2c.ne.jp
