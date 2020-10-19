@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/10/19
-# block hosts: 31197 entry
+# block hosts: 31198 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -3433,6 +3433,7 @@
 
 # a-cast.jp
 127.0.0.1 a-cast.jp
+127.0.0.1 tracer.a-cast.jp
 127.0.0.1 tracer02.a-cast.jp
 
 # a-counter.kiev.ua
