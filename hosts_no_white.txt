@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/10/19
-# block hosts: 31198 entry
+# block hosts: 31197 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -43439,7 +43439,6 @@
 127.0.0.1 grp07.ias.rakuten.co.jp
 127.0.0.1 grp08.ias.rakuten.co.jp
 127.0.0.1 grp09.ias.rakuten.co.jp
-127.0.0.1 hb.afl.rakuten.co.jp
 127.0.0.1 hbb.afl.rakuten.co.jp
 127.0.0.1 ias.rakuten.co.jp
 127.0.0.1 item.recommend.rakuten.co.jp

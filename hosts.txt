@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2020/10/19
-# block hosts: 31198 entry
+# block hosts: 31197 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -28,6 +28,7 @@ white facebook.com
 white fbcdn.net
 white fbsbx.com
 white grp10.ias.rakuten.co.jp
+white hb.afl.rakuten.co.jp
 white imgstat.ameba.jp
 white lh3.ggpht.com
 white lh3.googleusercontent.com
@@ -43485,7 +43486,6 @@ white yt3.ggpht.com
 127.0.0.1 grp07.ias.rakuten.co.jp
 127.0.0.1 grp08.ias.rakuten.co.jp
 127.0.0.1 grp09.ias.rakuten.co.jp
-127.0.0.1 hb.afl.rakuten.co.jp
 127.0.0.1 hbb.afl.rakuten.co.jp
 127.0.0.1 ias.rakuten.co.jp
 127.0.0.1 item.recommend.rakuten.co.jp
