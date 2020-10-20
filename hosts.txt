@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/10/19
-# block hosts: 31197 entry
+# last updated: 2020/10/20
+# block hosts: 31199 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -22950,6 +22950,9 @@ white yt3.ggpht.com
 127.0.0.1 jpn2.fukugan.com
 127.0.0.1 jpn3.fukugan.com
 
+# fukuishimbun.co.jp
+127.0.0.1 af.fukuishimbun.co.jp
+
 # full-edition.info
 127.0.0.1 www.full-edition.info
 
@@ -32108,6 +32111,9 @@ white yt3.ggpht.com
 127.0.0.1 cd.ladsp.com
 127.0.0.1 ladsp.com
 127.0.0.1 tag.ladsp.com
+
+# ladsp.jp
+127.0.0.1 ladsp.jp
 
 # ladycash.ru
 127.0.0.1 n.ladycash.ru
