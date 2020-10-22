@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/10/20
-# block hosts: 31199 entry
+# last updated: 2020/10/22
+# block hosts: 31200 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -17536,6 +17536,9 @@ white yt3.ggpht.com
 
 # digitalwow.ro
 127.0.0.1 ads.digitalwow.ro
+
+# digitiminimi.com
+127.0.0.1 digitiminimi.com
 
 # digitoday.com
 127.0.0.1 adserver.digitoday.com
