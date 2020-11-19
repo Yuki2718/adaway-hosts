@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/11/12
-# block hosts: 31197 entry
+# last updated: 2020/11/19
+# block hosts: 31200 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -4629,9 +4629,6 @@ white yt3.ggpht.com
 # adcome.cn
 127.0.0.1 api.adcome.cn
 
-# adcommerce.jp
-127.0.0.1 adcommerce.jp
-
 # adcomplete.com
 127.0.0.1 adcomplete.com
 127.0.0.1 www.adcomplete.com
@@ -5812,6 +5809,9 @@ white yt3.ggpht.com
 127.0.0.1 ad.adperium.com
 127.0.0.1 adperium.com
 127.0.0.1 www.adperium.com
+
+# adpicker.net
+127.0.0.1 adpicker.net
 
 # adpix.jp
 127.0.0.1 adpix.jp
@@ -8970,6 +8970,9 @@ white yt3.ggpht.com
 # anycracks.com
 127.0.0.1 anycracks.com
 
+# anymind360.com
+127.0.0.1 anymind360.com
+
 # anyofus.com
 127.0.0.1 anyofus.com
 
@@ -10283,9 +10286,6 @@ white yt3.ggpht.com
 
 # band4.info
 127.0.0.1 band4.info
-
-# bandoo.com
-127.0.0.1 bandoo.com
 
 # bangbros.com
 127.0.0.1 adsgen.bangbros.com
@@ -21166,6 +21166,9 @@ white yt3.ggpht.com
 # fadsims.com
 127.0.0.1 fadsims.com
 
+# failcube.ru
+127.0.0.1 failcube.ru
+
 # fairfax.com.au
 127.0.0.1 ads.fairfax.com.au
 127.0.0.1 direct.fairfax.com.au
@@ -24427,6 +24430,9 @@ white yt3.ggpht.com
 
 # goodses.com
 127.0.0.1 goodses.com
+
+# google-analyticals.com
+127.0.0.1 google-analyticals.com
 
 # google-reseach.com
 127.0.0.1 google-reseach.com
@@ -35450,6 +35456,9 @@ white yt3.ggpht.com
 # mh5.com
 127.0.0.1 ads.mh5.com
 
+# mhub.work
+127.0.0.1 mhub.work
+
 # miaminewtimes.com
 127.0.0.1 oascentral.miaminewtimes.com
 
@@ -43669,9 +43678,6 @@ white yt3.ggpht.com
 # rateit.com
 127.0.0.1 click.rateit.com
 
-# rationalan.pro
-127.0.0.1 rationalan.pro
-
 # ratix.no
 127.0.0.1 c.ratix.no
 
@@ -45283,6 +45289,9 @@ white yt3.ggpht.com
 
 # savelocity.com
 127.0.0.1 savelocity.com
+
+# savenexneon.xyz
+127.0.0.1 savenexneon.xyz
 
 # savingshound.com
 127.0.0.1 storage.savingshound.com
@@ -47677,9 +47686,6 @@ white yt3.ggpht.com
 # smutvidoftheday.com
 127.0.0.1 smutvidoftheday.com
 127.0.0.1 www.smutvidoftheday.com
-
-# smv.to
-127.0.0.1 candy.smv.to
 
 # snacktools.net
 127.0.0.1 stats.snacktools.net
@@ -56239,6 +56245,9 @@ white yt3.ggpht.com
 127.0.0.1 logos.x-traceur.com
 127.0.0.1 services.x-traceur.com
 127.0.0.1 x-traceur.com
+
+# x-value.net
+127.0.0.1 x-value.net
 
 # x-videoz.org
 127.0.0.1 x-videoz.org
