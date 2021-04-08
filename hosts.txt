@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2021/04/09
-# block hosts: 31276 entry
+# block hosts: 31362 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -657,12 +657,14 @@
 127.0.0.1 192com.112.2o7.net
 127.0.0.1 2o7.net
 127.0.0.1 3gupload.112.2o7.net
+127.0.0.1 accaglobalwebsite.112.2o7.net
 127.0.0.1 acckalaharinet.112.2o7.net
 127.0.0.1 acpmagazines.112.2o7.net
 127.0.0.1 actforvictory.112.2o7.net
 127.0.0.1 adbrite.122.2o7.net
 127.0.0.1 advertisementnl.112.2o7.net
 127.0.0.1 advertisingcom.122.2o7.net
+127.0.0.1 aeg.112.2o7.net
 127.0.0.1 aehistory.112.2o7.net
 127.0.0.1 aetv.112.2o7.net
 127.0.0.1 affilcrtopcolle.112.2o7.net
@@ -674,7 +676,14 @@
 127.0.0.1 agwebshots.112.2o7.net
 127.0.0.1 agyahooag.112.2o7.net
 127.0.0.1 albanytimesunion.122.2o7.net
+127.0.0.1 aldisaldiukprod.112.2o7.net
 127.0.0.1 allbritton.122.2o7.net
+127.0.0.1 amazdideprod.112.2o7.net
+127.0.0.1 amazdigbprod.112.2o7.net
+127.0.0.1 amazdijpprod.112.2o7.net
+127.0.0.1 amazditemplate.112.2o7.net
+127.0.0.1 amazdiusprod.112.2o7.net
+127.0.0.1 amazonhrhvhuat.112.2o7.net
 127.0.0.1 amdvtest.112.2o7.net
 127.0.0.1 americanexpress.122.2o7.net
 127.0.0.1 ameritradeamerivest.112.2o7.net
@@ -744,9 +753,12 @@
 127.0.0.1 apdigitalorgovn.112.2o7.net
 127.0.0.1 apnonline.112.2o7.net
 127.0.0.1 aporg.112.2o7.net
+127.0.0.1 applecmscoeappletraining.112.2o7.net
 127.0.0.1 appleglobal.112.2o7.net
 127.0.0.1 applestoreus.112.2o7.net
+127.0.0.1 asahibeer.112.2o7.net
 127.0.0.1 asahishimbun.122.2o7.net
+127.0.0.1 asknetag.112.2o7.net
 127.0.0.1 associatedcontent.112.2o7.net
 127.0.0.1 atlanticmedia.122.2o7.net
 127.0.0.1 aumo123usedcarscom.112.2o7.net
@@ -764,13 +776,19 @@
 127.0.0.1 autoscout24.112.2o7.net
 127.0.0.1 autoweb.112.2o7.net
 127.0.0.1 avgtechnologies.112.2o7.net
+127.0.0.1 avis.112.2o7.net
 127.0.0.1 avon.112.2o7.net
 127.0.0.1 awarenesstech.122.2o7.net
+127.0.0.1 axelspringerbooks.112.2o7.net
 127.0.0.1 babycentercom.112.2o7.net
 127.0.0.1 bankwest.112.2o7.net
 127.0.0.1 bbc.112.2o7.net
 127.0.0.1 bbcnewscouk.112.2o7.net
+127.0.0.1 bbva.112.2o7.net
+127.0.0.1 bcaeuprod.112.2o7.net
+127.0.0.1 belinc.112.2o7.net
 127.0.0.1 bellca.112.2o7.net
+127.0.0.1 bellcssp.112.2o7.net
 127.0.0.1 bellglobemediapublishing.122.2o7.net
 127.0.0.1 bellserviceeng.112.2o7.net
 127.0.0.1 bergenstidende.112.2o7.net
@@ -795,10 +813,16 @@
 127.0.0.1 boostmobile.112.2o7.net
 127.0.0.1 bosecom.112.2o7.net
 127.0.0.1 bostoncommonpress.112.2o7.net
+127.0.0.1 bpceceprod1609.112.2o7.net
 127.0.0.1 brightcove.112.2o7.net
 127.0.0.1 brighthouse.122.2o7.net
+127.0.0.1 brooks.112.2o7.net
 127.0.0.1 bruceclay.112.2o7.net
 127.0.0.1 btcom.112.2o7.net
+127.0.0.1 btibtigsonlineprd.112.2o7.net
+127.0.0.1 btiemail.112.2o7.net
+127.0.0.1 btigsgpmcom.112.2o7.net
+127.0.0.1 btigspresalessandt.112.2o7.net
 127.0.0.1 builderonlinecom.112.2o7.net
 127.0.0.1 businessweekpoc.112.2o7.net
 127.0.0.1 buycom.122.2o7.net
@@ -832,6 +856,8 @@
 127.0.0.1 cbspgatour.112.2o7.net
 127.0.0.1 cbsspln.112.2o7.net
 127.0.0.1 ccrgaviscom.112.2o7.net
+127.0.0.1 cdc.112.2o7.net
+127.0.0.1 cdcgov.112.2o7.net
 127.0.0.1 cengagecsinfosec.112.2o7.net
 127.0.0.1 cfrfa.112.2o7.net
 127.0.0.1 chacha.112.2o7.net
@@ -878,12 +904,14 @@
 127.0.0.1 cnnireport.122.2o7.net
 127.0.0.1 cnocanoecaprod.112.2o7.net
 127.0.0.1 cnoompprod.112.2o7.net
+127.0.0.1 commbiz.112.2o7.net
 127.0.0.1 computerworldcom.112.2o7.net
 127.0.0.1 condenast.112.2o7.net
 127.0.0.1 conpst.112.2o7.net
 127.0.0.1 cookingcom.112.2o7.net
 127.0.0.1 corelcom.112.2o7.net
 127.0.0.1 coreluk.112.2o7.net
+127.0.0.1 correoswebpro.112.2o7.net
 127.0.0.1 costargroup.112.2o7.net
 127.0.0.1 couhome.112.2o7.net
 127.0.0.1 couponchief.122.2o7.net
@@ -891,6 +919,7 @@
 127.0.0.1 coxnetmasterglobal.112.2o7.net
 127.0.0.1 coxpalmbeachpost.112.2o7.net
 127.0.0.1 cpusall.112.2o7.net
+127.0.0.1 crain.112.2o7.net
 127.0.0.1 creditcardscom.112.2o7.net
 127.0.0.1 csoonlinecom.112.2o7.net
 127.0.0.1 ctvcrimelibrary.112.2o7.net
@@ -902,12 +931,17 @@
 127.0.0.1 cxocomdev.112.2o7.net
 127.0.0.1 cyberdefender.122.2o7.net
 127.0.0.1 dailyheraldpaddockpublication.112.2o7.net
+127.0.0.1 daiwashoken.112.2o7.net
 127.0.0.1 dardenrestaurants.112.2o7.net
+127.0.0.1 dbgjunedkwebprod.112.2o7.net
 127.0.0.1 dealnews.122.2o7.net
 127.0.0.1 delightful.112.2o7.net
+127.0.0.1 deloittedpass.112.2o7.net
 127.0.0.1 denverpost.112.2o7.net
+127.0.0.1 deutschepostwpmdpagprod2.112.2o7.net
 127.0.0.1 dhsmarthouse.122.2o7.net
 127.0.0.1 dischannel.112.2o7.net
+127.0.0.1 discoverdinersclubglobalhomedev.112.2o7.net
 127.0.0.1 divx.112.2o7.net
 127.0.0.1 dixonscouk.112.2o7.net
 127.0.0.1 dmvguidecom.112.2o7.net
@@ -917,8 +951,10 @@
 127.0.0.1 dotster.112.2o7.net
 127.0.0.1 dotsterdomaincom.112.2o7.net
 127.0.0.1 dotsterdotsteraug08.112.2o7.net
+127.0.0.1 dpagcoagcoglobal.112.2o7.net
 127.0.0.1 dreamhome.112.2o7.net
 127.0.0.1 dreammates.112.2o7.net
+127.0.0.1 dummy.112.2o7.net
 127.0.0.1 eaeacom.112.2o7.net
 127.0.0.1 eagamesuk.112.2o7.net
 127.0.0.1 eaglemiles.112.2o7.net
@@ -926,7 +962,9 @@
 127.0.0.1 earthlink.122.2o7.net
 127.0.0.1 earthlinkcom.122.2o7.net
 127.0.0.1 earthlnkpsplive.122.2o7.net
+127.0.0.1 eboks.112.2o7.net
 127.0.0.1 ectestlampsplus1.112.2o7.net
+127.0.0.1 ediblearrangementsusprod.112.2o7.net
 127.0.0.1 edietsmain.112.2o7.net
 127.0.0.1 edmundscom.112.2o7.net
 127.0.0.1 edsa.122.2o7.net
@@ -977,6 +1015,7 @@
 127.0.0.1 f2ntheage.112.2o7.net
 127.0.0.1 faceoff.112.2o7.net
 127.0.0.1 factiva.122.2o7.net
+127.0.0.1 fanatics.112.2o7.net
 127.0.0.1 farecastcom.122.2o7.net
 127.0.0.1 fbfredericksburgcom.112.2o7.net
 127.0.0.1 fbkmnr.112.2o7.net
@@ -988,12 +1027,17 @@
 127.0.0.1 foxidol.112.2o7.net
 127.0.0.1 foxinteractivemedia.122.2o7.net
 127.0.0.1 foxsimpsons.112.2o7.net
+127.0.0.1 frstlabsglobalprod.112.2o7.net
 127.0.0.1 fsecfsecdev2.122.2o7.net
+127.0.0.1 fujielectricholdings.112.2o7.net
 127.0.0.1 furniturecom.112.2o7.net
 127.0.0.1 furnlevitz.112.2o7.net
+127.0.0.1 gannett.112.2o7.net
 127.0.0.1 gap.112.2o7.net
 127.0.0.1 gatehousemedia.122.2o7.net
 127.0.0.1 gateway.122.2o7.net
+127.0.0.1 gedigitalmarketingprod.112.2o7.net
+127.0.0.1 generalmotorscorporation.112.2o7.net
 127.0.0.1 genetree.112.2o7.net
 127.0.0.1 georgewbush.112.2o7.net
 127.0.0.1 georgewbushcom.112.2o7.net
@@ -1005,6 +1049,7 @@
 127.0.0.1 gmgmacfs.112.2o7.net
 127.0.0.1 gmgmacmortgage.112.2o7.net
 127.0.0.1 gmgoodwrenchdmaprod.112.2o7.net
+127.0.0.1 gmointernet.112.2o7.net
 127.0.0.1 gntbcstglobal.112.2o7.net
 127.0.0.1 gntbcstkare.112.2o7.net
 127.0.0.1 gntbcstksdk.112.2o7.net
@@ -1149,9 +1194,11 @@
 127.0.0.1 hotelscom.122.2o7.net
 127.0.0.1 hpglobal.112.2o7.net
 127.0.0.1 hphqglobal.112.2o7.net
+127.0.0.1 hsbcrbwmuk.112.2o7.net
 127.0.0.1 hswmedia.122.2o7.net
 127.0.0.1 hulu.112.2o7.net
 127.0.0.1 huludev.112.2o7.net
+127.0.0.1 hyundaicard.112.2o7.net
 127.0.0.1 ibibo.112.2o7.net
 127.0.0.1 ice.112.2o7.net
 127.0.0.1 idgenterprise.112.2o7.net
@@ -1197,10 +1244,12 @@
 127.0.0.1 jrcdelcotimescom.122.2o7.net
 127.0.0.1 jrcom.112.2o7.net
 127.0.0.1 kaboose.112.2o7.net
+127.0.0.1 kakakucom.112.2o7.net
 127.0.0.1 kaspersky.122.2o7.net
 127.0.0.1 kasperthreatpostprod.112.2o7.net
 127.0.0.1 kbbmain.112.2o7.net
 127.0.0.1 kelleybluebook.112.2o7.net
+127.0.0.1 kelloggprod.112.2o7.net
 127.0.0.1 kiplinger.112.2o7.net
 127.0.0.1 krafteurope.112.2o7.net
 127.0.0.1 lab88inc.112.2o7.net
@@ -1215,10 +1264,13 @@
 127.0.0.1 ldsfch.112.2o7.net
 127.0.0.1 leaitworldprod.112.2o7.net
 127.0.0.1 leeenterprises.112.2o7.net
+127.0.0.1 leroymerlin.112.2o7.net
 127.0.0.1 leveragemarketing.112.2o7.net
 127.0.0.1 livedealcom.112.2o7.net
 127.0.0.1 livenation.122.2o7.net
+127.0.0.1 logitechlogitechglobal.112.2o7.net
 127.0.0.1 mailtribunecom.112.2o7.net
+127.0.0.1 manugbpm.112.2o7.net
 127.0.0.1 mapscom2.112.2o7.net
 127.0.0.1 marinermarketing.112.2o7.net
 127.0.0.1 marketlive.122.2o7.net
@@ -1228,6 +1280,7 @@
 127.0.0.1 maxim.122.2o7.net
 127.0.0.1 maxvr.112.2o7.net
 127.0.0.1 mcclatchy.112.2o7.net
+127.0.0.1 mckinseyglobalnewsitecoreprod.112.2o7.net
 127.0.0.1 mdamarillo.112.2o7.net
 127.0.0.1 mdjacksonville.112.2o7.net
 127.0.0.1 mdpparents.112.2o7.net
@@ -1415,10 +1468,12 @@
 127.0.0.1 nortelcom.112.2o7.net
 127.0.0.1 northjersey.112.2o7.net
 127.0.0.1 northwestairlines.112.2o7.net
+127.0.0.1 norwegiancruiseline.112.2o7.net
 127.0.0.1 novell.112.2o7.net
 127.0.0.1 novellcom.112.2o7.net
 127.0.0.1 nsdldlese.112.2o7.net
 127.0.0.1 nttcommunications.122.2o7.net
+127.0.0.1 nutanixprod.112.2o7.net
 127.0.0.1 nymcom.112.2o7.net
 127.0.0.1 nysun.com.112.2o7.net
 127.0.0.1 nytbglobe.112.2o7.net
@@ -1445,6 +1500,7 @@
 127.0.0.1 nyttechnology.112.2o7.net
 127.0.0.1 oberonincredig.112.2o7.net
 127.0.0.1 oklahomadepartmentofcommerce.112.2o7.net
+127.0.0.1 omazeuceeazruprod.112.2o7.net
 127.0.0.1 omniscbt.112.2o7.net
 127.0.0.1 omniture.112.2o7.net
 127.0.0.1 omniturebanners.112.2o7.net
@@ -1455,6 +1511,7 @@
 127.0.0.1 onlineindigoca.112.2o7.net
 127.0.0.1 oodpreprod.122.2o7.net
 127.0.0.1 optimost.112.2o7.net
+127.0.0.1 oracle.112.2o7.net
 127.0.0.1 oraclecom.112.2o7.net
 127.0.0.1 oracleglobal.112.2o7.net
 127.0.0.1 osiristrading.112.2o7.net
@@ -1465,6 +1522,7 @@
 127.0.0.1 overturecom.112.2o7.net
 127.0.0.1 overturecomvista.112.2o7.net
 127.0.0.1 pandasoftware.112.2o7.net
+127.0.0.1 panwprod.112.2o7.net
 127.0.0.1 partnercrowdscience.sbx1.2o7.net
 127.0.0.1 partygaming.122.2o7.net
 127.0.0.1 partygamingglobal.122.2o7.net
@@ -1525,10 +1583,13 @@
 127.0.0.1 rmgroyalmailcom.112.2o7.net
 127.0.0.1 roxio.112.2o7.net
 127.0.0.1 roxionewroxio2006.112.2o7.net
+127.0.0.1 royalmail.112.2o7.net
 127.0.0.1 rrpartners.122.2o7.net
+127.0.0.1 rubrikincproduction.112.2o7.net
 127.0.0.1 sa.aol.com.122.2o7.net
 127.0.0.1 safaribooks.112.2o7.net
 127.0.0.1 saksfifthavenue.122.2o7.net
+127.0.0.1 samsung-com.112.2o7.net
 127.0.0.1 santacruzsentinelcom.112.2o7.net
 127.0.0.1 saxobutlereagle.122.2o7.net
 127.0.0.1 saxoconcordmonitor.122.2o7.net
@@ -1548,6 +1609,7 @@
 127.0.0.1 saxowenworld.122.2o7.net
 127.0.0.1 saxowesterncommunications.122.2o7.net
 127.0.0.1 sbsblukgov.112.2o7.net
+127.0.0.1 scania.112.2o7.net
 127.0.0.1 schaeffers.112.2o7.net
 127.0.0.1 sciamcom.112.2o7.net
 127.0.0.1 sciamglobal.112.2o7.net
@@ -1564,6 +1626,7 @@
 127.0.0.1 sears.112.2o7.net
 127.0.0.1 searscom.112.2o7.net
 127.0.0.1 searskmartcom.112.2o7.net
+127.0.0.1 sebtradingstationtest.112.2o7.net
 127.0.0.1 sento.122.2o7.net
 127.0.0.1 sevenoneintermedia.112.2o7.net
 127.0.0.1 shawnewspapers.112.2o7.net
@@ -1576,19 +1639,24 @@
 127.0.0.1 smokingeverywhere.122.2o7.net
 127.0.0.1 smokinggun.122.2o7.net
 127.0.0.1 smpopmech.112.2o7.net
+127.0.0.1 smugmugincflickrprodudction.112.2o7.net
 127.0.0.1 smwww.112.2o7.net
 127.0.0.1 snagajob.122.2o7.net
 127.0.0.1 snapfish.112.2o7.net
 127.0.0.1 softonic.112.2o7.net
+127.0.0.1 solarwindsglobalreportingsuite.112.2o7.net
 127.0.0.1 sonychina.112.2o7.net
 127.0.0.1 sonycorporate.112.2o7.net
+127.0.0.1 sonygs.112.2o7.net
 127.0.0.1 sonyscei.112.2o7.net
+127.0.0.1 sonytaiwan.112.2o7.net
 127.0.0.1 southcoasttodaycom.112.2o7.net
 127.0.0.1 spamfighter.112.2o7.net
 127.0.0.1 sparknetworks.112.2o7.net
 127.0.0.1 sportingnews.122.2o7.net
 127.0.0.1 sprintglobal.112.2o7.net
 127.0.0.1 stampscom.112.2o7.net
+127.0.0.1 startspublishing.112.2o7.net
 127.0.0.1 starz.122.2o7.net
 127.0.0.1 stepstone.112.2o7.net
 127.0.0.1 stpetersburgtimes.122.2o7.net
@@ -1604,13 +1672,16 @@
 127.0.0.1 survey.112.2o7.net
 127.0.0.1 survey.122.2o7.net
 127.0.0.1 svd.112.2o7.net
+127.0.0.1 sviaparamountintlweb.112.2o7.net
 127.0.0.1 swsoft.122.2o7.net
 127.0.0.1 sympmsnglobalen.112.2o7.net
 127.0.0.1 sympmsnmusic.112.2o7.net
 127.0.0.1 sympmsnsports.112.2o7.net
+127.0.0.1 synopsyssolvnetplusprod.112.2o7.net
 127.0.0.1 tangomedia.112.2o7.net
 127.0.0.1 tbstv.112.2o7.net
 127.0.0.1 tbsveryfunnyads.112.2o7.net
+127.0.0.1 tcsbroker.112.2o7.net
 127.0.0.1 techreview.112.2o7.net
 127.0.0.1 tel3adv.112.2o7.net
 127.0.0.1 tele2nl.112.2o7.net
@@ -1646,7 +1717,9 @@
 127.0.0.1 timespctenbest.122.2o7.net
 127.0.0.1 timeteenpeople.122.2o7.net
 127.0.0.1 tirerackcom.112.2o7.net
+127.0.0.1 titimbusinessprod.112.2o7.net
 127.0.0.1 tjx.112.2o7.net
+127.0.0.1 tjxhomesenseusdev.112.2o7.net
 127.0.0.1 tmslexus.112.2o7.net
 127.0.0.1 tmstoyota.112.2o7.net
 127.0.0.1 tnttv.112.2o7.net
@@ -1671,7 +1744,9 @@
 127.0.0.1 usun.112.2o7.net
 127.0.0.1 vcomdeepdiscount.112.2o7.net
 127.0.0.1 vcommerce.112.2o7.net
+127.0.0.1 veeamgeneral.112.2o7.net
 127.0.0.1 verio.122.2o7.net
+127.0.0.1 verisigninc.112.2o7.net
 127.0.0.1 verisignwildcard.112.2o7.net
 127.0.0.1 verisonwildcard.112.2o7.net
 127.0.0.1 vermontteddybear.112.2o7.net
@@ -1681,10 +1756,12 @@
 127.0.0.1 viaatom.112.2o7.net
 127.0.0.1 viabestweekever.112.2o7.net
 127.0.0.1 viacomedycentral.112.2o7.net
+127.0.0.1 viacomedycentralaustralia.112.2o7.net
 127.0.0.1 viacomedycentralrl.112.2o7.net
 127.0.0.1 viagametrailers.112.2o7.net
 127.0.0.1 vialogoonline.112.2o7.net
 127.0.0.1 vialogorollup.112.2o7.net
+127.0.0.1 viamonkeyquestclient.112.2o7.net
 127.0.0.1 viamtv.112.2o7.net
 127.0.0.1 viamtvcom.112.2o7.net
 127.0.0.1 viamtvnvideo.112.2o7.net
@@ -1692,6 +1769,7 @@
 127.0.0.1 viamtvtr3s.112.2o7.net
 127.0.0.1 viamtvuk.112.2o7.net
 127.0.0.1 viamtvukdev.112.2o7.net
+127.0.0.1 vianickelodeonintl.112.2o7.net
 127.0.0.1 viarnd.112.2o7.net
 127.0.0.1 viasatsatelliteservices.112.2o7.net
 127.0.0.1 viashockwave.112.2o7.net
@@ -1705,6 +1783,8 @@
 127.0.0.1 virginmedia.112.2o7.net
 127.0.0.1 virginmobile.122.2o7.net
 127.0.0.1 vitacost.122.2o7.net
+127.0.0.1 vitamixca.112.2o7.net
+127.0.0.1 vmlnavycomprod.112.2o7.net
 127.0.0.1 vodafonegroup.122.2o7.net
 127.0.0.1 volkswagen.122.2o7.net
 127.0.0.1 vpmc.122.2o7.net
@@ -1719,6 +1799,7 @@
 127.0.0.1 wbprocurement.112.2o7.net
 127.0.0.1 wcastrprod.122.2o7.net
 127.0.0.1 webroot.112.2o7.net
+127.0.0.1 westcongroupprod.112.2o7.net
 127.0.0.1 westwickfarrow.122.2o7.net
 127.0.0.1 whitecastle.122.2o7.net
 127.0.0.1 wileypublishing.112.2o7.net
@@ -1726,10 +1807,13 @@
 127.0.0.1 wineenthusiastcom.112.2o7.net
 127.0.0.1 winmpmain.112.2o7.net
 127.0.0.1 wissende.122.2o7.net
+127.0.0.1 wkmedovidsp2017.112.2o7.net
 127.0.0.1 wlaptoplogic.122.2o7.net
+127.0.0.1 wlgore.112.2o7.net
 127.0.0.1 worldnowboston.112.2o7.net
 127.0.0.1 wpni.112.2o7.net
 127.0.0.1 wrigley.122.2o7.net
+127.0.0.1 wtfhcpprd.112.2o7.net
 127.0.0.1 wwatchcomusa.112.2o7.net
 127.0.0.1 wweconsumer.112.2o7.net
 127.0.0.1 wwecorp2.112.2o7.net
@@ -1740,6 +1824,7 @@
 127.0.0.1 xhealthmobiltools.112.2o7.net
 127.0.0.1 yamaha.122.2o7.net
 127.0.0.1 yellcom.122.2o7.net
+127.0.0.1 yellusnewcmshibuprod.112.2o7.net
 127.0.0.1 yrkdsp.112.2o7.net
 127.0.0.1 yrkeve.112.2o7.net
 127.0.0.1 yukoyuko.112.2o7.net
@@ -43808,6 +43893,9 @@
 
 # readwriteweb.com
 127.0.0.1 d.ads.readwriteweb.com
+
+# reajyu.net
+127.0.0.1 reajyu.net
 
 # real-marketing.com
 127.0.0.1 www.real-marketing.com
