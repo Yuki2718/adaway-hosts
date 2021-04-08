@@ -5,8 +5,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2021/04/07
-# block hosts: 31234 entry
+# last updated: 2021/04/08
+# block hosts: 31276 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -18694,6 +18694,9 @@ white yt3.ggpht.com
 # drf.com
 127.0.0.1 ads.drf.com
 
+# driftt.com
+127.0.0.1 js.driftt.com
+
 # drivelinemedia.com
 127.0.0.1 ads2.drivelinemedia.com
 127.0.0.1 drivelinemedia.com
@@ -32595,6 +32598,8 @@ white yt3.ggpht.com
 
 # liftoff.io
 127.0.0.1 click.liftoff.io
+127.0.0.1 experiment-cdn.liftoff.io
+127.0.0.1 liftoff.io
 
 # ligatus.com
 127.0.0.1 a.ligatus.com
@@ -47804,14 +47809,61 @@ white yt3.ggpht.com
 127.0.0.1 www.socalmovies.com
 
 # socdm.com
+127.0.0.1 abematv.socdm.com
+127.0.0.1 adc.auone.socdm.com
+127.0.0.1 adfuri.socdm.com
 127.0.0.1 adgen.socdm.com
+127.0.0.1 admax.socdm.com
 127.0.0.1 adstir.socdm.com
+127.0.0.1 aol.socdm.com
+127.0.0.1 apc.socdm.com
+127.0.0.1 audr.iida.socdm.com
+127.0.0.1 bid.dr.socdm.com
+127.0.0.1 bid.socdm.com
+127.0.0.1 bid2.dr.socdm.com
+127.0.0.1 bid3.dr.socdm.com
+127.0.0.1 biddr.socdm.com
+127.0.0.1 bitisle1.iida.socdm.com
+127.0.0.1 bitisle2.iida.socdm.com
+127.0.0.1 bitisle3.iida.socdm.com
+127.0.0.1 bitisle4.socdm.com
+127.0.0.1 cman.socdm.com
+127.0.0.1 compass.socdm.com
 127.0.0.1 d.socdm.com
+127.0.0.1 df.socdm.com
+127.0.0.1 dr1.a.socdm.com
+127.0.0.1 dr3.socdm.com
+127.0.0.1 frtn.socdm.com
+127.0.0.1 gdn.socdm.com
+127.0.0.1 gmo.socdm.com
+127.0.0.1 gree.socdm.com
+127.0.0.1 i.pa-1.socdm.com
 127.0.0.1 i.socdm.com
+127.0.0.1 imgcn.socdm.com
+127.0.0.1 imobile.socdm.com
+127.0.0.1 kauli.socdm.com
+127.0.0.1 logly.socdm.com
+127.0.0.1 medibaad.socdm.com
+127.0.0.1 nazs.socdm.com
 127.0.0.1 oo.socdm.com
+127.0.0.1 openx.socdm.com
+127.0.0.1 pa-1.socdm.com
+127.0.0.1 re.socdm.com
+127.0.0.1 rel.socdm.com
+127.0.0.1 rubicon.socdm.com
+127.0.0.1 rwrd.socdm.com
 127.0.0.1 socdm.com
+127.0.0.1 sr.socdm.com
 127.0.0.1 ssl.socdm.com
+127.0.0.1 suvt.socdm.com
+127.0.0.1 sync.socdm.com
+127.0.0.1 tg.dr.socdm.com
 127.0.0.1 tg.socdm.com
+127.0.0.1 tg.test.socdm.com
+127.0.0.1 tg2.dr.socdm.com
+127.0.0.1 tg3.dr.socdm.com
+127.0.0.1 xrost.socdm.com
+127.0.0.1 yieldone.socdm.com
 
 # socialbakers.com
 127.0.0.1 ads.socialbakers.com
@@ -53281,15 +53333,7 @@ white yt3.ggpht.com
 
 # unity3d.com
 127.0.0.1 adserver.unityads.unity3d.com
-127.0.0.1 auction.unityads.unity3d.com
-127.0.0.1 auiopt.unityads.unity3d.com
 127.0.0.1 cdn-akamai.unityads.unity3d.com
-127.0.0.1 cdn-creatives-akamai-prd.unityads.unity3d.com
-127.0.0.1 cdn-store-icons-akamai-prd.unityads.unity3d.com
-127.0.0.1 config.unityads.unity3d.com
-127.0.0.1 publisher-config.unityads.unity3d.com
-127.0.0.1 publisher-event.unityads.unity3d.com
-127.0.0.1 tracking.prd.mz.internal.unity3d.com
 
 # universesearches.com
 127.0.0.1 universesearches.com
