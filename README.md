@@ -1,6 +1,6 @@
 # 日本環境向け AdAway 用 hosts :no_entry_sign:
 
-![ホワイトリスト数](https://img.shields.io/badge/allow-41-brightgreen)
+![ホワイトリスト数](https://img.shields.io/badge/allow-42-brightgreen)
 ![ブロック数](https://img.shields.io/badge/block-31360-red)
 
 AdAway 用の hosts ファイルです。  
