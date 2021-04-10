@@ -5,9 +5,10 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2021/04/09
-# allow hosts: 40 entry
+# last updated: 2021/04/11
+# allow hosts: 41 entry
 
+aan.amazon.co.jp
 aax-fe.amazon-adsystem.com
 ad-api-v01.uliza.jp
 ad.dmm.com
