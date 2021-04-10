@@ -5,8 +5,8 @@
 #         https://logroid.blogspot.com/
 #         https://twitter.com/logroid
 #
-# last updated: 2021/04/09
-# block hosts: 31362 entry
+# last updated: 2021/04/11
+# block hosts: 31363 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -47818,6 +47818,9 @@
 # smutvidoftheday.com
 127.0.0.1 smutvidoftheday.com
 127.0.0.1 www.smutvidoftheday.com
+
+# smv.to
+127.0.0.1 smv.to
 
 # snacktools.net
 127.0.0.1 stats.snacktools.net
