@@ -8,7 +8,6 @@
 # last updated: 2021/04/11
 # allow hosts: 41 entry
 
-aan.amazon.co.jp
 aax-fe.amazon-adsystem.com
 ad-api-v01.uliza.jp
 ad.dmm.com
@@ -22,6 +21,7 @@ edge-chat.facebook.com
 facebook.com
 fbcdn.net
 fbsbx.com
+fls-fe.amazon.co.jp
 grp10.ias.rakuten.co.jp
 hb.afl.rakuten.co.jp
 imgstat.ameba.jp

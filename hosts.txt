@@ -6,7 +6,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2021/04/11
-# block hosts: 31363 entry
+# block hosts: 31360 entry
 
 # 000webhost.com
 127.0.0.1 err.000webhost.com
@@ -18732,9 +18732,6 @@
 # drf.com
 127.0.0.1 ads.drf.com
 
-# driftt.com
-127.0.0.1 js.driftt.com
-
 # drivelinemedia.com
 127.0.0.1 ads2.drivelinemedia.com
 127.0.0.1 drivelinemedia.com
@@ -32636,8 +32633,6 @@
 
 # liftoff.io
 127.0.0.1 click.liftoff.io
-127.0.0.1 experiment-cdn.liftoff.io
-127.0.0.1 liftoff.io
 
 # ligatus.com
 127.0.0.1 a.ligatus.com
